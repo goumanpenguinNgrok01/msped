@@ -1,0 +1,17 @@
+{
+	id: "d3640197-d2fd-3cfa-953c-bad862f48693"
+	type: "player"
+	player_name: "J4O3"
+	ranks: {
+		d3640197-d2fd-3cfa-953c-bad862f48693: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "J4O3"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7159FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d3640197d2fd3cfa953cbad862f48693"
+	name: "J4O3#d3640197"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "697ac2049ac639969215037ca08c1786"
+	name: "G4R3N#697ac204"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
