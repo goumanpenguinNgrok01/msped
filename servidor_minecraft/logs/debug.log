@@ -494,3 +494,5 @@
 [26Jan2025 19:27:43.422] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
 [26Jan2025 19:27:43.474] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: G4R3N (/127.64.61.21:36597) lost connection: Disconnected
 [26Jan2025 19:32:43.395] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[26Jan2025 19:37:43.385] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[26Jan2025 19:42:43.390] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
