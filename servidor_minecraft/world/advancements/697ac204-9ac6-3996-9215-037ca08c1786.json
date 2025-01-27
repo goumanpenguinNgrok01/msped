@@ -2860,6 +2860,7 @@
     "criteria": {
       "dune_beach": "2025-01-26 21:53:05 +0000",
       "woodland": "2025-01-26 21:56:06 +0000",
+      "floodplain": "2025-01-27 02:26:21 +0000",
       "rainforest": "2025-01-26 21:56:42 +0000",
       "redwood_forest": "2025-01-26 21:18:09 +0000",
       "scrubland": "2025-01-26 21:55:32 +0000",
@@ -3230,6 +3231,7 @@
     "criteria": {
       "obtain_persim_berry": "2025-01-26 21:51:09 +0000",
       "obtain_coba_berry": "2025-01-26 21:57:24 +0000",
+      "obtain_cheri_berry": "2025-01-27 02:24:26 +0000",
       "obtain_oran_berry": "2025-01-26 20:58:09 +0000",
       "obtain_razz_berry": "2025-01-26 21:18:13 +0000"
     },
@@ -4759,29 +4761,29 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-01-26 21:57:50 +0000"
-    },
-    "done": true
-  },
   "cobblemon:obtain_revival_herb": {
     "criteria": {
       "check_inv": "2025-01-26 21:56:56 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
+  "cobblemon:recipes/consumables/heal_powder": {
     "criteria": {
-      "has_any_ingredient": "2025-01-26 21:59:08 +0000"
+      "has_herb": "2025-01-26 21:56:56 +0000"
     },
     "done": true
   },
-  "cobblemon:craft_base_balls": {
+  "cobblemon:recipes/consumables/revive": {
     "criteria": {
-      "roseate_ball": "2025-01-26 21:58:57 +0000"
+      "has_herb": "2025-01-26 21:56:56 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-26 21:57:50 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
@@ -4819,11 +4821,29 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-01-26 21:57:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "roseate_ball": "2025-01-26 21:58:57 +0000"
+    },
+    "done": false
+  },
   "cobblemon:recipes/misc/roseate_rod": {
     "criteria": {
       "has_ball": "2025-01-26 21:58:57 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-26 21:59:08 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
@@ -4831,27 +4851,45 @@
     },
     "done": true
   },
-  "cobblemon:recipes/consumables/heal_powder": {
-    "criteria": {
-      "has_herb": "2025-01-26 21:56:56 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/revive": {
-    "criteria": {
-      "has_herb": "2025-01-26 21:56:56 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-01-26 21:57:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-26 21:59:08 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/apricorn_bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 02:22:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-27 02:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-01-27 02:22:43 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/leek_and_potato_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-27 02:22:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-27 02:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-27 02:22:44 +0000"
     },
     "done": true
   },

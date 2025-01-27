@@ -1225,3 +1225,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [27Jan2025 02:17:10.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: G4R3N[/127.39.187.230:33639] logged in with entity id 1903 at (-427.467400197706, 80.0, -182.10692382199727)
 [27Jan2025 02:17:10.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N joined the game
 [27Jan2025 02:17:10.381] [Server thread/INFO] [Radical Cobblemon Trainers/]: Registered trainer player: G4R3N
+[27Jan2025 02:21:53.470] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4d2f8389-6c6a-4578-a32c-45b3a07f08d6
+[27Jan2025 02:21:53.471] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4d2f8389-6c6a-4578-a32c-45b3a07f08d6
+[27Jan2025 02:22:59.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has made the advancement [A New Friend!]
+[27Jan2025 02:26:03.930] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2ddefd73-90f6-4d1c-a59a-4a61148ea377
+[27Jan2025 02:26:03.931] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2ddefd73-90f6-4d1c-a59a-4a61148ea377
+[27Jan2025 02:27:57.621] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f17aacc0-d658-4f72-a9e6-4dd0c7d63c14
+[27Jan2025 02:27:57.622] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f17aacc0-d658-4f72-a9e6-4dd0c7d63c14
+[27Jan2025 02:28:38.319] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[27Jan2025 02:28:38.329] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=225, hostName=, port=221, intention=TRANSFER]"
+[27Jan2025 02:28:38.329] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 137 extra bytes: 
+[27Jan2025 02:28:38.331] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#@WOw YjZ+.hjk//8=0+9gf$#,3@<('25"
+]
