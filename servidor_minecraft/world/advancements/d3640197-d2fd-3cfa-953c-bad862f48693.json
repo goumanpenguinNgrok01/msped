@@ -2858,7 +2858,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "dune_beach": "2025-01-27 02:14:38 +0000",
+      "woodland": "2025-01-26 21:57:59 +0000",
       "redwood_forest": "2025-01-26 21:22:26 +0000",
+      "scrubland": "2025-01-26 21:59:49 +0000",
+      "pasture": "2025-01-27 02:15:24 +0000",
       "prairie": "2025-01-26 20:41:33 +0000"
     },
     "done": false
@@ -2871,9 +2875,10 @@
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-01-27 02:13:23 +0000",
       "has_black_apricorn": "2025-01-26 20:45:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
@@ -2916,10 +2921,12 @@
   },
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-01-27 02:13:23 +0000",
       "has_black_apricorn": "2025-01-26 20:45:25 +0000",
+      "has_white_apricorn": "2025-01-26 21:56:32 +0000",
       "has_yellow_apricorn": "2025-01-26 20:48:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/dusk_ball": {
     "criteria": {
@@ -2936,9 +2943,11 @@
   },
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
-      "has_black_apricorn": "2025-01-26 20:45:25 +0000"
+      "has_blue_apricorn": "2025-01-27 02:13:23 +0000",
+      "has_black_apricorn": "2025-01-26 20:45:25 +0000",
+      "has_white_apricorn": "2025-01-26 21:56:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
@@ -2949,7 +2958,8 @@
   },
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
-      "has_black_apricorn": "2025-01-26 20:45:25 +0000"
+      "has_black_apricorn": "2025-01-26 20:45:25 +0000",
+      "has_white_apricorn": "2025-01-26 21:56:32 +0000"
     },
     "done": false
   },
@@ -2979,9 +2989,10 @@
   },
   "cobblemon:recipes/balls/quick_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-01-27 02:13:23 +0000",
       "has_yellow_apricorn": "2025-01-26 20:48:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/agriculture/yellow_apricorn_smelt_to_dye": {
     "criteria": {
@@ -2991,12 +3002,14 @@
   },
   "cobblemon:recipes/balls/safari_ball": {
     "criteria": {
+      "has_white_apricorn": "2025-01-26 21:56:32 +0000",
       "has_yellow_apricorn": "2025-01-26 20:48:27 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/balls/fast_ball": {
     "criteria": {
+      "has_white_apricorn": "2025-01-26 21:56:32 +0000",
       "has_yellow_apricorn": "2025-01-26 20:48:27 +0000"
     },
     "done": false
@@ -3219,7 +3232,8 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
-      "obtain_oran_berry": "2025-01-26 21:01:43 +0000"
+      "obtain_oran_berry": "2025-01-26 21:01:43 +0000",
+      "obtain_chesto_berry": "2025-01-26 22:02:12 +0000"
     },
     "done": false
   },
@@ -3246,6 +3260,7 @@
       "mutton": "2025-01-26 21:07:21 +0000",
       "apple": "2025-01-26 21:30:31 +0000",
       "honey_bottle": "2025-01-26 21:23:00 +0000",
+      "cooked_mutton": "2025-01-26 21:56:53 +0000",
       "beef": "2025-01-26 21:02:39 +0000"
     },
     "done": false
@@ -4002,21 +4017,24 @@
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-01-27 02:13:23 +0000",
       "has_pink_apricorn": "2025-01-26 21:09:45 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
+      "has_white_apricorn": "2025-01-26 21:56:32 +0000",
       "has_pink_apricorn": "2025-01-26 21:09:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/love_ball": {
     "criteria": {
+      "has_white_apricorn": "2025-01-26 21:56:32 +0000",
       "has_pink_apricorn": "2025-01-26 21:09:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/roseate_ball": {
     "criteria": {
@@ -4269,6 +4287,200 @@
       "has_mutton": "2025-01-26 21:49:28 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-26 21:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-26 21:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-26 21:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-26 21:56:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/dive_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-01-27 02:13:23 +0000",
+      "has_white_apricorn": "2025-01-26 21:56:32 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/premier_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-26 21:56:32 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/white_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-01-26 21:56:32 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_white": {
+    "criteria": {
+      "has_apricorn": "2025-01-26 21:56:32 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/sport_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-26 21:56:32 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:harvest_apricorn_seed": {
+    "criteria": {
+      "check_inv": "2025-01-26 21:56:36 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-26 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-26 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-26 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-26 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-26 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-26 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-26 21:58:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-26 21:58:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-26 21:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-26 21:58:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-26 21:58:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-26 21:58:09 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/nest_rod": {
+    "criteria": {
+      "has_ball": "2025-01-26 21:58:23 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:craft_all_balls": {
+    "criteria": {
+      "roseate_ball": "2025-01-26 21:59:17 +0000",
+      "nest_ball": "2025-01-26 21:58:23 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:craft_poke_ball": {
+    "criteria": {
+      "requirement": "2025-01-26 21:58:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_base_balls": {
+    "criteria": {
+      "roseate_ball": "2025-01-26 21:59:17 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/misc/roseate_rod": {
+    "criteria": {
+      "has_ball": "2025-01-26 21:59:17 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/misc/pokedex_blue": {
+    "criteria": {
+      "has_apricorn": "2025-01-27 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/azure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-01-27 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/lure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-01-27 02:13:23 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-01-27 02:13:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/great_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-01-27 02:13:23 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
