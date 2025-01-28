@@ -1227,3 +1227,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [28Jan2025 02:34:46.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J4O3[/127.190.183.21:42385] logged in with entity id 1048 at (-1144.6244635946016, 64.0, 58.72135895616448)
 [28Jan2025 02:34:46.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 joined the game
 [28Jan2025 02:34:46.422] [Server thread/INFO] [Radical Cobblemon Trainers/]: Registered trainer player: J4O3
+[28Jan2025 02:42:13.763] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[28Jan2025 02:42:13.774] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=213, hostName=, port=209, intention=TRANSFER]"
+[28Jan2025 02:42:13.774] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 112 extra bytes: 
+[28Jan2025 02:42:13.776] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "j0EH6NG8,0+/$(k#'g93=<5/p25.ip.gl."
+]
