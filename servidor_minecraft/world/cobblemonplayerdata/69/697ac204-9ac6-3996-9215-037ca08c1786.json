@@ -8,23 +8,48 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 4,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 4,
+    "totalBattleVictoryCount": 11,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 11,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 0,
+    "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
+    "totalTypeCaptureCounts": {
+      "ground": 1,
+      "rock": 2,
+      "fighting": 1,
+      "poison": 1,
+      "bug": 1,
+      "steel": 1
+    },
     "totalDefeatedCounts": {
       "cobblemon:combee": 1,
       "cobblemon:vivillon": 1,
       "cobblemon:lechonk": 1,
-      "cobblemon:slakoth": 1
+      "cobblemon:slakoth": 1,
+      "cobblemon:ledyba": 2,
+      "cobblemon:spinarak": 1,
+      "cobblemon:shinx": 1
     },
-    "aspectsCollected": {}
+    "aspectsCollected": {
+      "cobblemon:rhyhorn": [
+        "male"
+      ],
+      "cobblemon:sneasel": [
+        "female",
+        "hisuian"
+      ],
+      "cobblemon:caterpie": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:aron": [
+        "male"
+      ]
+    }
   }
 }
