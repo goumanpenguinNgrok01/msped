@@ -2859,13 +2859,18 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "volcanic_plains": "2025-01-27 02:41:30 +0000",
-      "dune_beach": "2025-01-27 02:14:38 +0000",
       "woodland": "2025-01-26 21:57:59 +0000",
-      "volcano": "2025-01-27 02:53:39 +0000",
+      "mystic_grove": "2025-01-28 02:57:02 +0000",
       "redwood_forest": "2025-01-26 21:22:26 +0000",
       "scrubland": "2025-01-26 21:59:49 +0000",
+      "prairie": "2025-01-26 20:41:33 +0000",
+      "dune_beach": "2025-01-27 02:14:38 +0000",
+      "floodplain": "2025-01-28 02:58:45 +0000",
+      "overgrown_greens": "2025-01-28 02:58:18 +0000",
+      "rainforest": "2025-01-28 02:58:23 +0000",
+      "volcano": "2025-01-27 02:53:39 +0000",
       "pasture": "2025-01-27 02:15:24 +0000",
-      "prairie": "2025-01-26 20:41:33 +0000"
+      "rocky_rainforest": "2025-01-28 02:58:43 +0000"
     },
     "done": false
   },
@@ -3275,7 +3280,8 @@
       "honey_bottle": "2025-01-26 21:23:00 +0000",
       "cooked_mutton": "2025-01-26 21:56:53 +0000",
       "cooked_beef": "2025-01-28 02:51:28 +0000",
-      "beef": "2025-01-26 21:02:39 +0000"
+      "beef": "2025-01-26 21:02:39 +0000",
+      "melon_slice": "2025-01-28 03:00:26 +0000"
     },
     "done": false
   },
@@ -3659,6 +3665,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle": "2025-01-28 02:58:58 +0000",
       "minecraft:river": "2025-01-26 21:05:38 +0000"
     },
     "done": false
@@ -4584,9 +4591,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-28 03:00:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/cut_black_sandstone_slab_from_black_sandstone_stonecutting": {
     "criteria": {
       "has_black_sandstone": "2025-01-28 02:40:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-01-28 03:00:23 +0000"
     },
     "done": true
   },
@@ -4620,6 +4639,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-28 02:56:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/black_sandstone_stairs": {
     "criteria": {
       "has_black_sandstone": "2025-01-28 02:40:17 +0000"
@@ -4638,9 +4663,39 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-28 02:56:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/black_sandstone_stairs_from_black_sandstone_stonecutting": {
     "criteria": {
       "has_black_sandstone": "2025-01-28 02:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-28 03:00:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/enchanted_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-28 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-28 02:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-28 03:00:23 +0000"
     },
     "done": true
   },
@@ -4671,6 +4726,12 @@
   "biomesoplenty:recipes/building_blocks/cut_black_sandstone_from_black_sandstone_stonecutting": {
     "criteria": {
       "has_black_sandstone": "2025-01-28 02:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-28 03:00:23 +0000"
     },
     "done": true
   },

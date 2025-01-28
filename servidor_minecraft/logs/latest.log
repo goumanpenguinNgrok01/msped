@@ -1235,3 +1235,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [
   "j0EH6NG8,0+/$(k#'g93=<5/p25.ip.gl."
 ]
+[28Jan2025 02:56:12.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has made the advancement [Knowledge of Death]
+[28Jan2025 02:56:12.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has reached the goal [Strong or Careful]
+[28Jan2025 02:56:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 was slain by Camerupt
+[28Jan2025 02:56:12.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has made the advancement [Your First Grave]
+[28Jan2025 02:56:12.556] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[28Jan2025 02:56:52.728] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-756, y=10, z=-509}
