@@ -976,3 +976,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 ]
 [29Jan2025 14:30:10.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Your First Receptacle]
 [29Jan2025 14:30:10.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Funeral Theft]
+[29Jan2025 14:31:20.794] [Server thread/INFO] [journeymap/]: G4R3N teleported to -934.0 65.0 -115.0 minecraft:overworld
