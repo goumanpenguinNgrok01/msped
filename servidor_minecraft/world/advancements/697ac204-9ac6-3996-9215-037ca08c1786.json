@@ -2887,9 +2887,10 @@
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-01-29 13:48:55 +0000",
       "has_black_apricorn": "2025-01-26 20:45:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
@@ -2932,11 +2933,12 @@
   },
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-01-29 13:48:55 +0000",
       "has_black_apricorn": "2025-01-26 20:45:14 +0000",
       "has_white_apricorn": "2025-01-27 02:28:22 +0000",
       "has_yellow_apricorn": "2025-01-26 20:57:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/dusk_ball": {
     "criteria": {
@@ -2954,10 +2956,11 @@
   },
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-01-29 13:48:55 +0000",
       "has_black_apricorn": "2025-01-26 20:45:14 +0000",
       "has_white_apricorn": "2025-01-27 02:28:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
@@ -3198,9 +3201,10 @@
   },
   "cobblemon:recipes/balls/quick_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-01-29 13:48:55 +0000",
       "has_yellow_apricorn": "2025-01-26 20:57:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/agriculture/yellow_apricorn_smelt_to_dye": {
     "criteria": {
@@ -3710,6 +3714,7 @@
   },
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-01-29 13:48:55 +0000",
       "has_green_apricorn": "2025-01-26 21:04:57 +0000"
     },
     "done": false
@@ -4184,6 +4189,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-29 13:45:54 +0000",
       "minecraft:cave_spider": "2025-01-27 03:21:53 +0000",
       "minecraft:skeleton": "2025-01-26 21:23:47 +0000",
       "minecraft:stray": "2025-01-27 03:45:01 +0000",
@@ -4502,6 +4508,7 @@
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-01-29 13:48:55 +0000",
       "has_pink_apricorn": "2025-01-26 21:29:45 +0000"
     },
     "done": false
@@ -4943,9 +4950,10 @@
   },
   "cobblemon:recipes/balls/dive_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-01-29 13:48:55 +0000",
       "has_white_apricorn": "2025-01-27 02:28:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/premier_ball": {
     "criteria": {
@@ -6357,15 +6365,39 @@
     },
     "done": true
   },
+  "cobblemon:recipes/misc/pokedex_blue": {
+    "criteria": {
+      "has_apricorn": "2025-01-29 13:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-29 13:45:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wolf_armor": {
     "criteria": {
       "has_armadillo_scute": "2025-01-29 13:12:22 +0000"
     },
     "done": true
   },
+  "cobblemon:recipes/balls/azure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-01-29 13:48:55 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-01-29 13:06:11 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-01-29 13:48:55 +0000"
     },
     "done": true
   },
@@ -6380,6 +6412,12 @@
       "has_scute": "2025-01-29 13:12:22 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/great_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-01-29 13:48:55 +0000"
+    },
+    "done": false
   },
   "cobblemon:first_evolution": {
     "criteria": {

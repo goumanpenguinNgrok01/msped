@@ -941,3 +941,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [29Jan2025 13:33:36.938] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d7f09162-b7ee-4f9b-bc6e-b9900de826fd
 [29Jan2025 13:41:12.385] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: a2f1156a-f369-40bb-868f-d3ff59052176
 [29Jan2025 13:41:12.386] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: a2f1156a-f369-40bb-868f-d3ff59052176
+[29Jan2025 13:45:54.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Voluntary Exile]
+[29Jan2025 13:55:08.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
+[29Jan2025 13:55:08.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
