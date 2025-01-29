@@ -4196,7 +4196,8 @@
       "minecraft:spider": "2025-01-26 21:19:38 +0000",
       "minecraft:wither_skeleton": "2025-01-27 03:10:49 +0000",
       "minecraft:zombie": "2025-01-26 21:21:36 +0000",
-      "minecraft:creeper": "2025-01-27 02:28:07 +0000"
+      "minecraft:creeper": "2025-01-27 02:28:07 +0000",
+      "minecraft:drowned": "2025-01-29 14:05:35 +0000"
     },
     "done": false
   },
@@ -6365,15 +6366,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/misc/pokedex_blue": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "has_apricorn": "2025-01-29 13:48:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-01-29 13:45:54 +0000"
+      "coded_trigger": "2025-01-29 13:06:11 +0000"
     },
     "done": true
   },
@@ -6383,21 +6378,15 @@
     },
     "done": true
   },
-  "cobblemon:recipes/balls/azure_ball": {
+  "cobblemon:recipes/evolution/protector": {
     "criteria": {
-      "has_blue_apricorn": "2025-01-29 13:48:55 +0000"
+      "has_scute": "2025-01-29 13:12:22 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
+  "cobblemon:first_evolution": {
     "criteria": {
-      "coded_trigger": "2025-01-29 13:06:11 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
-    "criteria": {
-      "has_apricorn": "2025-01-29 13:48:55 +0000"
+      "evolve": "2025-01-29 13:18:03 +0000"
     },
     "done": true
   },
@@ -6407,9 +6396,27 @@
     },
     "done": true
   },
-  "cobblemon:recipes/evolution/protector": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_scute": "2025-01-29 13:12:22 +0000"
+      "voluntary_exile": "2025-01-29 13:45:54 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/pokedex_blue": {
+    "criteria": {
+      "has_apricorn": "2025-01-29 13:48:55 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/azure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-01-29 13:48:55 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-01-29 13:48:55 +0000"
     },
     "done": true
   },
@@ -6418,12 +6425,6 @@
       "has_blue_apricorn": "2025-01-29 13:48:55 +0000"
     },
     "done": false
-  },
-  "cobblemon:first_evolution": {
-    "criteria": {
-      "evolve": "2025-01-29 13:18:03 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3955
 }
