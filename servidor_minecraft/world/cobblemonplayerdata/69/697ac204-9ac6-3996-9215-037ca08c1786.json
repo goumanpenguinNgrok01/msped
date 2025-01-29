@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 64,
+    "totalBattleVictoryCount": 72,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 64,
+    "totalPvWBattleVictoryCount": 72,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -29,9 +29,9 @@
       "electric": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:combee": 2,
+      "cobblemon:combee": 3,
       "cobblemon:vivillon": 1,
-      "cobblemon:lechonk": 1,
+      "cobblemon:lechonk": 2,
       "cobblemon:slakoth": 2,
       "cobblemon:ledyba": 2,
       "cobblemon:spinarak": 1,
@@ -39,7 +39,7 @@
       "cobblemon:sandshrew": 1,
       "cobblemon:wooloo": 8,
       "cobblemon:taillow": 4,
-      "cobblemon:cottonee": 1,
+      "cobblemon:cottonee": 2,
       "cobblemon:pidgey": 3,
       "cobblemon:zigzagoon": 2,
       "cobblemon:patrat": 2,
@@ -53,14 +53,17 @@
       "cobblemon:heracross": 1,
       "cobblemon:minun": 1,
       "cobblemon:igglybuff": 2,
-      "cobblemon:bunnelby": 1,
+      "cobblemon:bunnelby": 2,
       "cobblemon:flabebe": 1,
       "cobblemon:mareep": 1,
       "cobblemon:deerling": 1,
       "cobblemon:yanma": 1,
       "cobblemon:pichu": 1,
-      "cobblemon:seedot": 1,
-      "cobblemon:ponyta": 1
+      "cobblemon:seedot": 2,
+      "cobblemon:ponyta": 1,
+      "cobblemon:butterfree": 1,
+      "cobblemon:fletchling": 1,
+      "cobblemon:weedle": 1
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [

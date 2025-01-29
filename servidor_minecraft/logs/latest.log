@@ -1021,3 +1021,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [29Jan2025 15:25:57.540] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=202, y=47, z=211}
 [29Jan2025 15:38:09.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Ambush]
 [29Jan2025 15:38:22.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[29Jan2025 15:52:38.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [A Major Trial Of Strengh]
+[29Jan2025 15:53:18.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Sneak 100]
+[29Jan2025 15:57:37.317] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=217, y=48, z=159}
+[29Jan2025 15:57:39.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Barrel Booty]
+[29Jan2025 15:57:49.171] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29Jan2025 15:57:49.172] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=225, hostName=, port=221, intention=TRANSFER]"
+[29Jan2025 15:57:49.173] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 159 extra bytes: 
+[29Jan2025 15:57:49.173] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "s3~5*_sS#$yh3#<k0/'2(8+,5fj/$=@9L25.ip.gl"
+]
+[29Jan2025 15:57:49.755] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29Jan2025 15:57:49.756] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=213, hostName=, port=209, intention=TRANSFER]"
+[29Jan2025 15:57:49.756] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 29 extra bytes: 
+[29Jan2025 15:57:49.757] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "top9A(kr3Z}ov"
+]

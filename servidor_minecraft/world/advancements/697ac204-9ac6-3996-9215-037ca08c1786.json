@@ -3261,6 +3261,7 @@
       "obtain_chesto_berry": "2025-01-27 02:27:35 +0000",
       "obtain_razz_berry": "2025-01-26 21:18:13 +0000",
       "obtain_pecha_berry": "2025-01-27 02:29:47 +0000",
+      "obtain_tanga_berry": "2025-01-29 15:56:23 +0000",
       "obtain_wepear_berry": "2025-01-27 02:54:21 +0000"
     },
     "done": false
@@ -3822,6 +3823,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-01-29 15:57:39 +0000",
       "opened_chest": "2025-01-26 21:06:43 +0000"
     },
     "done": false
@@ -6436,6 +6438,12 @@
     },
     "done": false
   },
+  "nova_structures:adventure/find_shrine": {
+    "criteria": {
+      "shrine_combat": "2025-01-29 15:52:38 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
     "criteria": {
       "has_bone_meal": "2025-01-29 15:09:04 +0000"
@@ -6502,6 +6510,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-01-29 15:57:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2025-01-29 15:09:18 +0000"
@@ -6514,6 +6528,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/blocks/apricorn_wood": {
+    "criteria": {
+      "has_log": "2025-01-29 15:48:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-01-29 14:30:10 +0000"
@@ -6523,6 +6543,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-01-29 15:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-01-29 15:57:43 +0000"
     },
     "done": true
   },
@@ -6544,6 +6570,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/blocks/apricorn_planks": {
+    "criteria": {
+      "has_apricorn_log": "2025-01-29 15:48:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-29 15:09:18 +0000"
@@ -6559,6 +6591,12 @@
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-01-29 14:30:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-01-29 15:57:38 +0000"
     },
     "done": true
   },
@@ -6585,6 +6623,12 @@
       "has_ball": "2025-01-29 14:50:32 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-29 15:53:18 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
