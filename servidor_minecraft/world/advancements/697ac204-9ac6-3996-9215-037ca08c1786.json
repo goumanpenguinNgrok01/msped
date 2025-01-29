@@ -2868,6 +2868,7 @@
       "redwood_forest": "2025-01-26 21:18:09 +0000",
       "scrubland": "2025-01-26 21:55:32 +0000",
       "prairie": "2025-01-26 20:39:03 +0000",
+      "fungal_jungle": "2025-01-29 14:39:34 +0000",
       "dune_beach": "2025-01-26 21:53:05 +0000",
       "orchard": "2025-01-27 04:35:33 +0000",
       "floodplain": "2025-01-27 02:26:21 +0000",
@@ -4809,7 +4810,8 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "roseate_ball": "2025-01-26 21:58:57 +0000",
-      "nest_ball": "2025-01-26 21:34:16 +0000"
+      "nest_ball": "2025-01-26 21:34:16 +0000",
+      "citrine_ball": "2025-01-29 14:50:32 +0000"
     },
     "done": false
   },
@@ -4887,7 +4889,8 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
-      "roseate_ball": "2025-01-26 21:58:57 +0000"
+      "roseate_ball": "2025-01-26 21:58:57 +0000",
+      "citrine_ball": "2025-01-29 14:50:32 +0000"
     },
     "done": false
   },
@@ -6428,6 +6431,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-01-29 14:43:16 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-01-29 14:30:10 +0000"
@@ -6439,6 +6448,12 @@
       "has_receptacle_of_familiar": "2025-01-29 14:30:10 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/misc/citrine_rod": {
+    "criteria": {
+      "has_ball": "2025-01-29 14:50:32 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

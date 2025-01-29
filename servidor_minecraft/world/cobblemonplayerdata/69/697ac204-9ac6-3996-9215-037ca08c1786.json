@@ -8,24 +8,24 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 6,
+    "totalCaptureCount": 7,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 32,
+    "totalBattleVictoryCount": 34,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 32,
+    "totalPvWBattleVictoryCount": 34,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "ground": 1,
       "rock": 2,
-      "fighting": 1,
+      "fighting": 2,
       "poison": 1,
       "bug": 1,
       "steel": 1,
-      "normal": 2
+      "normal": 3
     },
     "totalDefeatedCounts": {
       "cobblemon:combee": 1,
@@ -47,7 +47,8 @@
       "cobblemon:bounsweet": 1,
       "cobblemon:caterpie": 1,
       "cobblemon:karrablast": 1,
-      "cobblemon:bellsprout": 1
+      "cobblemon:bellsprout": 1,
+      "cobblemon:kecleon": 1
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [
@@ -71,6 +72,9 @@
         "male"
       ],
       "cobblemon:ursaring": [
+        "female"
+      ],
+      "cobblemon:stufful": [
         "female"
       ]
     }
