@@ -3968,7 +3968,8 @@
   "apotheosis:progression/ascent": {
     "criteria": {
       "uncommon_legs": "2025-01-26 21:06:56 +0000",
-      "uncommon_hand": "2025-01-27 03:04:41 +0000"
+      "uncommon_hand": "2025-01-27 03:04:41 +0000",
+      "uncommon_feet": "2025-01-29 14:27:43 +0000"
     },
     "done": false
   },
@@ -3976,7 +3977,8 @@
     "criteria": {
       "common_hand": "2025-01-27 03:04:41 +0000",
       "common_chest": "2025-01-27 03:22:19 +0000",
-      "common_legs": "2025-01-26 21:06:56 +0000"
+      "common_legs": "2025-01-26 21:06:56 +0000",
+      "common_feet": "2025-01-29 14:27:43 +0000"
     },
     "done": false
   },

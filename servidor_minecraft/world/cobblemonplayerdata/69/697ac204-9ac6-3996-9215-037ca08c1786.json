@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 5,
+    "totalCaptureCount": 6,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 26,
+    "totalBattleVictoryCount": 27,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 26,
+    "totalPvWBattleVictoryCount": 27,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -25,7 +25,7 @@
       "poison": 1,
       "bug": 1,
       "steel": 1,
-      "normal": 1
+      "normal": 2
     },
     "totalDefeatedCounts": {
       "cobblemon:combee": 1,
@@ -65,6 +65,9 @@
       ],
       "cobblemon:eevee": [
         "male"
+      ],
+      "cobblemon:ursaring": [
+        "female"
       ]
     }
   }

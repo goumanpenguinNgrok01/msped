@@ -946,3 +946,33 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [29Jan2025 13:55:08.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
 [29Jan2025 14:04:30.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: G4R3N[/127.16.74.63:51239] logged in with entity id 8365 at (-1836.6406821118892, 61.66443371870127, 46.25129479792427)
 [29Jan2025 14:04:30.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N joined the game
+[29Jan2025 14:21:11.137] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 593277bf-5ac7-4139-9a61-80572ad6f67d
+[29Jan2025 14:21:11.137] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 593277bf-5ac7-4139-9a61-80572ad6f67d
+[29Jan2025 14:21:26.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N tried to swim in lava
+[29Jan2025 14:21:26.651] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[29Jan2025 14:21:38.149] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1802.5 99.0 -43.5 minecraft:overworld
+[29Jan2025 14:22:26.588] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: eaa0acc3-3cc7-4d21-9448-2f8e60e6d239
+[29Jan2025 14:22:26.588] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: eaa0acc3-3cc7-4d21-9448-2f8e60e6d239
+[29Jan2025 14:22:54.444] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1809.0 107.0 -154.0 minecraft:overworld
+[29Jan2025 14:23:05.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N burned to death
+[29Jan2025 14:23:05.496] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[29Jan2025 14:23:14.252] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1815.0 99.0 -131.0 minecraft:overworld
+[29Jan2025 14:27:24.190] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1687.0 95.0 -138.0 minecraft:overworld
+[29Jan2025 14:28:23.964] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29Jan2025 14:28:23.965] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=225, hostName=, port=221, intention=TRANSFER]"
+[29Jan2025 14:28:23.966] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 85 extra bytes: 
+[29Jan2025 14:28:23.966] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "l$}c=lRhaR&h'#/(/<82+@"
+]
+[29Jan2025 14:28:25.331] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29Jan2025 14:28:25.332] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=213, hostName=, port=209, intention=TRANSFER]"
+[29Jan2025 14:28:25.333] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 104 extra bytes: 
+[29Jan2025 14:28:25.333] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "g`MUBkZwm8,0+/$(k#'g93=<5/p25."
+]
+[29Jan2025 14:30:10.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Your First Receptacle]
+[29Jan2025 14:30:10.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Funeral Theft]

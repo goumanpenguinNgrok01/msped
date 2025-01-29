@@ -10628,3 +10628,288 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [29Jan2025 14:18:49.825] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
 [29Jan2025 14:18:49.826] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [29Jan2025 14:18:49.830] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 14:19:19.875] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 14:19:19.875] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:19:19.907] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 14:19:49.924] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[29Jan2025 14:19:49.926] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:19:49.933] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[29Jan2025 14:20:19.975] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 14:20:19.976] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:20:19.980] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 14:20:50.025] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 14:20:50.026] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:20:50.030] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 14:21:11.137] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 593277bf-5ac7-4139-9a61-80572ad6f67d
+[29Jan2025 14:21:11.137] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 593277bf-5ac7-4139-9a61-80572ad6f67d
+[29Jan2025 14:21:20.073] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 14:21:20.074] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:21:20.077] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 14:21:26.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N tried to swim in lava
+[29Jan2025 14:21:26.643] [Server thread/DEBUG] [tombstone/]: A new grave of the player G4R3N was created at position [x:-1805, y:100, z:-44, dim:minecraft:overworld]
+[29Jan2025 14:21:26.651] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[29Jan2025 14:21:28.067] [Server thread/DEBUG] [twilightforest/]: Player G4R3N (697ac204-9ac6-3996-9215-037ca08c1786) respawned and received items held in storage
+[29Jan2025 14:21:38.149] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1802.5 99.0 -43.5 minecraft:overworld
+[29Jan2025 14:21:50.131] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 14:21:50.133] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:21:50.137] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 14:22:20.175] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 14:22:20.176] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:22:20.180] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 14:22:26.588] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: eaa0acc3-3cc7-4d21-9448-2f8e60e6d239
+[29Jan2025 14:22:26.588] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: eaa0acc3-3cc7-4d21-9448-2f8e60e6d239
+[29Jan2025 14:22:50.224] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 14:22:50.224] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:22:50.224] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 14:22:54.444] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1809.0 107.0 -154.0 minecraft:overworld
+[29Jan2025 14:23:05.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N burned to death
+[29Jan2025 14:23:05.487] [Server thread/DEBUG] [tombstone/]: A new grave of the player G4R3N was created at position [x:-1815, y:99, z:-131, dim:minecraft:overworld]
+[29Jan2025 14:23:05.496] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[29Jan2025 14:23:06.913] [Server thread/DEBUG] [twilightforest/]: Player G4R3N (697ac204-9ac6-3996-9215-037ca08c1786) respawned and received items held in storage
+[29Jan2025 14:23:12.397] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[29Jan2025 14:23:14.252] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1815.0 99.0 -131.0 minecraft:overworld
+[29Jan2025 14:23:20.275] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 14:23:20.276] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:23:20.280] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 14:23:50.324] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 14:23:50.324] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:23:50.325] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 14:24:20.374] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 14:24:20.374] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:24:20.374] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 14:24:50.425] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 14:24:50.425] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:24:50.425] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 14:25:20.475] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 14:25:20.475] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:25:20.475] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 14:25:50.523] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 14:25:50.524] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:25:50.528] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 14:26:20.573] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 14:26:20.574] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:26:20.574] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 14:26:50.624] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 14:26:50.624] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:26:50.624] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 14:27:20.674] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 14:27:20.674] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:27:20.674] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 14:27:24.190] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1687.0 95.0 -138.0 minecraft:overworld
+[29Jan2025 14:27:50.725] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 14:27:50.725] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:27:50.725] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 14:28:12.316] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[29Jan2025 14:28:20.774] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 14:28:20.774] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:28:20.775] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 14:28:23.941] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1331 | 67 | -295)
+[29Jan2025 14:28:23.950] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1331 | 67 | -295)
+[29Jan2025 14:28:23.950] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-1343 | 40 | -298)
+[29Jan2025 14:28:23.952] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-1343 | 40 | -298)
+[29Jan2025 14:28:23.953] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room_2 at (-1343 | 40 | -298)
+[29Jan2025 14:28:23.954] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room_2 at (-1343 | 40 | -298)
+[29Jan2025 14:28:23.964] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29Jan2025 14:28:23.965] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=225, hostName=, port=221, intention=TRANSFER]"
+[29Jan2025 14:28:23.966] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 85 extra bytes: 
+[29Jan2025 14:28:23.966] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "l$}c=lRhaR&h'#/(/<82+@"
+]
+[29Jan2025 14:28:24.065] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1331 | 67 | -295)
+[29Jan2025 14:28:24.065] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1331 | 67 | -295)
+[29Jan2025 14:28:24.066] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-1343 | 40 | -298)
+[29Jan2025 14:28:24.069] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation CLOCKWISE_180 at (-1343 | 40 | -298)
+[29Jan2025 14:28:24.069] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room_2 at (-1343 | 40 | -298)
+[29Jan2025 14:28:24.070] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room_2 at (-1343 | 40 | -298)
+[29Jan2025 14:28:24.222] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-1344 | 67 | -335)
+[29Jan2025 14:28:24.224] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-1344 | 67 | -335)
+[29Jan2025 14:28:24.357] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1340 | 67 | -358)
+[29Jan2025 14:28:24.358] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1340 | 67 | -358)
+[29Jan2025 14:28:24.358] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-1339 | 67 | -349)
+[29Jan2025 14:28:24.358] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-1339 | 67 | -349)
+[29Jan2025 14:28:24.359] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-1338 | 67 | -340)
+[29Jan2025 14:28:24.359] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-1338 | 67 | -340)
+[29Jan2025 14:28:24.359] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest_room with rotation CLOCKWISE_180 at (-1329 | 67 | -352)
+[29Jan2025 14:28:24.359] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest_room with rotation CLOCKWISE_180 at (-1329 | 67 | -352)
+[29Jan2025 14:28:24.359] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-1331 | 67 | -357)
+[29Jan2025 14:28:24.359] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-1331 | 67 | -357)
+[29Jan2025 14:28:24.359] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1340 | 58 | -358)
+[29Jan2025 14:28:24.360] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-1340 | 58 | -358)
+[29Jan2025 14:28:24.360] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-1331 | 58 | -357)
+[29Jan2025 14:28:24.360] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-1331 | 58 | -357)
+[29Jan2025 14:28:24.360] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-1343 | 40 | -352)
+[29Jan2025 14:28:24.362] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation CLOCKWISE_180 at (-1343 | 40 | -352)
+[29Jan2025 14:28:24.362] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-1343 | 40 | -352)
+[29Jan2025 14:28:24.364] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (-1343 | 40 | -352)
+[29Jan2025 14:28:24.386] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-1338 | 67 | -340)
+[29Jan2025 14:28:24.387] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (-1338 | 67 | -340)
+[29Jan2025 14:28:24.387] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-1344 | 67 | -335)
+[29Jan2025 14:28:24.389] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-1344 | 67 | -335)
+[29Jan2025 14:28:25.331] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[29Jan2025 14:28:25.332] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=213, hostName=, port=209, intention=TRANSFER]"
+[29Jan2025 14:28:25.333] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 104 extra bytes: 
+[29Jan2025 14:28:25.333] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "g`MUBkZwm8,0+/$(k#'g93=<5/p25."
+]
+[29Jan2025 14:28:28.818] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-1344 | 67 | -335)
+[29Jan2025 14:28:28.819] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-1344 | 67 | -335)
+[29Jan2025 14:28:28.819] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (-1317 | 40 | -326)
+[29Jan2025 14:28:28.819] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (-1317 | 40 | -326)
+[29Jan2025 14:28:28.819] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (-1317 | 40 | -326)
+[29Jan2025 14:28:28.820] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (-1317 | 40 | -326)
+[29Jan2025 14:28:28.839] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-1344 | 67 | -335)
+[29Jan2025 14:28:28.839] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation CLOCKWISE_90 at (-1344 | 67 | -335)
+[29Jan2025 14:28:28.839] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (-1317 | 40 | -326)
+[29Jan2025 14:28:28.840] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (-1317 | 40 | -326)
+[29Jan2025 14:28:28.840] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (-1317 | 40 | -326)
+[29Jan2025 14:28:28.841] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (-1317 | 40 | -326)
+[29Jan2025 14:28:28.859] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1331 | 67 | -295)
+[29Jan2025 14:28:28.863] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1331 | 67 | -295)
+[29Jan2025 14:28:28.863] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-1322 | 67 | -294)
+[29Jan2025 14:28:28.863] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-1322 | 67 | -294)
+[29Jan2025 14:28:28.863] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-1313 | 67 | -294)
+[29Jan2025 14:28:28.863] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-1313 | 67 | -294)
+[29Jan2025 14:28:28.863] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-1328 | 40 | -293)
+[29Jan2025 14:28:28.864] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-1328 | 40 | -293)
+[29Jan2025 14:28:28.864] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-1328 | 40 | -293)
+[29Jan2025 14:28:28.864] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-1328 | 40 | -293)
+[29Jan2025 14:28:28.864] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-1327 | 40 | -294)
+[29Jan2025 14:28:28.864] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-1327 | 40 | -294)
+[29Jan2025 14:28:28.864] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-1327 | 40 | -294)
+[29Jan2025 14:28:28.864] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-1327 | 40 | -294)
+[29Jan2025 14:28:28.864] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-1322 | 40 | -294)
+[29Jan2025 14:28:28.865] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-1322 | 40 | -294)
+[29Jan2025 14:28:28.865] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1322 | 40 | -294)
+[29Jan2025 14:28:28.865] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1322 | 40 | -294)
+[29Jan2025 14:28:28.865] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (-1317 | 39 | -299)
+[29Jan2025 14:28:28.866] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (-1317 | 39 | -299)
+[29Jan2025 14:28:28.866] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (-1317 | 39 | -299)
+[29Jan2025 14:28:28.866] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (-1317 | 39 | -299)
+[29Jan2025 14:28:28.902] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1331 | 67 | -295)
+[29Jan2025 14:28:28.902] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-1331 | 67 | -295)
+[29Jan2025 14:28:28.902] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-1322 | 67 | -294)
+[29Jan2025 14:28:28.902] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-1322 | 67 | -294)
+[29Jan2025 14:28:28.902] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-1313 | 67 | -294)
+[29Jan2025 14:28:28.902] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-1313 | 67 | -294)
+[29Jan2025 14:28:28.902] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-1327 | 40 | -294)
+[29Jan2025 14:28:28.902] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-1327 | 40 | -294)
+[29Jan2025 14:28:28.902] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-1327 | 40 | -294)
+[29Jan2025 14:28:28.902] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-1327 | 40 | -294)
+[29Jan2025 14:28:28.902] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-1322 | 40 | -294)
+[29Jan2025 14:28:28.902] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation NONE at (-1322 | 40 | -294)
+[29Jan2025 14:28:28.902] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1322 | 40 | -294)
+[29Jan2025 14:28:28.903] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1322 | 40 | -294)
+[29Jan2025 14:28:28.903] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (-1317 | 39 | -299)
+[29Jan2025 14:28:28.903] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (-1317 | 39 | -299)
+[29Jan2025 14:28:28.903] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (-1317 | 39 | -299)
+[29Jan2025 14:28:28.904] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (-1317 | 39 | -299)
+[29Jan2025 14:28:28.949] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest_room with rotation CLOCKWISE_180 at (-1329 | 67 | -352)
+[29Jan2025 14:28:28.949] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest_room with rotation CLOCKWISE_180 at (-1329 | 67 | -352)
+[29Jan2025 14:28:28.949] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-1331 | 67 | -357)
+[29Jan2025 14:28:28.949] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-1331 | 67 | -357)
+[29Jan2025 14:28:28.949] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (-1317 | 67 | -352)
+[29Jan2025 14:28:28.951] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (-1317 | 67 | -352)
+[29Jan2025 14:28:28.951] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (-1321 | 67 | -352)
+[29Jan2025 14:28:28.951] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation CLOCKWISE_180 at (-1321 | 67 | -352)
+[29Jan2025 14:28:28.951] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (-1322 | 67 | -356)
+[29Jan2025 14:28:28.951] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_180 at (-1322 | 67 | -356)
+[29Jan2025 14:28:28.951] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-1313 | 67 | -357)
+[29Jan2025 14:28:28.951] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-1313 | 67 | -357)
+[29Jan2025 14:28:28.951] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_180 at (-1328 | 58 | -352)
+[29Jan2025 14:28:28.951] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation CLOCKWISE_180 at (-1328 | 58 | -352)
+[29Jan2025 14:28:28.951] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-1331 | 58 | -357)
+[29Jan2025 14:28:28.951] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_180 at (-1331 | 58 | -357)
+[29Jan2025 14:28:28.951] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-1322 | 58 | -357)
+[29Jan2025 14:28:28.952] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-1322 | 58 | -357)
+[29Jan2025 14:28:28.952] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-1313 | 58 | -357)
+[29Jan2025 14:28:28.952] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_180 at (-1313 | 58 | -357)
+[29Jan2025 14:28:28.952] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-1328 | 40 | -347)
+[29Jan2025 14:28:28.952] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-1328 | 40 | -347)
+[29Jan2025 14:28:28.952] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-1328 | 40 | -347)
+[29Jan2025 14:28:28.952] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (-1328 | 40 | -347)
+[29Jan2025 14:28:28.952] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (-1327 | 40 | -347)
+[29Jan2025 14:28:28.952] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (-1327 | 40 | -347)
+[29Jan2025 14:28:28.952] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1327 | 40 | -347)
+[29Jan2025 14:28:28.952] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (-1327 | 40 | -347)
+[29Jan2025 14:28:28.952] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (-1322 | 40 | -348)
+[29Jan2025 14:28:28.953] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/stone_corridor with rotation CLOCKWISE_180 at (-1322 | 40 | -348)
+[29Jan2025 14:28:28.953] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (-1322 | 40 | -348)
+[29Jan2025 14:28:28.953] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/corridor/stone_corridor at (-1322 | 40 | -348)
+[29Jan2025 14:28:28.953] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1313 | 40 | -349)
+[29Jan2025 14:28:28.953] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (-1313 | 40 | -349)
+[29Jan2025 14:28:28.954] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (-1313 | 40 | -349)
+[29Jan2025 14:28:28.954] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/room/spawner_room at (-1313 | 40 | -349)
+[29Jan2025 14:28:41.074] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-1313 | 67 | -294)
+[29Jan2025 14:28:41.074] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-1313 | 67 | -294)
+[29Jan2025 14:28:41.074] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (-1306 | 67 | -297)
+[29Jan2025 14:28:41.075] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (-1306 | 67 | -297)
+[29Jan2025 14:28:41.075] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (-1317 | 39 | -299)
+[29Jan2025 14:28:41.076] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (-1317 | 39 | -299)
+[29Jan2025 14:28:41.076] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (-1317 | 39 | -299)
+[29Jan2025 14:28:41.078] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (-1317 | 39 | -299)
+[29Jan2025 14:28:41.234] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (-1302 | 67 | -311)
+[29Jan2025 14:28:41.234] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_90 at (-1302 | 67 | -311)
+[29Jan2025 14:28:41.234] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (-1302 | 67 | -309)
+[29Jan2025 14:28:41.234] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (-1302 | 67 | -309)
+[29Jan2025 14:28:41.234] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-1306 | 67 | -324)
+[29Jan2025 14:28:41.238] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-1306 | 67 | -324)
+[29Jan2025 14:28:41.238] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-1298 | 49 | -321)
+[29Jan2025 14:28:41.238] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (-1298 | 49 | -321)
+[29Jan2025 14:28:41.244] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (-1299 | 49 | -326)
+[29Jan2025 14:28:41.244] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_turn with rotation CLOCKWISE_180 at (-1299 | 49 | -326)
+[29Jan2025 14:28:41.244] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (-1311 | 47 | -320)
+[29Jan2025 14:28:41.244] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (-1311 | 47 | -320)
+[29Jan2025 14:28:41.244] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/light at (-1311 | 47 | -320)
+[29Jan2025 14:28:41.245] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/light at (-1311 | 47 | -320)
+[29Jan2025 14:28:41.245] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-1300 | 40 | -321)
+[29Jan2025 14:28:41.245] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_3 with rotation CLOCKWISE_180 at (-1300 | 40 | -321)
+[29Jan2025 14:28:41.245] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-1300 | 40 | -321)
+[29Jan2025 14:28:41.245] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_3 at (-1300 | 40 | -321)
+[29Jan2025 14:28:41.245] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-1312 | 40 | -309)
+[29Jan2025 14:28:41.246] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation COUNTERCLOCKWISE_90 at (-1312 | 40 | -309)
+[29Jan2025 14:28:41.246] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1312 | 40 | -309)
+[29Jan2025 14:28:41.246] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_2 at (-1312 | 40 | -309)
+[29Jan2025 14:28:41.246] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (-1317 | 40 | -326)
+[29Jan2025 14:28:41.247] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison with rotation COUNTERCLOCKWISE_90 at (-1317 | 40 | -326)
+[29Jan2025 14:28:41.247] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (-1317 | 40 | -326)
+[29Jan2025 14:28:41.249] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/prison at (-1317 | 40 | -326)
+[29Jan2025 14:28:41.249] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (-1299 | 31 | -317)
+[29Jan2025 14:28:41.250] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (-1299 | 31 | -317)
+[29Jan2025 14:28:41.270] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-1308 | 67 | -293)
+[29Jan2025 14:28:41.270] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-1308 | 67 | -293)
+[29Jan2025 14:28:41.270] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-1302 | 67 | -299)
+[29Jan2025 14:28:41.270] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-1302 | 67 | -299)
+[29Jan2025 14:28:41.270] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1303 | 67 | -304)
+[29Jan2025 14:28:41.271] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1303 | 67 | -304)
+[29Jan2025 14:28:41.271] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-1313 | 67 | -294)
+[29Jan2025 14:28:41.271] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-1313 | 67 | -294)
+[29Jan2025 14:28:41.271] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (-1306 | 67 | -297)
+[29Jan2025 14:28:41.274] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_180 at (-1306 | 67 | -297)
+[29Jan2025 14:28:41.274] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1312 | 40 | -304)
+[29Jan2025 14:28:41.274] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (-1312 | 40 | -304)
+[29Jan2025 14:28:41.275] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-1312 | 40 | -304)
+[29Jan2025 14:28:41.275] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-1312 | 40 | -304)
+[29Jan2025 14:28:41.275] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (-1317 | 39 | -299)
+[29Jan2025 14:28:41.277] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/fountain with rotation CLOCKWISE_90 at (-1317 | 39 | -299)
+[29Jan2025 14:28:41.277] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (-1317 | 39 | -299)
+[29Jan2025 14:28:41.280] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/fountain at (-1317 | 39 | -299)
+[29Jan2025 14:28:41.280] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (-1299 | 31 | -317)
+[29Jan2025 14:28:41.280] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/lava_hall with rotation CLOCKWISE_180 at (-1299 | 31 | -317)
+[29Jan2025 14:28:50.824] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 14:28:50.824] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:28:50.824] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 14:29:20.874] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 14:29:20.874] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:29:20.874] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 14:29:50.923] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 14:29:50.923] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:29:50.923] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 14:30:10.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Your First Receptacle]
+[29Jan2025 14:30:10.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Funeral Theft]
+[29Jan2025 14:30:20.974] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 14:30:20.974] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 14:30:20.974] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
