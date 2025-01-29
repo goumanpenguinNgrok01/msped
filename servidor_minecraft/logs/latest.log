@@ -924,3 +924,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [29Jan2025 03:39:44.936] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
 [29Jan2025 03:40:13.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [J4O3: Set own game mode to Creative Mode]
 [29Jan2025 03:42:24.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [J4O3: Set own game mode to Survival Mode]
+[29Jan2025 03:51:12.274] [Server thread/WARN] [fightorflight/]: No move for aoe.
