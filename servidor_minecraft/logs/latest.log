@@ -998,3 +998,26 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [29Jan2025 15:06:25.372] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1115.0 108.0 -480.0 minecraft:overworld
 [29Jan2025 15:14:10.035] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1189.0 109.0 -470.0 minecraft:overworld
 [29Jan2025 15:14:23.684] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1241.0 89.0 -593.0 minecraft:overworld
+[29Jan2025 15:19:32.634] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:19:32.635] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:19:32.647] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:19:32.647] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:19:35.255] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:19:35.256] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:20:08.789] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:20:09.039] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:20:56.183] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4b0d12b9-ef2f-477c-971f-9de45900b0c7
+[29Jan2025 15:20:56.183] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4b0d12b9-ef2f-477c-971f-9de45900b0c7
+[29Jan2025 15:20:57.181] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:20:57.212] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:20:57.213] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:22:54.494] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1629.0 84.0 -746.0 minecraft:overworld
+[29Jan2025 15:23:02.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N was shot by Skeleton
+[29Jan2025 15:23:02.792] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[29Jan2025 15:23:09.710] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1618.0 84.0 -755.0 minecraft:overworld
+[29Jan2025 15:23:27.795] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1578.0 86.0 -753.0 minecraft:overworld
+[29Jan2025 15:23:42.594] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1716.0 78.0 -702.0 minecraft:overworld
+[29Jan2025 15:24:42.061] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1886.0 66.0 -753.0 minecraft:overworld
+[29Jan2025 15:25:57.540] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=202, y=47, z=211}
+[29Jan2025 15:38:09.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Ambush]
+[29Jan2025 15:38:22.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind

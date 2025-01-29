@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 7,
+    "totalCaptureCount": 8,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 40,
+    "totalBattleVictoryCount": 53,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 40,
+    "totalPvWBattleVictoryCount": 53,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -25,7 +25,8 @@
       "poison": 1,
       "bug": 1,
       "steel": 1,
-      "normal": 3
+      "normal": 3,
+      "electric": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:combee": 1,
@@ -36,10 +37,10 @@
       "cobblemon:spinarak": 1,
       "cobblemon:shinx": 1,
       "cobblemon:sandshrew": 1,
-      "cobblemon:wooloo": 2,
-      "cobblemon:taillow": 2,
+      "cobblemon:wooloo": 7,
+      "cobblemon:taillow": 4,
       "cobblemon:cottonee": 1,
-      "cobblemon:pidgey": 1,
+      "cobblemon:pidgey": 2,
       "cobblemon:zigzagoon": 1,
       "cobblemon:patrat": 2,
       "cobblemon:fearow": 1,
@@ -49,7 +50,11 @@
       "cobblemon:karrablast": 1,
       "cobblemon:bellsprout": 3,
       "cobblemon:kecleon": 1,
-      "cobblemon:heracross": 1
+      "cobblemon:heracross": 1,
+      "cobblemon:minun": 1,
+      "cobblemon:igglybuff": 1,
+      "cobblemon:bunnelby": 1,
+      "cobblemon:flabebe": 1
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [
@@ -77,6 +82,9 @@
       ],
       "cobblemon:stufful": [
         "female"
+      ],
+      "cobblemon:elekid": [
+        "male"
       ]
     }
   }

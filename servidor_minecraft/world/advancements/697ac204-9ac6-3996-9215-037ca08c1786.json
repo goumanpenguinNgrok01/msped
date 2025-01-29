@@ -2868,10 +2868,14 @@
       "redwood_forest": "2025-01-26 21:18:09 +0000",
       "scrubland": "2025-01-26 21:55:32 +0000",
       "prairie": "2025-01-26 20:39:03 +0000",
+      "grassland": "2025-01-29 15:14:45 +0000",
       "fungal_jungle": "2025-01-29 14:39:34 +0000",
       "dune_beach": "2025-01-26 21:53:05 +0000",
+      "glowing_grotto": "2025-01-29 15:14:23 +0000",
       "orchard": "2025-01-27 04:35:33 +0000",
       "floodplain": "2025-01-27 02:26:21 +0000",
+      "moor": "2025-01-29 15:18:14 +0000",
+      "overgrown_greens": "2025-01-29 15:21:27 +0000",
       "highland": "2025-01-27 04:24:38 +0000",
       "rainforest": "2025-01-26 21:56:42 +0000",
       "volcano": "2025-01-27 02:45:22 +0000",
@@ -4811,7 +4815,8 @@
     "criteria": {
       "roseate_ball": "2025-01-26 21:58:57 +0000",
       "nest_ball": "2025-01-26 21:34:16 +0000",
-      "citrine_ball": "2025-01-29 14:50:32 +0000"
+      "citrine_ball": "2025-01-29 14:50:32 +0000",
+      "ultra_ball": "2025-01-29 15:36:48 +0000"
     },
     "done": false
   },
@@ -6521,11 +6526,35 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-01-29 15:38:11 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-01-29 15:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-01-29 15:25:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-29 15:09:18 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/misc/ultra_rod": {
+    "criteria": {
+      "has_ball": "2025-01-29 15:36:48 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
@@ -6536,6 +6565,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2025-01-29 15:09:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-29 15:38:09 +0000"
     },
     "done": true
   },

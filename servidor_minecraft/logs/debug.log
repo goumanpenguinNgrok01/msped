@@ -12969,3 +12969,243 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [29Jan2025 15:15:55.525] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
 [29Jan2025 15:15:55.525] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [29Jan2025 15:15:55.529] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:16:25.575] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:16:25.576] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:16:25.582] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:16:55.624] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:16:55.625] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:16:55.628] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:17:25.675] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:17:25.675] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:17:25.679] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:17:55.724] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:17:55.725] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:17:55.728] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:18:12.310] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[29Jan2025 15:18:25.774] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:18:25.775] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:18:25.779] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:18:55.825] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:18:55.826] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:18:55.829] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:19:25.874] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:19:25.874] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:19:25.877] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:19:32.634] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:19:32.635] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:19:32.647] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:19:32.647] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:19:35.255] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:19:35.256] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:19:55.924] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:19:55.925] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:19:55.928] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:20:08.789] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:20:09.039] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:20:25.973] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:20:25.974] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:20:25.977] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:20:56.024] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:20:56.025] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:20:56.028] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:20:56.183] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4b0d12b9-ef2f-477c-971f-9de45900b0c7
+[29Jan2025 15:20:56.183] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4b0d12b9-ef2f-477c-971f-9de45900b0c7
+[29Jan2025 15:20:57.181] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:20:57.212] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:20:57.213] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:21:26.074] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:21:26.075] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:21:26.081] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:21:56.125] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:21:56.126] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:21:56.129] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:22:26.173] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:22:26.175] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:22:26.178] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:22:54.494] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1629.0 84.0 -746.0 minecraft:overworld
+[29Jan2025 15:22:56.225] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:22:56.226] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:22:56.229] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:22:59.684] [Server thread/DEBUG] [snownee.jade.Jade/]: Data size is too large: 23231, max: 16384, data: {BlockId:"minecraft:spawner",Delay:11347s,MaxNearbyEntities:6s,MaxSpawnDelay:11420s,MinSpawnDelay:11420s,RequiredPlayerRange:16s,SpawnCount:2s,SpawnData:{entity:{ArmorItems:[{count:1,id:"minecraft:leather_boots"},{count:1,id:"minecraft:leather_leggings"},{count:1,id:"minecraft:leather_chestplate"},{count:1,id:"minecraft:leather_helmet"}],Health:50.0f,Passengers:[{ArmorItems:[{components:{"minecraft:dyed_color":{rgb:16736809},"minecraft:enchantments":{levels:{"minecraft:feather_falling":10,"minecraft:protection":10}}},count:1,id:"minecraft:leather_boots"},{components:{"minecraft:dyed_color":{rgb:16736809},"minecraft:enchantments":{levels:{"minecraft:protection":10}}},count:1,id:"minecraft:leather_leggings"},{components:{"minecraft:enchantments":{levels:{"minecraft:protection":1,"minecraft:thorns":1}}},count:1,id:"minecraft:diamond_chestplate"},{components:{"minecraft:dyed_color":{rgb:16736809},"minecraft:enchantments":{levels:{"minecraft:protection":10}},"minecraft:unbreakable":{}},count:1,id:"minecraft:leather_helmet"}],DeathLootTable:"dungeons_arise:entities/gladiator_loot",HandItems:[{components:{"minecraft:enchantments":{levels:{"minecraft:power":5,"minecraft:punch":3}}},count:1,id:"minecraft:bow"},{components:{"minecraft:potion_contents":{custom_effects:[{amplifier:3b,duration:60,id:"minecraft:levitation"},{amplifier:3b,duration:120,id:"minecraft:slow_falling"}]}},count:1,id:"minecraft:tipped_arrow"}],PersistenceRequired:1b,id:"minecraft:skeleton"}],PersistenceRequired:1b,Size:16,active_effects:[{amplifier:2b,duration:19999980,id:"minecraft:resistance"},{amplifier:2b,duration:19999980,id:"minecraft:fire_resistance"}],attributes:[{base:50,id:"generic.max_health"}],id:"minecraft:phantom"}},SpawnPotentials:[{data:{entity:{ArmorItems:[{count:1,id:"minecraft:leather_boots"},{count:1,id:"minecraft:leather_leggings"},{count:1,id:"minecraft:leather_chestplate"},{count:1,id:"minecraft:leather_helmet"}],Health:50.0f,Passengers:[{ArmorItems:[{components:{"minecraft:dyed_color":{rgb:16736809},"minecraft:enchantments":{levels:{"minecraft:feather_falling":10,"minecraft:protection":10}}},count:1,id:"minecraft:leather_boots"},{components:{"minecraft:dyed_color":{rgb:16736809},"minecraft:enchantments":{levels:{"minecraft:protection":10}}},count:1,id:"minecraft:leather_leggings"},{components:{"minecraft:enchantments":{levels:{"minecraft:protection":1,"minecraft:thorns":1}}},count:1,id:"minecraft:diamond_chestplate"},{components:{"minecraft:dyed_color":{rgb:16736809},"minecraft:enchantments":{levels:{"minecraft:protection":10}},"minecraft:unbreakable":{}},count:1,id:"minecraft:leather_helmet"}],DeathLootTable:"dungeons_arise:entities/gladiator_loot",HandItems:[{components:{"minecraft:enchantments":{levels:{"minecraft:power":5,"minecraft:punch":3}}},count:1,id:"minecraft:bow"},{components:{"minecraft:potion_contents":{custom_effects:[{amplifier:3b,duration:60,id:"minecraft:levitation"},{amplifier:3b,duration:120,id:"minecraft:slow_falling"}]}},count:1,id:"minecraft:tipped_arrow"}],PersistenceRequired:1b,id:"minecraft:skeleton"}],PersistenceRequired:1b,Size:16,active_effects:[{amplifier:2b,duration:19999980,id:"minecraft:resistance"},{amplifier:2b,duration:19999980,id:"minecraft:fire_resistance"}],attributes:[{base:50,id:"generic.max_health"}],id:"minecraft:phantom"}},weight:1}],SpawnRange:4s,stats:{},x:-1615,y:85,z:-753}
+[29Jan2025 15:23:02.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N was shot by Skeleton
+[29Jan2025 15:23:02.787] [Server thread/DEBUG] [tombstone/]: A new grave of the player G4R3N was created at position [x:-1618, y:84, z:-755, dim:minecraft:overworld]
+[29Jan2025 15:23:02.792] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[29Jan2025 15:23:04.606] [Server thread/DEBUG] [twilightforest/]: Player G4R3N (697ac204-9ac6-3996-9215-037ca08c1786) respawned and received items held in storage
+[29Jan2025 15:23:09.710] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1618.0 84.0 -755.0 minecraft:overworld
+[29Jan2025 15:23:12.323] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[29Jan2025 15:23:26.274] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:23:26.275] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:23:26.279] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:23:27.795] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1578.0 86.0 -753.0 minecraft:overworld
+[29Jan2025 15:23:42.594] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1716.0 78.0 -702.0 minecraft:overworld
+[29Jan2025 15:23:56.323] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 15:23:56.323] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:23:56.324] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 15:24:26.375] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:24:26.375] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:24:26.379] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:24:42.061] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1886.0 66.0 -753.0 minecraft:overworld
+[29Jan2025 15:24:56.424] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 15:24:56.424] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:24:56.425] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 15:25:26.474] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 15:25:26.474] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:25:26.474] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 15:25:56.525] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 15:25:56.525] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:25:56.525] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 15:25:57.540] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=202, y=47, z=211}
+[29Jan2025 15:26:26.574] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:26:26.575] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:26:26.580] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:26:56.623] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:26:56.624] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:26:56.628] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:27:26.675] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:27:26.676] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:27:26.679] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:27:56.725] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:27:56.726] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:27:56.729] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:28:12.375] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[29Jan2025 15:28:26.774] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:28:26.775] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:28:26.778] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:28:56.823] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:28:56.824] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:28:56.829] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:29:26.874] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:29:26.875] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:29:26.879] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:29:35.432] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-2492 | 49 | -1068).
+[29Jan2025 15:29:35.435] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[29Jan2025 15:29:35.436] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[29Jan2025 15:29:35.436] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[29Jan2025 15:29:35.436] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[29Jan2025 15:29:35.436] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[29Jan2025 15:29:35.437] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 6(6) Nodes and 5(0) Rooms
+[29Jan2025 15:29:35.437] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[29Jan2025 15:29:35.437] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 3(8) Nodes and 4(0) Rooms
+[29Jan2025 15:29:35.437] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[29Jan2025 15:29:35.437] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 8(0) Nodes and 6(0) Rooms
+[29Jan2025 15:29:56.925] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:29:56.925] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:29:56.928] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:30:26.974] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:30:26.974] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:30:26.978] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:30:57.024] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:30:57.025] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:30:57.028] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:31:27.075] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:31:27.076] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:31:27.080] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:31:57.124] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:31:57.125] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:31:57.131] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:32:27.175] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:32:27.176] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:32:27.180] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:32:57.225] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:32:57.226] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:32:57.230] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:33:12.317] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[29Jan2025 15:33:27.275] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:33:27.275] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:33:27.279] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:33:57.324] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:33:57.325] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:33:57.329] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:34:27.375] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:34:27.375] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:34:27.379] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:34:57.423] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 15:34:57.424] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:34:57.424] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 15:35:27.474] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 15:35:27.474] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:35:27.474] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 15:35:57.525] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 15:35:57.525] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:35:57.525] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 15:36:27.575] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 15:36:27.575] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:36:27.575] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 15:36:57.625] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[29Jan2025 15:36:57.625] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:36:57.625] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[29Jan2025 15:37:27.674] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[29Jan2025 15:37:27.675] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:37:27.680] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[29Jan2025 15:37:57.725] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:37:57.726] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:37:57.729] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:38:04.465] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation NONE at (-2352 | 40 | -928)
+[29Jan2025 15:38:04.465] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation NONE at (-2352 | 40 | -928)
+[29Jan2025 15:38:04.519] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation NONE at (-2352 | 40 | -928)
+[29Jan2025 15:38:04.520] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation NONE at (-2352 | 40 | -928)
+[29Jan2025 15:38:09.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Ambush]
+[29Jan2025 15:38:12.326] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[29Jan2025 15:38:12.640] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation NONE at (-2352 | 40 | -928)
+[29Jan2025 15:38:12.640] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation NONE at (-2352 | 40 | -928)
+[29Jan2025 15:38:12.664] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation NONE at (-2352 | 40 | -928)
+[29Jan2025 15:38:12.665] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation NONE at (-2352 | 40 | -928)
+[29Jan2025 15:38:22.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[29Jan2025 15:38:29.873] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:38:29.875] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:38:29.878] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:38:43.908] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-2375 | 40 | -923)
+[29Jan2025 15:38:43.909] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-2375 | 40 | -923)
+[29Jan2025 15:38:43.909] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (-2363 | 40 | -923)
+[29Jan2025 15:38:43.909] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation NONE at (-2363 | 40 | -923)
+[29Jan2025 15:38:43.909] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (-2363 | 40 | -918)
+[29Jan2025 15:38:43.909] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_180 at (-2363 | 40 | -918)
+[29Jan2025 15:38:43.909] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-2366 | 40 | -923)
+[29Jan2025 15:38:43.909] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-2366 | 40 | -923)
+[29Jan2025 15:38:43.909] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-2357 | 40 | -923)
+[29Jan2025 15:38:43.909] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-2357 | 40 | -923)
+[29Jan2025 15:38:47.301] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-2365 | 40 | -947)
+[29Jan2025 15:38:47.301] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-2365 | 40 | -947)
+[29Jan2025 15:38:47.301] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-2366 | 40 | -942)
+[29Jan2025 15:38:47.302] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-2366 | 40 | -942)
+[29Jan2025 15:38:52.589] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-2383 | 40 | -951)
+[29Jan2025 15:38:52.590] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-2383 | 40 | -951)
+[29Jan2025 15:38:52.590] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest_room with rotation CLOCKWISE_90 at (-2378 | 40 | -942)
+[29Jan2025 15:38:52.590] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest_room with rotation CLOCKWISE_90 at (-2378 | 40 | -942)
+[29Jan2025 15:38:52.590] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (-2378 | 40 | -937)
+[29Jan2025 15:38:52.590] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (-2378 | 40 | -937)
+[29Jan2025 15:38:52.590] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (-2383 | 40 | -941)
+[29Jan2025 15:38:52.590] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (-2383 | 40 | -941)
+[29Jan2025 15:38:52.590] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (-2383 | 40 | -937)
+[29Jan2025 15:38:52.590] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation COUNTERCLOCKWISE_90 at (-2383 | 40 | -937)
+[29Jan2025 15:38:52.590] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (-2382 | 40 | -942)
+[29Jan2025 15:38:52.590] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (-2382 | 40 | -942)
+[29Jan2025 15:38:52.590] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (-2378 | 40 | -932)
+[29Jan2025 15:38:52.592] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation CLOCKWISE_90 at (-2378 | 40 | -932)
+[29Jan2025 15:38:52.592] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (-2385 | 40 | -932)
+[29Jan2025 15:38:52.593] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (-2385 | 40 | -932)
+[29Jan2025 15:38:52.593] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (-2382 | 40 | -933)
+[29Jan2025 15:38:52.593] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (-2382 | 40 | -933)
+[29Jan2025 15:38:52.610] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-2378 | 40 | -928)
+[29Jan2025 15:38:52.610] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-2378 | 40 | -928)
+[29Jan2025 15:38:52.610] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (-2383 | 40 | -928)
+[29Jan2025 15:38:52.610] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/default with rotation COUNTERCLOCKWISE_90 at (-2383 | 40 | -928)
+[29Jan2025 15:38:52.610] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (-2382 | 40 | -933)
+[29Jan2025 15:38:52.610] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_3 with rotation CLOCKWISE_90 at (-2382 | 40 | -933)
+[29Jan2025 15:38:52.610] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-2384 | 40 | -924)
+[29Jan2025 15:38:52.612] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-2384 | 40 | -924)
+[29Jan2025 15:38:52.612] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-2375 | 40 | -923)
+[29Jan2025 15:38:52.612] [Worker-Main-6/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation NONE at (-2375 | 40 | -923)
+[29Jan2025 15:38:59.925] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[29Jan2025 15:38:59.926] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[29Jan2025 15:38:59.929] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[29Jan2025 15:39:20.653] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (-2353 | 40 | -959)
+[29Jan2025 15:39:20.654] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (-2353 | 40 | -959)
+[29Jan2025 15:39:20.654] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-2365 | 40 | -947)
+[29Jan2025 15:39:20.654] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-2365 | 40 | -947)
+[29Jan2025 15:39:20.654] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation NONE at (-2370 | 40 | -964)
+[29Jan2025 15:39:20.655] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation NONE at (-2370 | 40 | -964)
+[29Jan2025 15:39:20.679] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (-2353 | 40 | -959)
+[29Jan2025 15:39:20.679] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_180 at (-2353 | 40 | -959)
+[29Jan2025 15:39:20.679] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-2348 | 40 | -960)
+[29Jan2025 15:39:20.681] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-2348 | 40 | -960)
