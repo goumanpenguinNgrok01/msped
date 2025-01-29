@@ -1041,3 +1041,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [
   "top9A(kr3Z}ov"
 ]
+[29Jan2025 16:10:37.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[29Jan2025 16:11:39.885] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 137ebc09-debe-4d0a-a719-624f8ecd99a0
+[29Jan2025 16:11:39.885] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 137ebc09-debe-4d0a-a719-624f8ecd99a0
