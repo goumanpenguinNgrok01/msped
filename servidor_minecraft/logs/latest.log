@@ -978,3 +978,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [29Jan2025 14:30:10.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Funeral Theft]
 [29Jan2025 14:31:20.794] [Server thread/INFO] [journeymap/]: G4R3N teleported to -934.0 65.0 -115.0 minecraft:overworld
 [29Jan2025 14:43:16.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Mutual Aid]
+[29Jan2025 14:55:57.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N burned to death
+[29Jan2025 14:55:57.391] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[29Jan2025 14:56:09.749] [Server thread/INFO] [journeymap/]: G4R3N teleported to -924.5 64.0 -233.5 minecraft:overworld
+[29Jan2025 15:04:06.188] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1126.0 64.0 -140.0 minecraft:overworld
+[29Jan2025 15:04:14.371] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1262.0 111.0 -349.0 minecraft:overworld
+[29Jan2025 15:04:17.641] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:04:17.644] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:04:19.527] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:04:19.528] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:04:19.529] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:04:19.530] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:04:19.727] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:04:19.759] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:04:19.760] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:04:19.761] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:04:19.761] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'

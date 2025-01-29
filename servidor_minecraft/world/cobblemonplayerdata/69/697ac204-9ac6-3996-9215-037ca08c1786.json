@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 34,
+    "totalBattleVictoryCount": 39,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 34,
+    "totalPvWBattleVictoryCount": 39,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -43,12 +43,13 @@
       "cobblemon:zigzagoon": 1,
       "cobblemon:patrat": 2,
       "cobblemon:fearow": 1,
-      "cobblemon:pikipek": 4,
+      "cobblemon:pikipek": 5,
       "cobblemon:bounsweet": 1,
-      "cobblemon:caterpie": 1,
+      "cobblemon:caterpie": 2,
       "cobblemon:karrablast": 1,
-      "cobblemon:bellsprout": 1,
-      "cobblemon:kecleon": 1
+      "cobblemon:bellsprout": 3,
+      "cobblemon:kecleon": 1,
+      "cobblemon:heracross": 1
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [
