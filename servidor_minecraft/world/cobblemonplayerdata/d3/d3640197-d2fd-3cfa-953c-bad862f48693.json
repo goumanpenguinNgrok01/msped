@@ -8,18 +8,19 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 1,
+    "totalCaptureCount": 2,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 71,
+    "totalBattleVictoryCount": 74,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 71,
+    "totalPvWBattleVictoryCount": 74,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "normal": 1
+      "normal": 1,
+      "ground": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:sentret": 1,
@@ -36,7 +37,7 @@
       "cobblemon:sizzlipede": 1,
       "cobblemon:magby": 12,
       "cobblemon:salandit": 5,
-      "cobblemon:numel": 25,
+      "cobblemon:numel": 27,
       "cobblemon:zubat": 1,
       "cobblemon:bidoof": 1
     },
@@ -46,6 +47,10 @@
       ],
       "cobblemon:frogadier": [
         "male"
+      ],
+      "cobblemon:cubone": [
+        "female",
+        "region-bias-alola"
       ]
     }
   }

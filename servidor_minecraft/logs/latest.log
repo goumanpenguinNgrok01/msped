@@ -1190,3 +1190,10 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 	... 14 more
 [29Jan2025 23:34:58.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
 [29Jan2025 23:34:58.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
+[29Jan2025 23:40:31.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: G4R3N[/127.16.74.63:40175] logged in with entity id 3758 at (-1130.518863231286, 68.95000009536744, 202.82531528986237)
+[29Jan2025 23:40:31.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N joined the game
+[29Jan2025 23:43:15.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[29Jan2025 23:43:34.882] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 971230a5-9282-4b34-aa3a-c2b3a2a032e7
+[29Jan2025 23:43:34.884] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 971230a5-9282-4b34-aa3a-c2b3a2a032e7
+[29Jan2025 23:45:39.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[29Jan2025 23:46:40.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!

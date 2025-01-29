@@ -5176,6 +5176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 23:38:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-01-29 23:17:53 +0000"
@@ -5221,6 +5227,12 @@
   "cobblemon:recipes/evolution/electirizer": {
     "criteria": {
       "has_redstone": "2025-01-29 23:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 23:38:28 +0000"
     },
     "done": true
   },
@@ -5290,6 +5302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 23:38:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-01-29 23:21:46 +0000"
@@ -5306,6 +5324,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-01-29 23:19:41 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/magmarizer": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 23:38:28 +0000"
     },
     "done": true
   },
@@ -5396,6 +5420,12 @@
   "justhammers:recipes/tools/gold_hammer": {
     "criteria": {
       "has_material": "2025-01-29 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/focus_sash": {
+    "criteria": {
+      "has_powder": "2025-01-29 23:38:28 +0000"
     },
     "done": true
   },
