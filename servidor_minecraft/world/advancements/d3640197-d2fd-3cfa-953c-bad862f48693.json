@@ -5007,6 +5007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-29 03:53:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-29 03:30:34 +0000"
@@ -5073,6 +5079,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-01-29 03:53:28 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_trade/spirit_trade/test": {
     "criteria": {
       "has_stone": "2025-01-29 03:29:06 +0000"
@@ -5088,6 +5100,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-29 03:27:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-29 03:53:28 +0000"
     },
     "done": true
   },
