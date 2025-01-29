@@ -994,3 +994,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [29Jan2025 15:04:19.760] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [29Jan2025 15:04:19.761] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [29Jan2025 15:04:19.761] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[29Jan2025 15:05:30.171] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1172.0 134.0 -397.0 minecraft:overworld
+[29Jan2025 15:06:25.372] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1115.0 108.0 -480.0 minecraft:overworld
+[29Jan2025 15:14:10.035] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1189.0 109.0 -470.0 minecraft:overworld
+[29Jan2025 15:14:23.684] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1241.0 89.0 -593.0 minecraft:overworld
