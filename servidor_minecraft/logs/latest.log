@@ -944,3 +944,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [29Jan2025 13:45:54.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Voluntary Exile]
 [29Jan2025 13:55:08.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
 [29Jan2025 13:55:08.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
+[29Jan2025 14:04:30.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: G4R3N[/127.16.74.63:51239] logged in with entity id 8365 at (-1836.6406821118892, 61.66443371870127, 46.25129479792427)
+[29Jan2025 14:04:30.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N joined the game
