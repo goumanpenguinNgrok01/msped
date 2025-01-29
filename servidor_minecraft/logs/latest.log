@@ -917,3 +917,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [29Jan2025 03:13:39.984] [Server thread/INFO] [Modonomicon/]: Books built.
 [29Jan2025 03:13:40.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 joined the game
 [29Jan2025 03:13:44.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[29Jan2025 03:34:44.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 was shot by Skeleton
+[29Jan2025 03:34:44.438] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[29Jan2025 03:34:52.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has reached the goal [Here They Come]
+[29Jan2025 03:39:44.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 was slain by Drifblim
+[29Jan2025 03:39:44.936] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[29Jan2025 03:40:13.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [J4O3: Set own game mode to Creative Mode]
+[29Jan2025 03:42:24.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [J4O3: Set own game mode to Survival Mode]
