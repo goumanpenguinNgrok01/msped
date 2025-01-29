@@ -1238,3 +1238,7 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [29Jan2025 16:21:42.875] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [29Jan2025 16:22:24.268] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=202, y=47, z=211}
 [29Jan2025 16:23:05.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Amateur Archaeologist]
+[29Jan2025 16:27:58.278] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=203, y=48, z=159}
+[29Jan2025 16:29:50.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[29Jan2025 16:30:10.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
+[29Jan2025 16:30:10.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
