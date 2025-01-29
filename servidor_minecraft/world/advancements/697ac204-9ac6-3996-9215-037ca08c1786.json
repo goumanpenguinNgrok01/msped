@@ -2867,6 +2867,7 @@
       "rocky_shrubland": "2025-01-27 04:27:53 +0000",
       "redwood_forest": "2025-01-26 21:18:09 +0000",
       "scrubland": "2025-01-26 21:55:32 +0000",
+      "pumpkin_patch": "2025-01-29 16:22:59 +0000",
       "prairie": "2025-01-26 20:39:03 +0000",
       "grassland": "2025-01-29 15:14:45 +0000",
       "fungal_jungle": "2025-01-29 14:39:34 +0000",
@@ -3693,6 +3694,7 @@
       "minecraft:dark_forest": "2025-01-27 04:24:42 +0000",
       "minecraft:stony_peaks": "2025-01-27 04:54:46 +0000",
       "minecraft:forest": "2025-01-27 02:48:22 +0000",
+      "minecraft:taiga": "2025-01-29 16:21:30 +0000",
       "minecraft:sparse_jungle": "2025-01-27 02:40:24 +0000",
       "minecraft:river": "2025-01-26 21:04:41 +0000",
       "minecraft:stony_shore": "2025-01-27 04:28:12 +0000",
@@ -6695,6 +6697,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2025-01-29 15:09:18 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-29 16:23:05 +0000"
     },
     "done": true
   },
