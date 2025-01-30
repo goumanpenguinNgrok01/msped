@@ -11,13 +11,13 @@
     "totalCaptureCount": 10,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 113,
+    "totalEvolvedCount": 4,
+    "totalBattleVictoryCount": 117,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 113,
+    "totalPvWBattleVictoryCount": 117,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
-    "totalTradedCount": 1,
+    "totalTradedCount": 2,
     "totalTypeCaptureCounts": {
       "ground": 1,
       "rock": 2,
@@ -47,7 +47,7 @@
       "cobblemon:fearow": 1,
       "cobblemon:pikipek": 5,
       "cobblemon:bounsweet": 1,
-      "cobblemon:caterpie": 2,
+      "cobblemon:caterpie": 3,
       "cobblemon:karrablast": 1,
       "cobblemon:bellsprout": 3,
       "cobblemon:kecleon": 1,
@@ -85,7 +85,9 @@
       "cobblemon:krabby": 1,
       "cobblemon:ditto": 1,
       "cobblemon:kingler": 1,
-      "cobblemon:gimmighoul": 3
+      "cobblemon:gimmighoul": 3,
+      "cobblemon:zubat": 1,
+      "cobblemon:mudbray": 2
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [
@@ -125,6 +127,14 @@
       ],
       "cobblemon:electabuzz": [
         "male"
+      ],
+      "cobblemon:metapod": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:butterfree": [
+        "shiny",
+        "female"
       ]
     }
   }
