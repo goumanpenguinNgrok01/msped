@@ -1142,3 +1142,7 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [30Jan2025 02:14:34.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4O3 lost connection: Disconnected
 [30Jan2025 02:14:34.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 left the game
 [30Jan2025 02:16:57.161] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2505.0 22.0 251.0 minecraft:overworld
+[30Jan2025 02:26:31.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
+[30Jan2025 02:26:31.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
+[30Jan2025 02:26:35.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Jan2025 02:26:35.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
