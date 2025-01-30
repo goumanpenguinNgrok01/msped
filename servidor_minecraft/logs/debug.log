@@ -11593,3 +11593,95 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [30Jan2025 00:51:40.652] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
 [30Jan2025 00:51:40.654] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [30Jan2025 00:51:40.662] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:52:01.072] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jan2025 00:52:10.702] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:52:10.703] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:52:11.063] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:52:40.751] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:52:40.752] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:52:40.767] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:53:10.802] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:53:10.804] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:53:10.813] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:53:28.314] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1844.92, y=102.00, z=-342.48]
+[30Jan2025 00:53:30.421] [Server thread/DEBUG] [mixin/]: Mixing BagItemInstructionMixin from rctapi.mixins.json into com.cobblemon.mod.common.battles.interpreter.instructions.BagItemInstruction
+[30Jan2025 00:53:30.422] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$injectInvoke$1(Lcom/gitlab/srcmc/rctapi/api/battle/BattleState;)Z to md27bcd7$rctapi$lambda$injectInvoke$1$0 in rctapi.mixins.json:BagItemInstructionMixin from mod rctapi
+[30Jan2025 00:53:30.423] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$injectInvoke$0(Lcom/cobblemon/mod/common/api/battles/model/PokemonBattle;Ljava/util/Map$Entry;)Lcom/gitlab/srcmc/rctapi/api/battle/BattleState; to md27bcd7$rctapi$lambda$injectInvoke$0$1 in rctapi.mixins.json:BagItemInstructionMixin from mod rctapi
+[30Jan2025 00:53:30.461] [Server thread/DEBUG] [mixin/]: rctapi.mixins.json:BagItemInstructionMixin from mod rctapi->@Inject::injectInvoke(Lcom/cobblemon/mod/common/api/battles/model/PokemonBattle;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[30Jan2025 00:53:40.852] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:53:40.853] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:53:40.863] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:54:10.902] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:54:10.904] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:54:10.910] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:54:40.952] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:54:40.954] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:54:40.964] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:54:45.979] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1846.98, y=102.00, z=-343.23], dimensionLocationPath overworld
+[30Jan2025 00:54:45.979] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1846.98, y=102.00, z=-343.23] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2]
+[30Jan2025 00:55:11.001] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:55:11.003] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:55:11.014] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:55:41.051] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:55:41.053] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:55:41.063] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:56:03.932] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1892.10, y=59.59, z=-372.57]
+[30Jan2025 00:56:06.913] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1893.46, y=61.29, z=-377.44], dimensionLocationPath overworld
+[30Jan2025 00:56:06.913] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1893.46, y=61.29, z=-377.44] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2]
+[30Jan2025 00:56:10.012] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1896.41, y=61.20, z=-376.60]
+[30Jan2025 00:56:11.103] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:56:11.104] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:56:11.116] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:56:11.213] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1897.55, y=62.72, z=-373.84], dimensionLocationPath overworld
+[30Jan2025 00:56:11.213] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1897.55, y=62.72, z=-373.84] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2]
+[30Jan2025 00:56:23.968] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1899.63, y=61.22, z=-379.62]
+[30Jan2025 00:56:26.362] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1900.80, y=61.49, z=-380.15], dimensionLocationPath overworld
+[30Jan2025 00:56:26.362] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1900.80, y=61.49, z=-380.15] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2]
+[30Jan2025 00:56:30.513] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1905.63, y=61.24, z=-381.06]
+[30Jan2025 00:56:32.213] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1909.34, y=62.52, z=-383.70], dimensionLocationPath overworld
+[30Jan2025 00:56:32.213] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1909.34, y=62.52, z=-383.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2]
+[30Jan2025 00:56:41.152] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:56:41.156] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:56:41.166] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:57:00.856] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jan2025 00:57:11.201] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:57:11.202] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:57:11.210] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:57:41.252] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:57:41.253] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:57:41.261] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:58:11.302] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:58:11.303] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:58:11.313] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:58:41.352] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:58:41.353] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:58:41.359] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:59:11.403] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:59:11.404] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:59:11.415] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:59:41.452] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:59:41.453] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:59:41.463] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 01:00:00.212] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/18275, l='ServerLevel[world]', x=-1777.69, y=78.32, z=-502.68], dimensionLocationPath overworld
+[30Jan2025 01:00:00.212] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/18275, l='ServerLevel[world]', x=-1777.69, y=78.32, z=-502.68] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3a37]
+[30Jan2025 01:00:01.263] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/18275, l='ServerLevel[world]', x=-1778.33, y=78.00, z=-502.88, removed=DISCARDED]
+[30Jan2025 01:00:11.501] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 01:00:11.503] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:00:11.517] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 01:00:41.555] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 01:00:41.556] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:00:41.599] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 01:00:49.167] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/18581, l='ServerLevel[world]', x=-1732.50, y=103.67, z=-523.50], dimensionLocationPath overworld
+[30Jan2025 01:00:49.167] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/18581, l='ServerLevel[world]', x=-1732.50, y=103.67, z=-523.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3a37]
+[30Jan2025 01:00:49.962] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/18581, l='ServerLevel[world]', x=-1731.47, y=103.00, z=-523.06, removed=DISCARDED]
+[30Jan2025 01:01:03.065] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1710.44, y=102.00, z=-521.29]
+[30Jan2025 01:01:11.601] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 01:01:11.606] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:01:11.614] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 01:01:20.814] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1712.69, y=103.00, z=-510.52], dimensionLocationPath overworld
+[30Jan2025 01:01:20.814] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1712.69, y=103.00, z=-510.52] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2]
+[30Jan2025 01:01:30.680] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-1723.02, y=98.00, z=-486.26]
+[30Jan2025 01:01:41.652] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 01:01:41.653] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:01:41.662] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 01:02:00.797] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

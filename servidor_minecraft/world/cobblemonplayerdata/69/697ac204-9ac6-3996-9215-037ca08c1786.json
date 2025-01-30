@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 98,
+    "totalBattleVictoryCount": 102,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 98,
+    "totalPvWBattleVictoryCount": 102,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 1,
@@ -76,7 +76,11 @@
       "cobblemon:pidgeotto": 1,
       "cobblemon:spinda": 1,
       "cobblemon:plusle": 1,
-      "cobblemon:dubwool": 1
+      "cobblemon:dubwool": 1,
+      "cobblemon:corvisquire": 1,
+      "cobblemon:tauros": 1,
+      "cobblemon:bouffalant": 1,
+      "cobblemon:maushold": 1
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [

@@ -3255,17 +3255,18 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
-      "obtain_persim_berry": "2025-01-26 21:51:09 +0000",
       "obtain_nanab_berry": "2025-01-27 04:12:57 +0000",
       "obtain_coba_berry": "2025-01-26 21:57:24 +0000",
-      "obtain_cheri_berry": "2025-01-27 02:24:26 +0000",
       "obtain_oran_berry": "2025-01-26 20:58:09 +0000",
       "obtain_haban_berry": "2025-01-29 23:43:46 +0000",
+      "obtain_tanga_berry": "2025-01-29 15:56:23 +0000",
+      "obtain_persim_berry": "2025-01-26 21:51:09 +0000",
+      "obtain_cheri_berry": "2025-01-27 02:24:26 +0000",
+      "obtain_wacan_berry": "2025-01-30 00:56:22 +0000",
       "obtain_aspear_berry": "2025-01-30 00:05:32 +0000",
       "obtain_chesto_berry": "2025-01-27 02:27:35 +0000",
       "obtain_razz_berry": "2025-01-26 21:18:13 +0000",
       "obtain_pecha_berry": "2025-01-27 02:29:47 +0000",
-      "obtain_tanga_berry": "2025-01-29 15:56:23 +0000",
       "obtain_wepear_berry": "2025-01-27 02:54:21 +0000"
     },
     "done": false
@@ -7220,6 +7221,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-01-30 00:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-01-30 00:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-01-30 00:59:49 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/mossy_waystone_from_vines": {
     "criteria": {
       "has_waystone": "2025-01-30 00:40:07 +0000"
@@ -7229,6 +7248,18 @@
   "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
     "criteria": {
       "has_waystone": "2025-01-30 00:40:07 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-01-30 00:59:49 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-01-30 00:59:49 +0000"
     },
     "done": true
   },
