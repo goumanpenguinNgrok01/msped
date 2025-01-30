@@ -776,3 +776,8 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:60) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 14 more
+[30Jan2025 01:12:45.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[30Jan2025 01:13:09.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[30Jan2025 01:13:10.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[30Jan2025 01:22:20.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [The Lighthouse]
+[30Jan2025 01:22:50.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
