@@ -1136,3 +1136,9 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [30Jan2025 02:11:22.765] [Server thread/INFO] [journeymap/]: J4O3 teleported to -978.5 64.0 157.5 minecraft:overworld
 [30Jan2025 02:11:33.769] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2534.5 1.0 240.5 minecraft:overworld
 [30Jan2025 02:12:39.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[30Jan2025 02:14:24.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N was burned to a crisp while fighting Stray
+[30Jan2025 02:14:24.850] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[30Jan2025 02:14:33.622] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2530.5 -6.0 251.5 minecraft:overworld
+[30Jan2025 02:14:34.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4O3 lost connection: Disconnected
+[30Jan2025 02:14:34.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 left the game
+[30Jan2025 02:16:57.161] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2505.0 22.0 251.0 minecraft:overworld

@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 10,
+    "totalCaptureCount": 11,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 117,
+    "totalBattleVictoryCount": 118,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 117,
+    "totalPvWBattleVictoryCount": 118,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 2,
@@ -23,10 +23,10 @@
       "rock": 2,
       "fighting": 2,
       "poison": 1,
-      "bug": 1,
+      "bug": 2,
       "steel": 1,
       "normal": 3,
-      "electric": 2,
+      "electric": 3,
       "fire": 1
     },
     "totalDefeatedCounts": {
@@ -134,6 +134,9 @@
       ],
       "cobblemon:butterfree": [
         "shiny",
+        "female"
+      ],
+      "cobblemon:joltik": [
         "female"
       ]
     }
