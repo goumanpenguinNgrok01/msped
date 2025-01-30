@@ -12,12 +12,12 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 87,
-    "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 87,
+    "totalBattleVictoryCount": 91,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 90,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 0,
+    "totalTradedCount": 1,
     "totalTypeCaptureCounts": {
       "normal": 1,
       "ground": 1,
@@ -31,7 +31,7 @@
       "cobblemon:wooloo": 1,
       "cobblemon:fletchling": 1,
       "cobblemon:bunnelby": 1,
-      "cobblemon:taillow": 1,
+      "cobblemon:taillow": 2,
       "cobblemon:eevee": 1,
       "cobblemon:cottonee": 1,
       "cobblemon:lechonk": 1,
@@ -45,7 +45,9 @@
       "cobblemon:charmander": 1,
       "cobblemon:centiskorch": 1,
       "cobblemon:magikarp": 1,
-      "cobblemon:magmar": 1
+      "cobblemon:magmar": 1,
+      "cobblemon:mareep": 1,
+      "cobblemon:lickitung": 1
     },
     "aspectsCollected": {
       "cobblemon:wooloo": [

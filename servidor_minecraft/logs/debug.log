@@ -11275,3 +11275,83 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [30Jan2025 00:09:58.052] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
 [30Jan2025 00:09:58.055] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [30Jan2025 00:09:58.084] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:10:28.101] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[30Jan2025 00:10:28.112] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:10:28.143] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[30Jan2025 00:10:44.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[30Jan2025 00:10:46.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[30Jan2025 00:11:03.898] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:11:03.903] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:11:03.925] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:11:06.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4467ms or 89 ticks behind
+[30Jan2025 00:11:28.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has made the advancement [Take Good Care!]
+[30Jan2025 00:11:28.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Take Good Care!]
+[30Jan2025 00:11:34.651] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:11:34.653] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:11:34.676] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:11:59.121] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jan2025 00:12:04.702] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 00:12:04.703] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:12:04.708] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 00:12:24.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[30Jan2025 00:12:36.753] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 00:12:36.754] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:12:36.763] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 00:13:07.790] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:13:07.800] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:13:07.813] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:13:37.850] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[30Jan2025 00:13:37.862] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:13:37.863] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[30Jan2025 00:13:57.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has made the advancement [Where's my Victory Music?]
+[30Jan2025 00:14:03.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['G4R3N'/3758, l='ServerLevel[world]', x=-2069.69, y=63.00, z=-219.07], dimensionLocationPath overworld
+[30Jan2025 00:14:03.370] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['G4R3N'/3758, l='ServerLevel[world]', x=-2069.69, y=63.00, z=-219.07] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@252]
+[30Jan2025 00:14:06.902] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:14:06.904] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:14:06.972] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:14:36.951] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:14:36.955] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:14:36.961] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:15:00.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Researcher Recruit]
+[30Jan2025 00:15:07.003] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:15:07.012] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:15:07.661] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:15:37.059] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:15:37.142] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:15:37.253] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:16:07.102] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:16:07.106] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:16:07.116] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:16:37.152] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:16:37.154] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:16:37.161] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:17:00.811] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jan2025 00:17:07.201] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:17:07.203] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:17:07.214] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:17:37.251] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:17:37.252] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:17:37.262] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:17:46.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> ZZ
+[30Jan2025 00:18:07.301] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:18:07.304] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:18:07.312] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:18:37.738] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[30Jan2025 00:18:37.741] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:18:37.776] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[30Jan2025 00:19:07.402] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:19:07.404] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:19:07.413] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:19:37.453] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:19:37.454] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:19:37.464] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:20:07.543] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 00:20:07.545] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:20:07.630] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 00:20:26.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[30Jan2025 00:20:37.553] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:20:37.554] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:20:37.564] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 00:21:07.602] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 00:21:07.603] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 00:21:07.613] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.

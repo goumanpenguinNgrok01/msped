@@ -2861,6 +2861,7 @@
       "volcanic_plains": "2025-01-27 02:41:30 +0000",
       "woodland": "2025-01-26 21:57:59 +0000",
       "mystic_grove": "2025-01-28 02:57:02 +0000",
+      "shrubland": "2025-01-30 00:08:24 +0000",
       "redwood_forest": "2025-01-26 21:22:26 +0000",
       "scrubland": "2025-01-26 21:59:49 +0000",
       "prairie": "2025-01-26 20:41:33 +0000",
@@ -3666,8 +3667,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-01-30 00:09:38 +0000",
       "minecraft:jungle": "2025-01-28 02:58:58 +0000",
-      "minecraft:river": "2025-01-26 21:05:38 +0000"
+      "minecraft:river": "2025-01-26 21:05:38 +0000",
+      "minecraft:birch_forest": "2025-01-30 00:09:34 +0000"
     },
     "done": false
   },
@@ -5164,6 +5167,12 @@
     },
     "done": true
   },
+  "cobblemon:trade_pokemon": {
+    "criteria": {
+      "trade": "2025-01-30 00:11:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-01-29 23:17:53 +0000"
@@ -5348,6 +5357,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-01-29 23:21:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_battle_victory": {
+    "criteria": {
+      "win": "2025-01-30 00:13:57 +0000"
     },
     "done": true
   },
