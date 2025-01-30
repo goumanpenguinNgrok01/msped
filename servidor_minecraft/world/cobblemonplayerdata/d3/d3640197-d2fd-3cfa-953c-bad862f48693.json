@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 94,
+    "totalBattleVictoryCount": 96,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 93,
+    "totalPvWBattleVictoryCount": 95,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -49,7 +49,9 @@
       "cobblemon:mareep": 2,
       "cobblemon:lickitung": 1,
       "cobblemon:floette": 1,
-      "cobblemon:miltank": 1
+      "cobblemon:miltank": 1,
+      "cobblemon:metapod": 1,
+      "cobblemon:bouffalant": 1
     },
     "aspectsCollected": {
       "cobblemon:wooloo": [

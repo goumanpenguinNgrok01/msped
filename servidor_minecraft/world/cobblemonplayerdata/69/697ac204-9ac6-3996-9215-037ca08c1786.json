@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 102,
+    "totalBattleVictoryCount": 104,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 102,
+    "totalPvWBattleVictoryCount": 104,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 1,
@@ -56,7 +56,7 @@
       "cobblemon:igglybuff": 2,
       "cobblemon:bunnelby": 2,
       "cobblemon:flabebe": 1,
-      "cobblemon:mareep": 1,
+      "cobblemon:mareep": 2,
       "cobblemon:deerling": 1,
       "cobblemon:yanma": 1,
       "cobblemon:pichu": 1,
@@ -80,7 +80,8 @@
       "cobblemon:corvisquire": 1,
       "cobblemon:tauros": 1,
       "cobblemon:bouffalant": 1,
-      "cobblemon:maushold": 1
+      "cobblemon:maushold": 1,
+      "cobblemon:ledian": 1
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [
