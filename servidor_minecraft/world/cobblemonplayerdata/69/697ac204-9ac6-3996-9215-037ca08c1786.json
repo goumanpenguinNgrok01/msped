@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 8,
+    "totalCaptureCount": 9,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 88,
+    "totalBattleVictoryCount": 95,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 88,
+    "totalPvWBattleVictoryCount": 95,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -26,22 +26,23 @@
       "bug": 1,
       "steel": 1,
       "normal": 3,
-      "electric": 1
+      "electric": 1,
+      "fire": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:combee": 3,
       "cobblemon:vivillon": 1,
       "cobblemon:lechonk": 4,
       "cobblemon:slakoth": 2,
-      "cobblemon:ledyba": 2,
+      "cobblemon:ledyba": 3,
       "cobblemon:spinarak": 1,
       "cobblemon:shinx": 1,
       "cobblemon:sandshrew": 1,
-      "cobblemon:wooloo": 8,
-      "cobblemon:taillow": 5,
+      "cobblemon:wooloo": 10,
+      "cobblemon:taillow": 6,
       "cobblemon:cottonee": 2,
       "cobblemon:pidgey": 4,
-      "cobblemon:zigzagoon": 3,
+      "cobblemon:zigzagoon": 4,
       "cobblemon:patrat": 2,
       "cobblemon:fearow": 1,
       "cobblemon:pikipek": 5,
@@ -72,7 +73,8 @@
       "cobblemon:psyduck": 1,
       "cobblemon:comfey": 1,
       "cobblemon:buneary": 1,
-      "cobblemon:pidgeotto": 1
+      "cobblemon:pidgeotto": 1,
+      "cobblemon:spinda": 1
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [
@@ -105,6 +107,9 @@
         "male"
       ],
       "cobblemon:charizard": [
+        "male"
+      ],
+      "cobblemon:growlithe": [
         "male"
       ]
     }
