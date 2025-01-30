@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 96,
+    "totalBattleVictoryCount": 97,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 96,
+    "totalPvWBattleVictoryCount": 97,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 1,
@@ -74,7 +74,8 @@
       "cobblemon:comfey": 1,
       "cobblemon:buneary": 1,
       "cobblemon:pidgeotto": 1,
-      "cobblemon:spinda": 1
+      "cobblemon:spinda": 1,
+      "cobblemon:plusle": 1
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [

@@ -21,3 +21,5 @@
 [30Jan2025 00:22:24.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 left the game
 [30Jan2025 00:23:52.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
 [30Jan2025 00:23:52.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
+[30Jan2025 00:38:58.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: G4R3N[/127.16.74.63:49821] logged in with entity id 14306 at (-2032.3612605237884, 78.0, -208.27426362346463)
+[30Jan2025 00:38:58.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N joined the game
