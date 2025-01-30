@@ -4214,6 +4214,7 @@
       "minecraft:cave_spider": "2025-01-27 03:21:53 +0000",
       "minecraft:skeleton": "2025-01-26 21:23:47 +0000",
       "minecraft:stray": "2025-01-27 03:45:01 +0000",
+      "minecraft:enderman": "2025-01-30 02:03:32 +0000",
       "minecraft:spider": "2025-01-26 21:19:38 +0000",
       "minecraft:piglin_brute": "2025-01-29 15:59:34 +0000",
       "minecraft:wither_skeleton": "2025-01-27 03:10:49 +0000",
@@ -7225,6 +7226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-01-30 00:59:49 +0000"
@@ -7249,6 +7256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-01-30 01:52:13 +0000"
@@ -7258,6 +7271,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-01-30 01:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-01-30 01:58:01 +0000"
     },
     "done": true
   },
@@ -7273,15 +7298,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-30 02:06:33 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
     "criteria": {
       "has_waystone": "2025-01-30 00:40:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-30 01:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
+    },
+    "done": true
+  },
   "comforts:recipes/decorations/hammock_brown": {
     "criteria": {
       "has_brown_wool": "2025-01-30 00:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
     },
     "done": true
   },
@@ -7294,6 +7349,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-01-30 01:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-30 01:56:25 +0000"
     },
     "done": true
   },

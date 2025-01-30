@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 107,
+    "totalBattleVictoryCount": 108,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 106,
+    "totalPvWBattleVictoryCount": 107,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 2,
@@ -56,7 +56,8 @@
       "cobblemon:pidgey": 1,
       "cobblemon:crabrawler": 1,
       "cobblemon:exeggcute": 1,
-      "cobblemon:dubwool": 1
+      "cobblemon:dubwool": 1,
+      "cobblemon:spinarak": 1
     },
     "aspectsCollected": {
       "cobblemon:wooloo": [
