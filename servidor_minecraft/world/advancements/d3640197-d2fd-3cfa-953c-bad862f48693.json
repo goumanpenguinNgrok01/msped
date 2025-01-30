@@ -5167,11 +5167,11 @@
     },
     "done": true
   },
-  "cobblemon:trade_pokemon": {
+  "cobblemon:recipes/misc/ultra_rod": {
     "criteria": {
-      "trade": "2025-01-30 00:11:28 +0000"
+      "has_ball": "2025-01-29 23:17:27 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
@@ -5182,12 +5182,6 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-01-29 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-29 23:38:28 +0000"
     },
     "done": true
   },
@@ -5203,12 +5197,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-01-29 23:21:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-01-29 23:17:53 +0000"
@@ -5221,27 +5209,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-01-29 23:19:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-01-29 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/evolution/electirizer": {
-    "criteria": {
-      "has_redstone": "2025-01-29 23:21:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-29 23:38:28 +0000"
     },
     "done": true
   },
@@ -5251,27 +5221,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2025-01-29 23:21:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-29 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-01-29 23:21:46 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/magnet": {
-    "criteria": {
-      "has_redstone": "2025-01-29 23:21:46 +0000"
     },
     "done": true
   },
@@ -5293,12 +5245,6 @@
     },
     "done": true
   },
-  "apotheosis:progression/ascent": {
-    "criteria": {
-      "uncommon_chest": "2025-01-29 23:19:42 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-01-29 23:17:53 +0000"
@@ -5311,15 +5257,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
-      "has_blaze_powder": "2025-01-29 23:38:28 +0000"
+      "has_gold_ingot": "2025-01-29 23:17:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_block": {
+  "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
-      "has_redstone": "2025-01-29 23:21:46 +0000"
+      "has_gold_ingot": "2025-01-29 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2025-01-29 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 23:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-29 23:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-01-29 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-01-29 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-29 23:19:17 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "affixed": "2025-01-29 23:19:18 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/haven": {
+    "criteria": {
+      "affixed": "2025-01-29 23:19:18 +0000"
     },
     "done": true
   },
@@ -5336,21 +5330,51 @@
     },
     "done": true
   },
-  "cobblemon:recipes/evolution/magmarizer": {
+  "apotheosis:progression/ascent": {
     "criteria": {
-      "has_blaze_powder": "2025-01-29 23:38:28 +0000"
+      "uncommon_chest": "2025-01-29 23:19:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-01-29 23:19:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "has_iron_sword": "2025-01-29 23:19:15 +0000"
+      "has_redstone": "2025-01-29 23:21:46 +0000"
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "cobblemon:recipes/evolution/electirizer": {
     "criteria": {
-      "iron_pickaxe": "2025-01-29 23:19:17 +0000"
+      "has_redstone": "2025-01-29 23:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:21:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/magnet": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-29 23:21:46 +0000"
     },
     "done": true
   },
@@ -5360,51 +5384,9 @@
     },
     "done": true
   },
-  "cobblemon:first_battle_victory": {
-    "criteria": {
-      "win": "2025-01-30 00:13:57 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:craft_pokedex": {
-    "criteria": {
-      "requirement": "2025-01-29 23:23:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-29 23:17:53 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/misc/pokedex_green": {
-    "criteria": {
-      "has_pokedex": "2025-01-29 23:23:57 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/misc/ultra_rod": {
-    "criteria": {
-      "has_ball": "2025-01-29 23:17:27 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-01-29 23:18:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-01-29 23:21:46 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:progression/root": {
-    "criteria": {
-      "affixed": "2025-01-29 23:19:18 +0000"
     },
     "done": true
   },
@@ -5414,27 +5396,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+  "minecraft:recipes/redstone/piston": {
     "criteria": {
-      "has_iron_sword": "2025-01-29 23:19:15 +0000"
+      "has_redstone": "2025-01-29 23:21:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_hoe": {
+  "cobblemon:craft_pokedex": {
     "criteria": {
-      "has_gold_ingot": "2025-01-29 23:17:53 +0000"
+      "requirement": "2025-01-29 23:23:57 +0000"
     },
     "done": true
   },
-  "apotheosis:progression/haven": {
+  "cobblemon:recipes/misc/pokedex_green": {
     "criteria": {
-      "affixed": "2025-01-29 23:19:18 +0000"
+      "has_pokedex": "2025-01-29 23:23:57 +0000"
     },
     "done": true
   },
-  "justhammers:recipes/tools/gold_hammer": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_material": "2025-01-29 23:17:53 +0000"
+      "has_blaze_powder": "2025-01-29 23:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 23:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 23:38:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/magmarizer": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 23:38:28 +0000"
     },
     "done": true
   },
@@ -5444,15 +5444,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "cobblemon:trade_pokemon": {
     "criteria": {
-      "has_gold_ingot": "2025-01-29 23:17:53 +0000"
+      "trade": "2025-01-30 00:11:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "cobblemon:first_battle_victory": {
     "criteria": {
-      "has_redstone": "2025-01-29 23:21:46 +0000"
+      "win": "2025-01-30 00:13:57 +0000"
     },
     "done": true
   },

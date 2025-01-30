@@ -23,3 +23,22 @@
 [30Jan2025 00:23:52.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
 [30Jan2025 00:38:58.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: G4R3N[/127.16.74.63:49821] logged in with entity id 14306 at (-2032.3612605237884, 78.0, -208.27426362346463)
 [30Jan2025 00:38:58.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N joined the game
+[30Jan2025 00:42:40.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J4O3[/127.16.74.63:46807] logged in with entity id 14903 at (-1844.863333188891, 103.0, -332.6370245462056)
+[30Jan2025 00:42:40.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 joined the game
+[30Jan2025 00:47:28.947] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[30Jan2025 00:47:28.950] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=1, hostName=\u0003\u0003�^�S, port=31786, intention=LOGIN]"
+[30Jan2025 00:47:28.951] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 163 extra bytes: 
+[30Jan2025 00:47:28.952] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "HO*T1WH; +@_8,k,cbNi_J&+/,0/525.ipgl.ply.gg"
+]
+[30Jan2025 00:47:37.173] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[30Jan2025 00:47:37.174] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=213, hostName=, port=209, intention=TRANSFER]"
+[30Jan2025 00:47:37.176] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 14 extra bytes: 
+[30Jan2025 00:47:37.176] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, -63, 86, -125, -48, 74, 58, -35, -124, 43, -38, -15, -25, -117]"
+]
