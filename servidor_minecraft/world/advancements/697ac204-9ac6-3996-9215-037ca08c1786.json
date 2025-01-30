@@ -2873,6 +2873,7 @@
       "volcano": "2025-01-27 02:45:22 +0000",
       "pasture": "2025-01-26 21:16:25 +0000",
       "rocky_rainforest": "2025-01-27 02:30:00 +0000",
+      "jade_cliffs": "2025-01-30 01:28:18 +0000",
       "volcanic_plains": "2025-01-27 02:33:33 +0000",
       "old_growth_woodland": "2025-01-27 02:47:55 +0000",
       "pumpkin_patch": "2025-01-29 16:22:59 +0000",
@@ -7231,6 +7232,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-01-30 00:59:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/relic_coin_pouch": {
+    "criteria": {
+      "has_coin": "2025-01-30 01:24:01 +0000"
     },
     "done": true
   },

@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 101,
+    "totalBattleVictoryCount": 103,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 100,
+    "totalPvWBattleVictoryCount": 102,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 1,
@@ -34,7 +34,7 @@
       "cobblemon:taillow": 3,
       "cobblemon:eevee": 1,
       "cobblemon:cottonee": 1,
-      "cobblemon:lechonk": 1,
+      "cobblemon:lechonk": 2,
       "cobblemon:cubone": 17,
       "cobblemon:sizzlipede": 1,
       "cobblemon:magby": 12,
@@ -52,7 +52,8 @@
       "cobblemon:miltank": 1,
       "cobblemon:metapod": 1,
       "cobblemon:bouffalant": 1,
-      "cobblemon:pidgey": 1
+      "cobblemon:pidgey": 1,
+      "cobblemon:crabrawler": 1
     },
     "aspectsCollected": {
       "cobblemon:wooloo": [

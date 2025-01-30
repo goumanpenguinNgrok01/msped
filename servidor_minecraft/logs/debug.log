@@ -12636,3 +12636,166 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [30Jan2025 01:22:39.552] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [30Jan2025 01:22:39.561] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
 [30Jan2025 01:22:50.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[30Jan2025 01:23:07.970] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/23003, l='ServerLevel[world]', x=-1837.41, y=70.00, z=-400.01, removed=UNLOADED_TO_CHUNK]
+[30Jan2025 01:23:09.602] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 01:23:09.604] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:23:09.627] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 01:23:39.651] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 01:23:39.652] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:23:39.665] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 01:24:09.702] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 01:24:09.705] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:24:09.746] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 01:24:33.924] [Server thread/INFO] [fightorflight/]: 424
+[30Jan2025 01:24:39.751] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 01:24:39.752] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:24:39.763] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 01:25:09.802] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 01:25:09.804] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:25:09.814] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 01:25:39.853] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[30Jan2025 01:25:39.855] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:25:39.862] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[30Jan2025 01:26:09.912] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 01:26:09.914] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:26:09.923] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 01:26:18.068] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-2908 | 39 | -828).
+[30Jan2025 01:26:18.073] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[30Jan2025 01:26:18.076] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[30Jan2025 01:26:18.076] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[30Jan2025 01:26:18.079] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[30Jan2025 01:26:18.079] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[30Jan2025 01:26:18.080] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 11(0) Nodes and 4(0) Rooms
+[30Jan2025 01:26:18.081] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[30Jan2025 01:26:18.081] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 7(5) Nodes and 4(0) Rooms
+[30Jan2025 01:26:18.081] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[30Jan2025 01:26:18.082] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 4(0) Rooms
+[30Jan2025 01:26:40.189] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[30Jan2025 01:26:40.190] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[30Jan2025 01:26:40.469] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 01:26:40.471] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:26:40.476] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 01:26:46.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2419, y=72, z=-488} BlockPos{x=-2420, y=70, z=-488}
+[30Jan2025 01:26:46.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2419, y=72, z=-488} BlockPos{x=-2420, y=70, z=-488}
+[30Jan2025 01:26:46.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2419, y=72, z=-488} BlockPos{x=-2420, y=70, z=-488}
+[30Jan2025 01:26:46.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2419, y=72, z=-488} BlockPos{x=-2420, y=70, z=-488}
+[30Jan2025 01:26:46.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2419, y=72, z=-488} BlockPos{x=-2420, y=70, z=-488}
+[30Jan2025 01:26:46.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2419, y=72, z=-488} BlockPos{x=-2420, y=70, z=-488}
+[30Jan2025 01:26:46.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2419, y=72, z=-488} BlockPos{x=-2420, y=70, z=-488}
+[30Jan2025 01:27:10.001] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 01:27:10.003] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:27:10.007] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 01:27:17.217] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2506.71, y=62.73, z=-380.79], dimensionLocationPath overworld
+[30Jan2025 01:27:17.218] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2506.71, y=62.73, z=-380.79] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2]
+[30Jan2025 01:27:17.328] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2506.80, y=62.73, z=-380.62]
+[30Jan2025 01:27:20.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 2.4662959517395393,4.180649793747669,9.03508074672402
+[30Jan2025 01:27:20.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 2.5887728803813843,4.372514345983696,9.371873473853384
+[30Jan2025 01:27:20.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 2.712284146240563,4.556781065537514,9.710189116099343
+[30Jan2025 01:27:26.883] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jan2025 01:27:40.321] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2522.58, y=62.72, z=-304.40], dimensionLocationPath overworld
+[30Jan2025 01:27:40.322] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2522.58, y=62.72, z=-304.40] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2]
+[30Jan2025 01:27:41.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[30Jan2025 01:27:41.108] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2523.04, y=62.72, z=-301.69]
+[30Jan2025 01:27:42.184] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 01:27:42.185] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:27:42.192] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 01:27:55.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 7.580830061180222,0.0,6.527112780654505
+[30Jan2025 01:27:55.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 7.772152463657676,0.0,6.691842509294162
+[30Jan2025 01:27:55.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 7.963266099304292,0.0,6.856392494756136
+[30Jan2025 01:27:55.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 8.154193556685641,0.0,7.0207821852476116
+[30Jan2025 01:27:55.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 8.344954980285365,0.0,7.185028924680296
+[30Jan2025 01:27:55.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 8.535568334954405,0.0,7.349148180355087
+[30Jan2025 01:27:55.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 8.726049641747068,0.0,7.513153746011284
+[30Jan2025 01:27:55.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 8.916413188240313,0.0,7.677057922906016
+[30Jan2025 01:27:55.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 9.106671716095661,0.0,7.8408716813006265
+[30Jan2025 01:27:55.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 9.296836588326642,0.0,8.004604804474525
+[30Jan2025 01:27:55.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 9.48691793846956,0.0,8.168266017156526
+[30Jan2025 01:27:55.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 9.676924803612565,0.0,8.33186310005999
+[30Jan2025 01:27:55.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 9.866865243030134,0.0,8.495402992025305
+[30Jan2025 01:27:55.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 10.056746443984593,0.0,8.65889188111052
+[30Jan2025 01:27:55.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 10.246689422282543,0.0,8.822201303222158
+[30Jan2025 01:27:55.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 10.438435402277719,0.0,8.983056160520022
+[30Jan2025 01:27:55.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 10.634098107925638,0.0,9.137595615406013
+[30Jan2025 01:27:55.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 10.835099589590754,0.0,9.280755800298124
+[30Jan2025 01:27:55.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 11.041299149668248,0.0,9.41070492712177
+[30Jan2025 01:27:55.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 11.252220740024768,0.0,9.527327205857148
+[30Jan2025 01:27:55.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 11.467363433979244,0.0,9.631292066543637
+[30Jan2025 01:27:55.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 11.683804993950162,-0.012540988835013422,9.72362146379831
+[30Jan2025 01:27:55.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 11.90140152318827,-0.037126343581590504,9.805399998037245
+[30Jan2025 01:27:55.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 12.12002584760421,-0.07327910757477696,9.877679748387294
+[30Jan2025 01:27:55.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 12.339568134052115,-0.12054121162461229,9.941542667633883
+[30Jan2025 01:28:02.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2527, y=81, z=-230} BlockPos{x=-2528, y=79, z=-230}
+[30Jan2025 01:28:03.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2527, y=81, z=-230} BlockPos{x=-2528, y=79, z=-230}
+[30Jan2025 01:28:03.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2526, y=81, z=-229} BlockPos{x=-2528, y=79, z=-230}
+[30Jan2025 01:28:09.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4O3 moved too quickly! 0.46184673095422113,3.916922182193531,9.258773722363856
+[30Jan2025 01:28:09.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
+[30Jan2025 01:28:14.652] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 01:28:14.653] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:28:14.675] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 01:28:15.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2524, y=91, z=-197} BlockPos{x=-2524, y=89, z=-195}
+[30Jan2025 01:28:15.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2524, y=91, z=-197} BlockPos{x=-2524, y=89, z=-195}
+[30Jan2025 01:28:15.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2525, y=91, z=-195} BlockPos{x=-2525, y=90, z=-194}
+[30Jan2025 01:28:16.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2525, y=91, z=-195} BlockPos{x=-2525, y=90, z=-194}
+[30Jan2025 01:28:18.094] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[30Jan2025 01:28:18.096] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[30Jan2025 01:28:18.097] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[30Jan2025 01:28:18.097] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[30Jan2025 01:28:18.128] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[30Jan2025 01:28:18.130] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[30Jan2025 01:28:20.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2508, y=89, z=-187} BlockPos{x=-2508, y=87, z=-187}
+[30Jan2025 01:28:20.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2508, y=89, z=-187} BlockPos{x=-2508, y=87, z=-187}
+[30Jan2025 01:28:44.761] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2467.30, y=70.00, z=-149.30], dimensionLocationPath overworld
+[30Jan2025 01:28:44.762] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2467.30, y=70.00, z=-149.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2]
+[30Jan2025 01:28:44.763] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 01:28:44.764] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:28:44.770] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 01:28:45.066] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2467.30, y=70.00, z=-149.30]
+[30Jan2025 01:29:14.753] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 01:29:14.754] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:29:14.759] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 01:29:44.802] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 01:29:44.803] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:29:44.807] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 01:29:52.983] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2282.71, y=74.33, z=-105.20], dimensionLocationPath overworld
+[30Jan2025 01:29:52.983] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2282.71, y=74.33, z=-105.20] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2]
+[30Jan2025 01:29:53.053] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2282.72, y=74.25, z=-105.19]
+[30Jan2025 01:30:14.852] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 01:30:14.854] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:30:14.858] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 01:30:44.902] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 01:30:44.903] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:30:44.908] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 01:30:47.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[30Jan2025 01:30:47.415] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2237.91, y=72.00, z=-110.56], dimensionLocationPath overworld
+[30Jan2025 01:30:47.415] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2237.91, y=72.00, z=-110.56] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2]
+[30Jan2025 01:30:47.817] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2237.91, y=72.00, z=-110.56]
+[30Jan2025 01:31:14.953] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 01:31:14.953] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:31:14.958] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 01:31:45.002] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 01:31:45.003] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:31:45.007] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 01:31:55.713] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2286.07, y=73.00, z=-110.81], dimensionLocationPath overworld
+[30Jan2025 01:31:55.713] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2286.07, y=73.00, z=-110.81] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2]
+[30Jan2025 01:31:56.168] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2286.07, y=73.00, z=-110.81]
+[30Jan2025 01:32:15.051] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 01:32:15.052] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:32:15.058] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[30Jan2025 01:32:23.024] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-2540 | 30 | 228).
+[30Jan2025 01:32:23.027] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[30Jan2025 01:32:23.027] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 6(0) Nodes and 3(0) Rooms
+[30Jan2025 01:32:23.027] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[30Jan2025 01:32:23.027] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 5(0) Rooms
+[30Jan2025 01:32:23.027] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[30Jan2025 01:32:23.028] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 7(4) Nodes and 5(0) Rooms
+[30Jan2025 01:32:23.028] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[30Jan2025 01:32:23.028] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 4(4) Nodes and 4(0) Rooms
+[30Jan2025 01:32:23.028] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[30Jan2025 01:32:23.028] [Worker-Main-5/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 4(0) Rooms
+[30Jan2025 01:32:31.167] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[30Jan2025 01:32:40.366] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2304.39, y=77.50, z=-62.80], dimensionLocationPath overworld
+[30Jan2025 01:32:40.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2304.39, y=77.50, z=-62.80] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@37e2]
+[30Jan2025 01:32:41.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/14903, l='ServerLevel[world]', x=-2300.52, y=77.00, z=-59.05]
+[30Jan2025 01:32:45.101] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[30Jan2025 01:32:45.103] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[30Jan2025 01:32:45.107] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.

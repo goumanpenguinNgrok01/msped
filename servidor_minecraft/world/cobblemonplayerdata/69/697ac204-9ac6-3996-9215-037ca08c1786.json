@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 109,
+    "totalBattleVictoryCount": 113,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 109,
+    "totalPvWBattleVictoryCount": 113,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 1,
@@ -31,7 +31,7 @@
     },
     "totalDefeatedCounts": {
       "cobblemon:combee": 3,
-      "cobblemon:vivillon": 1,
+      "cobblemon:vivillon": 2,
       "cobblemon:lechonk": 4,
       "cobblemon:slakoth": 2,
       "cobblemon:ledyba": 3,
@@ -84,7 +84,8 @@
       "cobblemon:ledian": 1,
       "cobblemon:krabby": 1,
       "cobblemon:ditto": 1,
-      "cobblemon:kingler": 1
+      "cobblemon:kingler": 1,
+      "cobblemon:gimmighoul": 3
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [
