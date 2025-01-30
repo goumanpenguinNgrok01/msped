@@ -17,3 +17,7 @@
 [30Jan2025 00:15:00.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Researcher Recruit]
 [30Jan2025 00:17:46.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> ZZ
 [30Jan2025 00:20:26.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[30Jan2025 00:22:24.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4O3 lost connection: Disconnected
+[30Jan2025 00:22:24.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 left the game
+[30Jan2025 00:23:52.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
+[30Jan2025 00:23:52.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game

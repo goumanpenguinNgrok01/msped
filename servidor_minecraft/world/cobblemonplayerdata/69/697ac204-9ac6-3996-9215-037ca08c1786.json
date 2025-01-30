@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 9,
+    "totalCaptureCount": 10,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 95,
+    "totalBattleVictoryCount": 96,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 95,
+    "totalPvWBattleVictoryCount": 96,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 1,
@@ -26,7 +26,7 @@
       "bug": 1,
       "steel": 1,
       "normal": 3,
-      "electric": 1,
+      "electric": 2,
       "fire": 1
     },
     "totalDefeatedCounts": {
@@ -110,6 +110,9 @@
         "male"
       ],
       "cobblemon:growlithe": [
+        "male"
+      ],
+      "cobblemon:electabuzz": [
         "male"
       ]
     }

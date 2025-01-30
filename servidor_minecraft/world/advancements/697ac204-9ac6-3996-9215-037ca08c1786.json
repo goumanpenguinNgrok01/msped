@@ -6716,6 +6716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-30 00:17:14 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/blocks/apricorn_stairs": {
     "criteria": {
       "has_planks": "2025-01-30 00:13:09 +0000"
@@ -6920,6 +6926,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/blocks/pasture": {
+    "criteria": {
+      "has_pc": "2025-01-30 00:18:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-30 00:13:32 +0000"
@@ -7076,6 +7088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-30 00:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-01-30 00:15:48 +0000"
@@ -7085,6 +7103,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-30 00:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-30 00:17:14 +0000"
     },
     "done": true
   },
