@@ -1140,3 +1140,23 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [31Jan2025 02:52:47.429] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2465.5 -22.0 230.5 minecraft:overworld
 [31Jan2025 02:52:57.100] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2534.5 1.0 240.5 minecraft:overworld
 [31Jan2025 02:53:05.715] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2004.5 167.0 420.5 minecraft:overworld
+[31Jan2025 02:55:30.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [J4O3: Set own game mode to Creative Mode]
+[31Jan2025 02:56:55.511] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: Failed to parse vibration listener for Sculk Shrieker: 'No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]'
+[31Jan2025 02:56:55.524] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[31Jan2025 02:56:55.526] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[31Jan2025 02:56:55.551] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[31Jan2025 02:56:55.551] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[31Jan2025 02:56:55.561] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[31Jan2025 02:56:55.562] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[31Jan2025 02:56:55.562] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[31Jan2025 02:56:55.563] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[31Jan2025 02:56:55.563] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[31Jan2025 02:56:56.161] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[31Jan2025 02:56:56.162] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[31Jan2025 02:56:56.172] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[31Jan2025 02:56:56.172] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[31Jan2025 02:56:56.172] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[31Jan2025 02:57:35.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [J4O3: Set own game mode to Survival Mode]
+[31Jan2025 03:03:11.739] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1956.0 154.0 365.0 minecraft:overworld
+[31Jan2025 03:03:15.721] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1991.0 112.0 316.0 minecraft:overworld
+[31Jan2025 03:03:38.729] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2198.0 75.0 399.0 minecraft:overworld
