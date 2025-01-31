@@ -1134,3 +1134,4 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [31Jan2025 02:30:20.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
 [31Jan2025 02:30:21.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zzz
 [31Jan2025 02:30:24.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[31Jan2025 02:42:37.258] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1811.0 168.0 369.0 minecraft:overworld

@@ -2863,6 +2863,7 @@
       "woodland": "2025-01-26 21:57:59 +0000",
       "mystic_grove": "2025-01-28 02:57:02 +0000",
       "shrubland": "2025-01-30 00:08:24 +0000",
+      "old_growth_woodland": "2025-01-31 02:32:15 +0000",
       "rocky_shrubland": "2025-01-30 00:56:27 +0000",
       "redwood_forest": "2025-01-26 21:22:26 +0000",
       "scrubland": "2025-01-26 21:59:49 +0000",
@@ -3675,16 +3676,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-01-30 00:09:38 +0000",
       "minecraft:snowy_slopes": "2025-01-30 01:42:50 +0000",
       "minecraft:beach": "2025-01-30 01:26:29 +0000",
       "minecraft:forest": "2025-01-30 01:43:20 +0000",
+      "minecraft:sparse_jungle": "2025-01-31 02:31:25 +0000",
+      "minecraft:river": "2025-01-26 21:05:38 +0000",
+      "minecraft:stony_shore": "2025-01-30 00:56:56 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-30 00:09:38 +0000",
       "minecraft:jungle": "2025-01-28 02:58:58 +0000",
       "minecraft:ocean": "2025-01-30 01:27:05 +0000",
-      "minecraft:river": "2025-01-26 21:05:38 +0000",
       "minecraft:grove": "2025-01-30 01:43:03 +0000",
       "minecraft:birch_forest": "2025-01-30 00:09:34 +0000",
-      "minecraft:stony_shore": "2025-01-30 00:56:56 +0000",
       "minecraft:savanna": "2025-01-30 01:41:12 +0000",
       "minecraft:plains": "2025-01-30 01:39:57 +0000"
     },
@@ -5835,6 +5837,30 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-30 02:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-31 02:37:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-01-31 02:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-31 02:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-31 02:37:27 +0000"
     },
     "done": true
   },
