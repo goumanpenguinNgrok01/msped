@@ -1120,3 +1120,17 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 14 more
 [31Jan2025 02:17:36.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> eeeeee
+[31Jan2025 02:24:32.454] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[31Jan2025 02:24:32.457] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[31Jan2025 02:24:32.458] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[31Jan2025 02:24:32.459] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[31Jan2025 02:24:32.476] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[31Jan2025 02:25:03.139] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[31Jan2025 02:25:03.140] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[31Jan2025 02:25:03.141] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[31Jan2025 02:25:03.142] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[31Jan2025 02:25:03.285] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[31Jan2025 02:25:03.286] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[31Jan2025 02:30:20.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
+[31Jan2025 02:30:21.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zzz
+[31Jan2025 02:30:24.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
