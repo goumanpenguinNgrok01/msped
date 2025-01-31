@@ -1160,3 +1160,6 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [31Jan2025 03:03:11.739] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1956.0 154.0 365.0 minecraft:overworld
 [31Jan2025 03:03:15.721] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1991.0 112.0 316.0 minecraft:overworld
 [31Jan2025 03:03:38.729] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2198.0 75.0 399.0 minecraft:overworld
+[31Jan2025 03:07:13.590] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2022.0 74.0 -651.0 minecraft:overworld
+[31Jan2025 03:08:25.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4O3 lost connection: Disconnected
+[31Jan2025 03:08:25.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 left the game
