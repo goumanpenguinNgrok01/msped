@@ -1163,3 +1163,11 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [31Jan2025 03:07:13.590] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2022.0 74.0 -651.0 minecraft:overworld
 [31Jan2025 03:08:25.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4O3 lost connection: Disconnected
 [31Jan2025 03:08:25.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 left the game
+[31Jan2025 03:27:44.177] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[31Jan2025 03:27:44.188] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=225, hostName=, port=221, intention=TRANSFER]"
+[31Jan2025 03:27:44.188] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 133 extra bytes: 
+[31Jan2025 03:27:44.191] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "R?F2yK}<J`h@05/2938=k/(j#<$,gf+'"
+]
