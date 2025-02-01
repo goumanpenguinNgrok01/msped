@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 15,
+    "totalCaptureCount": 16,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 146,
+    "totalBattleVictoryCount": 147,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 146,
+    "totalPvWBattleVictoryCount": 147,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 2,
@@ -26,8 +26,9 @@
       "bug": 4,
       "steel": 1,
       "normal": 4,
-      "electric": 4,
-      "fire": 2
+      "electric": 5,
+      "fire": 2,
+      "grass": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:combee": 5,
@@ -167,6 +168,10 @@
       ],
       "cobblemon:lairon": [
         "male"
+      ],
+      "cobblemon:voltorb": [
+        "genderless",
+        "hisuian"
       ]
     }
   }

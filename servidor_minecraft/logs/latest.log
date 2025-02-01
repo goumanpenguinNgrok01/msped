@@ -1376,3 +1376,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [01Feb2025 02:48:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has made the advancement [Barrel Booty]
 [01Feb2025 02:49:44.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
 [01Feb2025 02:51:50.379] [Server thread/INFO] [journeymap/]: G4R3N teleported to -497.0 74.0 -509.0 minecraft:overworld
+[01Feb2025 02:54:27.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4O3 lost connection: Disconnected
+[01Feb2025 02:54:27.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 left the game
