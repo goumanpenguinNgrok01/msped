@@ -3989,18 +3989,20 @@
       "uncommon_legs": "2025-01-26 21:06:56 +0000",
       "kill_apothic_invader": "2025-02-01 00:36:39 +0000",
       "uncommon_hand": "2025-01-27 03:04:41 +0000",
+      "uncommon_helm": "2025-02-01 01:33:24 +0000",
       "uncommon_feet": "2025-01-29 14:27:43 +0000"
     },
     "done": false
   },
   "apotheosis:progression/frontier": {
     "criteria": {
+      "common_helm": "2025-02-01 01:33:24 +0000",
       "common_hand": "2025-01-27 03:04:41 +0000",
       "common_chest": "2025-01-27 03:22:19 +0000",
       "common_legs": "2025-01-26 21:06:56 +0000",
       "common_feet": "2025-01-29 14:27:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
@@ -4213,14 +4215,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-29 13:45:54 +0000",
-      "minecraft:cave_spider": "2025-01-27 03:21:53 +0000",
       "minecraft:skeleton": "2025-01-26 21:23:47 +0000",
+      "minecraft:wither_skeleton": "2025-01-27 03:10:49 +0000",
+      "minecraft:ghast": "2025-02-01 01:30:27 +0000",
+      "minecraft:cave_spider": "2025-01-27 03:21:53 +0000",
+      "minecraft:piglin": "2025-02-01 01:32:04 +0000",
       "minecraft:stray": "2025-01-27 03:45:01 +0000",
       "minecraft:enderman": "2025-01-30 02:03:32 +0000",
       "minecraft:silverfish": "2025-02-01 00:33:59 +0000",
       "minecraft:spider": "2025-01-26 21:19:38 +0000",
       "minecraft:piglin_brute": "2025-01-29 15:59:34 +0000",
-      "minecraft:wither_skeleton": "2025-01-27 03:10:49 +0000",
       "minecraft:zombie": "2025-01-26 21:21:36 +0000",
       "minecraft:creeper": "2025-01-27 02:28:07 +0000",
       "minecraft:drowned": "2025-01-29 14:05:35 +0000"
@@ -7751,6 +7755,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-01 01:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-01 01:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-02-01 01:22:49 +0000"
@@ -7769,33 +7785,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-02-01 01:22:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-02-01 01:22:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-02-01 01:22:54 +0000"
-    },
-    "done": true
-  },
   "justhammers:recipes/tools/gold_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-02-01 01:22:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-02-01 01:25:45 +0000"
     },
     "done": true
   },
@@ -7805,9 +7797,15 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "justhammers:recipes/tools/gold_impact_hammer": {
     "criteria": {
-      "entered_nether": "2025-02-01 01:25:45 +0000"
+      "has_material": "2025-02-01 01:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-01 01:22:54 +0000"
     },
     "done": true
   },
@@ -7817,9 +7815,27 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/gold_impact_hammer": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_material": "2025-02-01 01:22:49 +0000"
+      "entered_nether": "2025-02-01 01:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-01 01:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-02-01 01:30:53 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-02-01 01:32:18 +0000"
     },
     "done": true
   },

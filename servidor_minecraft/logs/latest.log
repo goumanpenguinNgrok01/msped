@@ -1139,3 +1139,54 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [01Feb2025 01:26:25.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
 [01Feb2025 01:28:29.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: G4R3N[/127.16.74.63:46333] logged in with entity id 17085 at (-338.94113138201396, 47.34363188683258, 29.924704082164663)
 [01Feb2025 01:28:29.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N joined the game
+[01Feb2025 01:30:22.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 hit the ground too hard
+[01Feb2025 01:30:22.893] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[01Feb2025 01:30:44.124] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2518.5 6.0 270.5 minecraft:overworld
+[01Feb2025 01:31:02.336] [Server thread/INFO] [journeymap/]: J4O3 teleported to -955.5 59.0 144.5 minecraft:overworld
+[01Feb2025 01:31:13.821] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:31:17.378] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:31:17.405] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:31:17.406] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:31:17.491] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:31:29.578] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:31:29.787] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:31:29.791] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:31:41.937] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2538.5 72.0 375.5 minecraft:overworld
+[01Feb2025 01:31:51.332] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2538.5 72.0 375.5 minecraft:overworld
+[01Feb2025 01:31:55.586] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2465.5 -22.0 230.5 minecraft:overworld
+[01Feb2025 01:32:01.794] [Server thread/INFO] [journeymap/]: J4O3 teleported to -978.5 64.0 157.5 minecraft:overworld
+[01Feb2025 01:32:11.236] [Server thread/INFO] [journeymap/]: J4O3 teleported to -835.5 53.0 160.5 minecraft:overworld
+[01Feb2025 01:32:12.608] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:32:12.609] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:32:12.635] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:32:12.636] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:32:12.637] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:32:16.279] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2465.5 -22.0 230.5 minecraft:overworld
+[01Feb2025 01:32:20.639] [Server thread/INFO] [journeymap/]: J4O3 teleported to -312.5 46.0 34.5 minecraft:the_nether
+[01Feb2025 01:33:24.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [World Tier: Frontier]
+[01Feb2025 01:33:34.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 tried to swim in lava
+[01Feb2025 01:33:34.831] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[01Feb2025 01:33:36.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 01:33:46.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N was shot by Piglin
+[01Feb2025 01:33:46.280] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[01Feb2025 01:33:57.231] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2538.5 72.0 375.5 minecraft:overworld
+[01Feb2025 01:33:58.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
+[01Feb2025 01:33:58.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
+[01Feb2025 01:34:16.571] [Server thread/INFO] [journeymap/]: J4O3 teleported to -955.5 59.0 144.5 minecraft:overworld
+[01Feb2025 01:34:41.316] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2538.5 72.0 375.5 minecraft:overworld
+[01Feb2025 01:34:47.108] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2538.5 72.0 375.5 minecraft:overworld
+[01Feb2025 01:34:52.779] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2465.5 -22.0 230.5 minecraft:overworld
+[01Feb2025 01:34:58.888] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2465.5 -22.0 230.5 minecraft:overworld
+[01Feb2025 01:35:03.456] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2534.5 1.0 240.5 minecraft:overworld
+[01Feb2025 01:35:17.705] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2498.5 -2.0 258.5 minecraft:overworld
+[01Feb2025 01:35:23.666] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2496.5 -2.0 263.5 minecraft:overworld
+[01Feb2025 01:35:28.057] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2538.5 72.0 375.5 minecraft:overworld
+[01Feb2025 01:35:31.926] [Server thread/INFO] [journeymap/]: J4O3 teleported to -296.5 31.0 109.5 minecraft:the_nether
+[01Feb2025 01:35:33.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4O3 moved too quickly! 0.0,-10.80652611000901,0.0
+[01Feb2025 01:35:33.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 tried to swim in lava
+[01Feb2025 01:35:33.559] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[01Feb2025 01:35:42.490] [Server thread/INFO] [journeymap/]: J4O3 teleported to -295.5 21.0 110.5 minecraft:the_nether
+[01Feb2025 01:38:13.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: G4R3N[/127.16.74.63:53309] logged in with entity id 23545 at (-2084.6229535173325, 66.5625, -191.30000001192093)
+[01Feb2025 01:38:13.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N joined the game
+[01Feb2025 01:38:46.353] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2528.5 72.0 381.5 minecraft:overworld
+[01Feb2025 01:38:54.785] [Server thread/INFO] [journeymap/]: G4R3N teleported to -282.5 65.0 -155.5 minecraft:the_nether
