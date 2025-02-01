@@ -1018,3 +1018,10 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [01Feb2025 00:37:49.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
 [01Feb2025 00:38:30.309] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Oxmightun'/2992, l='ServerLevel[world]', x=-2502.63, y=-2.00, z=256.10] died: Oxmightun was slain by J4O3
 [01Feb2025 00:42:31.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Ninja!]
+[01Feb2025 00:54:17.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 00:57:41.838] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2468.0 68.0 323.0 minecraft:overworld
+[01Feb2025 00:57:45.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 00:58:16.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2464, y=70, z=325} BlockPos{x=-2464, y=68, z=325}
+[01Feb2025 00:58:22.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
+[01Feb2025 00:58:23.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
+[01Feb2025 00:58:54.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
