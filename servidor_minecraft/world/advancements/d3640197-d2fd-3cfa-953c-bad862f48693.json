@@ -2865,6 +2865,7 @@
       "shrubland": "2025-01-30 00:08:24 +0000",
       "old_growth_woodland": "2025-01-31 02:32:15 +0000",
       "rocky_shrubland": "2025-01-30 00:56:27 +0000",
+      "crystalline_chasm": "2025-02-01 01:51:01 +0000",
       "redwood_forest": "2025-01-26 21:22:26 +0000",
       "scrubland": "2025-01-26 21:59:49 +0000",
       "prairie": "2025-01-26 20:41:33 +0000",
@@ -4616,7 +4617,8 @@
       "minecraft:silverfish": "2025-02-01 00:35:38 +0000",
       "minecraft:spider": "2025-01-29 03:42:43 +0000",
       "minecraft:zombie": "2025-01-27 02:33:53 +0000",
-      "minecraft:husk": "2025-02-01 00:38:30 +0000"
+      "minecraft:husk": "2025-02-01 00:38:30 +0000",
+      "minecraft:hoglin": "2025-02-01 01:52:31 +0000"
     },
     "done": false
   },
@@ -6079,6 +6081,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-01 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-02-01 01:52:41 +0000"
     },
     "done": true
   },

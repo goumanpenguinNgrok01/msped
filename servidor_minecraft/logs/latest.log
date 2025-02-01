@@ -1236,3 +1236,13 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [01Feb2025 01:49:31.879] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [01Feb2025 01:49:31.891] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
 [01Feb2025 01:49:31.891] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:50:58.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Oh Shiny]
+[01Feb2025 01:51:07.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 01:51:15.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 burned to death
+[01Feb2025 01:51:15.816] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[01Feb2025 01:51:20.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 01:51:44.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 01:58:26.318] [Server thread/INFO] [journeymap/]: G4R3N teleported to -307.5 70.0 23.5 minecraft:the_nether
+[01Feb2025 01:58:28.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 01:58:49.469] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2184.5 64.0 -733.5 minecraft:overworld
+[01Feb2025 01:58:56.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]

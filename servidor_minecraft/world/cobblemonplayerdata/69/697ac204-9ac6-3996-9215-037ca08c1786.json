@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 124,
+    "totalBattleVictoryCount": 128,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 124,
+    "totalPvWBattleVictoryCount": 128,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 2,
@@ -92,7 +92,10 @@
       "cobblemon:girafarig": 1,
       "cobblemon:toxapex": 1,
       "cobblemon:talonflame": 1,
-      "cobblemon:darumaka": 1
+      "cobblemon:darumaka": 2,
+      "cobblemon:whirlipede": 1,
+      "cobblemon:slugma": 1,
+      "cobblemon:gastly": 1
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [
