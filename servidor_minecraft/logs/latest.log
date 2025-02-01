@@ -1101,3 +1101,41 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 	... 13 more
 [01Feb2025 01:19:15.111] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c9a3cd2d-0d47-4f2a-ba14-10d25a830798
 [01Feb2025 01:19:15.112] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: c9a3cd2d-0d47-4f2a-ba14-10d25a830798
+[01Feb2025 01:19:47.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
+[01Feb2025 01:19:47.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
+[01Feb2025 01:19:51.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: G4R3N[/127.16.74.63:40229] logged in with entity id 14777 at (-2638.673058607518, 69.0, 439.0202842318809)
+[01Feb2025 01:19:51.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N joined the game
+[01Feb2025 01:20:53.516] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d496aaea-d176-4d0a-9f8e-1d7e2575436d
+[01Feb2025 01:20:53.517] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d496aaea-d176-4d0a-9f8e-1d7e2575436d
+[01Feb2025 01:21:26.430] [Server thread/INFO] [journeymap/]: G4R3N teleported to -496.0 70.0 -504.0 minecraft:overworld
+[01Feb2025 01:22:54.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [Who is Cutting Onions?]
+[01Feb2025 01:23:40.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported G4R3N to J4O3]
+[01Feb2025 01:23:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has made the advancement [What a Deal!]
+[01Feb2025 01:25:43.063] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[01Feb2025 01:25:43.065] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[01Feb2025 01:25:43.065] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[01Feb2025 01:25:45.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [We Need to Go Deeper]
+[01Feb2025 01:25:46.641] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:25:50.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10217ms or 204 ticks behind
+[01Feb2025 01:25:54.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has made the advancement [We Need to Go Deeper]
+[01Feb2025 01:25:55.941] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:25:55.943] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:25:55.943] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:25:56.042] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:25:56.044] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:25:56.044] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:26:02.201] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:26:02.222] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:26:02.842] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:26:02.985] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:26:02.986] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:26:03.076] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:26:03.077] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:26:03.232] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:26:03.233] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:26:13.195] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:26:13.196] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:26:25.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
+[01Feb2025 01:26:25.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
+[01Feb2025 01:28:29.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: G4R3N[/127.16.74.63:46333] logged in with entity id 17085 at (-338.94113138201396, 47.34363188683258, 29.924704082164663)
+[01Feb2025 01:28:29.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N joined the game
