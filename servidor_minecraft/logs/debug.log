@@ -16744,3 +16744,140 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [01Feb2025 02:21:01.747] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
 [01Feb2025 02:21:01.749] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [01Feb2025 02:21:01.756] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:21:22.968] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-1773, y=-49, z=-1804}
+[01Feb2025 02:21:23.045] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-1773, y=-49, z=-1866}
+[01Feb2025 02:21:23.723] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-1718, y=-49, z=-1848}
+[01Feb2025 02:21:23.744] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-1718, y=-49, z=-1848}
+[01Feb2025 02:21:28.440] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-1718, y=-49, z=-1848}
+[01Feb2025 02:21:28.448] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-1718, y=-49, z=-1800}
+[01Feb2025 02:21:28.455] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-1759, y=-49, z=-1791}
+[01Feb2025 02:21:28.486] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-1718, y=-49, z=-1800}
+[01Feb2025 02:21:30.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 fell from a high place
+[01Feb2025 02:21:30.593] [Server thread/DEBUG] [tombstone/]: A new grave of the player J4O3 was created at position [x:-204, y:74, z:-1368, dim:minecraft:overworld]
+[01Feb2025 02:21:31.236] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-203.64, y=74.00, z=-1367.30]
+[01Feb2025 02:21:31.236] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[01Feb2025 02:21:31.807] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:21:31.808] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:21:31.814] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:21:33.281] [Server thread/DEBUG] [twilightforest/]: Player J4O3 (d3640197-d2fd-3cfa-953c-bad862f48693) respawned and received items held in storage
+[01Feb2025 02:22:01.847] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:22:01.848] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:22:01.851] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:22:16.256] [Server thread/INFO] [journeymap/]: J4O3 teleported to -213.0 94.0 -1371.0 minecraft:overworld
+[01Feb2025 02:22:31.896] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:22:31.898] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:22:31.901] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:22:42.115] [Server thread/INFO] [journeymap/]: J4O3 teleported to -203.5 74.0 -1367.5 minecraft:overworld
+[01Feb2025 02:22:58.566] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-204.22, y=82.00, z=-1367.30], dimensionLocationPath overworld
+[01Feb2025 02:22:58.567] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-204.22, y=82.00, z=-1367.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:23:01.946] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[01Feb2025 02:23:01.946] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:23:01.946] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[01Feb2025 02:23:15.203] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-1741, y=-49, z=-1834}
+[01Feb2025 02:23:31.998] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:23:31.999] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:23:32.006] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:24:02.046] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:24:02.047] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:24:02.051] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:24:32.096] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:24:32.097] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:24:32.103] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:24:50.717] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Feb2025 02:25:02.147] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:25:02.148] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:25:02.160] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:25:32.196] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:25:32.197] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:25:32.203] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:26:02.246] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:26:02.248] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:26:02.253] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:26:32.297] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:26:32.297] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:26:32.303] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:26:42.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 fell from a high place
+[01Feb2025 02:26:42.194] [Server thread/DEBUG] [tombstone/]: A new grave of the player J4O3 was created at position [x:-247, y:63, z:-1168, dim:minecraft:overworld]
+[01Feb2025 02:26:42.198] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[01Feb2025 02:26:42.239] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-246.74, y=63.00, z=-1167.56]
+[01Feb2025 02:26:42.239] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-246.74, y=62.92, z=-1167.56]
+[01Feb2025 02:26:42.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4O3 moved wrongly!
+[01Feb2025 02:26:43.429] [Server thread/DEBUG] [twilightforest/]: Player J4O3 (d3640197-d2fd-3cfa-953c-bad862f48693) respawned and received items held in storage
+[01Feb2025 02:26:54.045] [Server thread/INFO] [journeymap/]: J4O3 teleported to -246.5 63.0 -1166.5 minecraft:overworld
+[01Feb2025 02:26:59.216] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-244.93, y=62.00, z=-1166.36], dimensionLocationPath overworld
+[01Feb2025 02:26:59.217] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-244.93, y=62.00, z=-1166.36] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:27:02.347] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:27:02.348] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:27:02.355] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:27:02.867] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-244.53, y=61.38, z=-1159.99]
+[01Feb2025 02:27:05.073] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1801.0 95.0 264.0 minecraft:overworld
+[01Feb2025 02:27:14.568] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-239.20, y=62.56, z=-1116.10], dimensionLocationPath overworld
+[01Feb2025 02:27:14.568] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-239.20, y=62.56, z=-1116.10] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:27:29.380] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1732.0 95.0 298.0 minecraft:overworld
+[01Feb2025 02:27:32.397] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:27:32.398] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:27:32.404] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:27:36.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has made the advancement [Safe Haven]
+[01Feb2025 02:27:44.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported G4R3N to J4O3]
+[01Feb2025 02:27:52.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has reached the goal [Bone Crusher]
+[01Feb2025 02:28:00.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 was slain by Zombie
+[01Feb2025 02:28:00.009] [Server thread/DEBUG] [tombstone/]: A new grave of the player J4O3 was created at position [x:-260, y:74, z:-1071, dim:minecraft:overworld]
+[01Feb2025 02:28:00.026] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-259.09, y=74.00, z=-1070.29]
+[01Feb2025 02:28:00.027] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-259.22, y=74.33, z=-1069.94]
+[01Feb2025 02:28:00.027] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[01Feb2025 02:28:01.539] [Server thread/DEBUG] [twilightforest/]: Player J4O3 (d3640197-d2fd-3cfa-953c-bad862f48693) respawned and received items held in storage
+[01Feb2025 02:28:02.447] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:28:02.448] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:28:02.454] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:28:05.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 02:28:08.162] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-257.79, y=74.00, z=-1071.46], dimensionLocationPath overworld
+[01Feb2025 02:28:08.162] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-257.79, y=74.00, z=-1071.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:28:18.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has made the advancement [Ambush]
+[01Feb2025 02:28:32.498] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:28:32.498] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:28:32.504] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:28:33.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has reached the goal [Fortuitous Militia]
+[01Feb2025 02:29:02.547] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:29:02.548] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:29:02.554] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:29:32.596] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:29:32.597] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:29:32.603] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:29:42.608] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-235.83, y=74.00, z=-1069.21]
+[01Feb2025 02:29:49.667] [Server thread/ERROR] [snownee.jade.Jade/]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.getContainerSize()" because the return value of "net.neoforged.neoforge.items.wrapper.InvWrapper.getInv()" is null
+[01Feb2025 02:29:49.668] [Server thread/ERROR] [snownee.jade.Jade/]: See JadeErrorOutput.txt for more information
+[01Feb2025 02:29:49.668] [Server thread/ERROR] [snownee.jade.Jade/]: 
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.getContainerSize()" because the return value of "net.neoforged.neoforge.items.wrapper.InvWrapper.getInv()" is null
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.items.wrapper.InvWrapper.getSlots(InvWrapper.java:38) ~[neoforge-21.1.114-universal.jar%23281!/:?]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.util.JadeForgeUtils$1.getSlotCount(JadeForgeUtils.java:38) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23368!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.util.JadeForgeUtils$1.getSlotCount(JadeForgeUtils.java:35) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23368!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.addon.universal.ItemIterator$SlottedItemIterator.populate(ItemIterator.java:72) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23368!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.addon.universal.ItemCollector.update(ItemCollector.java:67) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23368!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.addon.universal.ItemStorageProvider$Extension.getGroups(ItemStorageProvider.java:313) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23368!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.util.CommonProxy.getServerExtensionData(CommonProxy.java:583) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23368!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.addon.universal.ItemStorageProvider.putData(ItemStorageProvider.java:208) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23368!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.addon.universal.ItemStorageProvider.appendServerData(ItemStorageProvider.java:243) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23368!/:15.9.2+neoforge]
+	at TRANSFORMER/jade@15.9.2+neoforge/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.1-NeoForge-15.9.2.jar%23368!/:15.9.2+neoforge]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:111) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:825) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01Feb2025 02:29:50.718] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Feb2025 02:30:02.646] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:30:02.647] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:30:02.653] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:30:32.697] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:30:32.698] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:30:32.704] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:31:02.746] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:31:02.747] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:31:02.751] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.

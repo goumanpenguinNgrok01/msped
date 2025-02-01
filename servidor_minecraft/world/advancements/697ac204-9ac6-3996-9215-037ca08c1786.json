@@ -4230,7 +4230,8 @@
       "minecraft:piglin_brute": "2025-01-29 15:59:34 +0000",
       "minecraft:zombie": "2025-01-26 21:21:36 +0000",
       "minecraft:creeper": "2025-01-27 02:28:07 +0000",
-      "minecraft:drowned": "2025-01-29 14:05:35 +0000"
+      "minecraft:drowned": "2025-01-29 14:05:35 +0000",
+      "minecraft:zombie_villager": "2025-02-01 02:24:46 +0000"
     },
     "done": false
   },
@@ -4841,6 +4842,7 @@
     "criteria": {
       "roseate_ball": "2025-01-26 21:58:57 +0000",
       "nest_ball": "2025-01-26 21:34:16 +0000",
+      "azure_ball": "2025-02-01 02:22:52 +0000",
       "citrine_ball": "2025-01-29 14:50:32 +0000",
       "ultra_ball": "2025-01-29 15:36:48 +0000"
     },
@@ -4921,6 +4923,7 @@
   "cobblemon:craft_base_balls": {
     "criteria": {
       "roseate_ball": "2025-01-26 21:58:57 +0000",
+      "azure_ball": "2025-02-01 02:22:52 +0000",
       "citrine_ball": "2025-01-29 14:50:32 +0000"
     },
     "done": false
@@ -7850,6 +7853,24 @@
     },
     "done": true
   },
+  "comforts:recipes/decorations/sleeping_bag_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-01 02:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-01 02:25:34 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/azure_rod": {
+    "criteria": {
+      "has_ball": "2025-02-01 02:22:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-02-01 01:51:33 +0000"
@@ -7859,6 +7880,12 @@
   "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
     "criteria": {
       "has_hoglin_loin": "2025-02-01 01:52:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-02-01 02:28:33 +0000"
     },
     "done": true
   },
@@ -7928,6 +7955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-01 02:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-01 02:00:40 +0000"
@@ -7958,6 +7991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-01 02:25:34 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/food/hoglin_loin_cooking": {
     "criteria": {
       "hoglin_loin": "2025-02-01 01:52:31 +0000"
@@ -7982,9 +8021,21 @@
     },
     "done": true
   },
+  "comforts:recipes/decorations/hammock_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-01 02:25:34 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/cooking/spicy_hoglin_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-01 01:52:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-02-01 02:27:52 +0000"
     },
     "done": true
   },

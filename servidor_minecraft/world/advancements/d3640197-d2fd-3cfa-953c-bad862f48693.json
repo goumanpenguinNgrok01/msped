@@ -6209,6 +6209,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-02-01 02:27:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-01 00:49:18 +0000"
@@ -6401,6 +6407,12 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-02-01 02:27:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-02-01 00:46:13 +0000"
@@ -6422,6 +6434,12 @@
   "occultism:recipes/crushing/crushing/lapis_dust_from_gem": {
     "criteria": {
       "has_lapis_gem": "2025-02-01 00:46:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-02-01 02:28:18 +0000"
     },
     "done": true
   },
