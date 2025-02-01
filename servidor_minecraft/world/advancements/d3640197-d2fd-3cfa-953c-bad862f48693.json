@@ -3283,16 +3283,17 @@
     "criteria": {
       "cooked_porkchop": "2025-01-28 03:01:59 +0000",
       "mutton": "2025-01-26 21:07:21 +0000",
-      "apple": "2025-01-26 21:30:31 +0000",
       "bread": "2025-01-27 02:17:59 +0000",
       "golden_apple": "2025-01-30 01:59:28 +0000",
-      "cooked_rabbit": "2025-01-28 02:48:16 +0000",
-      "cooked_chicken": "2025-01-28 02:49:15 +0000",
       "honey_bottle": "2025-01-26 21:23:00 +0000",
       "cooked_mutton": "2025-01-26 21:56:53 +0000",
+      "sweet_berries": "2025-02-01 01:03:48 +0000",
       "cooked_beef": "2025-01-28 02:51:28 +0000",
       "beef": "2025-01-26 21:02:39 +0000",
-      "melon_slice": "2025-01-28 03:00:26 +0000"
+      "melon_slice": "2025-01-28 03:00:26 +0000",
+      "apple": "2025-01-26 21:30:31 +0000",
+      "cooked_rabbit": "2025-01-28 02:48:16 +0000",
+      "cooked_chicken": "2025-01-28 02:49:15 +0000"
     },
     "done": false
   },
@@ -4605,6 +4606,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-01 01:01:35 +0000",
+      "minecraft:skeleton": "2025-02-01 00:58:51 +0000",
       "minecraft:silverfish": "2025-02-01 00:35:38 +0000",
       "minecraft:spider": "2025-01-29 03:42:43 +0000",
       "minecraft:zombie": "2025-01-27 02:33:53 +0000",
@@ -6101,6 +6104,12 @@
       "has_tuff": "2025-02-01 00:46:13 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-02-01 01:04:14 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {

@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 120,
+    "totalBattleVictoryCount": 121,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 119,
+    "totalPvWBattleVictoryCount": 120,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 2,
@@ -61,7 +61,8 @@
       "cobblemon:teddiursa": 2,
       "cobblemon:spewpa": 1,
       "cobblemon:squawkabilly": 1,
-      "cobblemon:rapidash": 1
+      "cobblemon:rapidash": 1,
+      "cobblemon:phanpy": 1
     },
     "aspectsCollected": {
       "cobblemon:wooloo": [

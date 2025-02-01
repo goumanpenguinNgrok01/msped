@@ -1025,3 +1025,7 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [01Feb2025 00:58:22.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
 [01Feb2025 00:58:23.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
 [01Feb2025 00:58:54.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[01Feb2025 01:01:24.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N was doomed to fall by Pillager
+[01Feb2025 01:01:24.232] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[01Feb2025 01:01:37.586] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2474.5 18.0 398.5 minecraft:overworld
+[01Feb2025 01:02:33.966] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2508.0 72.0 397.0 minecraft:overworld

@@ -7624,6 +7624,12 @@
     },
     "done": true
   },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-02-01 00:56:00 +0000"
+    },
+    "done": true
+  },
   "occultism:occultism/familiar/mummy_dodge": {
     "criteria": {
       "mummy_dodge": "2025-02-01 00:42:31 +0000"
@@ -7639,6 +7645,12 @@
   "justhammers:recipes/tools/diamond_impact_hammer": {
     "criteria": {
       "has_material": "2025-02-01 00:53:42 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/fluorite_dust_from_gem": {
+    "criteria": {
+      "has_fluorite_gem": "2025-02-01 00:56:00 +0000"
     },
     "done": true
   },
