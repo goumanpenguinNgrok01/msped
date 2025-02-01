@@ -3986,6 +3986,7 @@
   "apotheosis:progression/ascent": {
     "criteria": {
       "uncommon_legs": "2025-01-26 21:06:56 +0000",
+      "kill_apothic_invader": "2025-02-01 00:36:39 +0000",
       "uncommon_hand": "2025-01-27 03:04:41 +0000",
       "uncommon_feet": "2025-01-29 14:27:43 +0000"
     },
@@ -4215,6 +4216,7 @@
       "minecraft:skeleton": "2025-01-26 21:23:47 +0000",
       "minecraft:stray": "2025-01-27 03:45:01 +0000",
       "minecraft:enderman": "2025-01-30 02:03:32 +0000",
+      "minecraft:silverfish": "2025-02-01 00:33:59 +0000",
       "minecraft:spider": "2025-01-26 21:19:38 +0000",
       "minecraft:piglin_brute": "2025-01-29 15:59:34 +0000",
       "minecraft:wither_skeleton": "2025-01-27 03:10:49 +0000",
@@ -7226,15 +7228,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-01-30 02:13:56 +0000"
+      "has_waystone": "2025-01-30 00:40:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
+  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
     "criteria": {
-      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
+      "has_waystone": "2025-01-30 00:40:07 +0000"
     },
     "done": true
   },
@@ -7244,15 +7246,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-30 02:13:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-01-30 00:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-01-30 00:59:49 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-01-30 00:59:49 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-01-30 00:59:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-01-30 01:22:20 +0000"
     },
     "done": true
   },
@@ -7262,27 +7282,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-30 02:13:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-01-30 01:49:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-01-30 02:13:56 +0000"
+      "has_polished_andesite": "2025-01-30 01:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-30 01:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-30 01:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-30 01:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-30 01:52:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-30 01:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-30 01:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-30 01:56:25 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-01-30 01:58:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-30 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-30 02:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-30 02:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-30 02:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-30 02:13:56 +0000"
     },
     "done": true
   },
@@ -7304,27 +7426,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-01-30 01:52:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-30 02:13:56 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/max_revive": {
-    "criteria": {
-      "has_revive": "2025-01-30 02:26:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-30 01:49:02 +0000"
     },
     "done": true
   },
@@ -7334,45 +7438,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-30 02:17:01 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/lodestone": {
-    "criteria": {
-      "has_chiseled_stone_bricks": "2025-01-30 01:58:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-30 02:13:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-01-30 00:59:49 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/mossy_waystone_from_vines": {
-    "criteria": {
-      "has_waystone": "2025-01-30 00:40:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
     },
     "done": true
   },
@@ -7400,21 +7468,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-01-30 02:06:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-30 02:13:56 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
-    "criteria": {
-      "has_waystone": "2025-01-30 00:40:07 +0000"
     },
     "done": true
   },
@@ -7424,39 +7480,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-01-30 01:56:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:recipes/decorations/hammock_brown": {
-    "criteria": {
-      "has_brown_wool": "2025-01-30 00:59:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-30 02:13:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2025-01-30 02:11:50 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-01-30 01:22:20 +0000"
     },
     "done": true
   },
@@ -7466,33 +7492,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-30 01:49:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-01-30 01:56:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-30 02:13:56 +0000"
-    },
-    "done": true
-  },
-  "comforts:recipes/decorations/sleeping_bag_brown": {
-    "criteria": {
-      "has_brown_wool": "2025-01-30 00:59:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-30 02:17:01 +0000"
     },
     "done": true
   },
@@ -7502,27 +7504,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-30 01:49:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-01-30 01:52:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-30 02:13:56 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_cooked_rabbit": "2025-01-30 01:52:13 +0000"
+      "has_glowstone_dust": "2025-01-30 02:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-30 02:17:01 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/max_revive": {
+    "criteria": {
+      "has_revive": "2025-01-30 02:26:13 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/familiar/mummy_dodge": {
+    "criteria": {
+      "mummy_dodge": "2025-02-01 00:42:31 +0000"
     },
     "done": true
   },

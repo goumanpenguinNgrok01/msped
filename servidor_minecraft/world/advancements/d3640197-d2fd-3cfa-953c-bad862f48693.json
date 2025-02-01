@@ -4605,8 +4605,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:silverfish": "2025-02-01 00:35:38 +0000",
       "minecraft:spider": "2025-01-29 03:42:43 +0000",
-      "minecraft:zombie": "2025-01-27 02:33:53 +0000"
+      "minecraft:zombie": "2025-01-27 02:33:53 +0000",
+      "minecraft:husk": "2025-02-01 00:38:30 +0000"
     },
     "done": false
   },
@@ -5351,7 +5353,8 @@
   },
   "apotheosis:progression/ascent": {
     "criteria": {
-      "uncommon_chest": "2025-01-29 23:19:42 +0000"
+      "uncommon_chest": "2025-01-29 23:19:42 +0000",
+      "kill_apothic_invader": "2025-02-01 00:38:30 +0000"
     },
     "done": false
   },
@@ -5841,9 +5844,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+  "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
-      "has_smooth_sandstone": "2025-01-31 02:51:58 +0000"
+      "has_brick": "2025-01-31 02:37:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-01-31 02:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-31 02:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-31 02:37:27 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/dawn_stone_block": {
+    "criteria": {
+      "has_dawn_stone": "2025-01-31 02:42:48 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/osmium_dust_from_raw": {
+    "criteria": {
+      "has_raw_osmium": "2025-01-31 02:43:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/whipped_dream": {
+    "criteria": {
+      "has_sweet_berry": "2025-01-31 02:48:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-31 02:48:18 +0000"
     },
     "done": true
   },
@@ -5853,9 +5898,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
+  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
     "criteria": {
-      "has_book": "2025-01-31 02:53:30 +0000"
+      "has_raw_silver": "2025-01-31 02:51:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-01-31 02:51:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-01-31 02:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-31 02:51:58 +0000"
     },
     "done": true
   },
@@ -5865,15 +5928,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
-      "has_book": "2025-01-31 02:53:30 +0000"
+      "has_smooth_sandstone": "2025-01-31 02:51:58 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/evolution/whipped_dream": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
-      "has_sweet_berry": "2025-01-31 02:48:18 +0000"
+      "has_smooth_sandstone": "2025-01-31 02:51:58 +0000"
     },
     "done": true
   },
@@ -5889,57 +5952,15 @@
     },
     "done": true
   },
-  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
-      "has_raw_silver": "2025-01-31 02:51:46 +0000"
+      "has_cut_sandstone": "2025-01-31 02:51:59 +0000"
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/osmium_dust_from_raw": {
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
-      "has_raw_osmium": "2025-01-31 02:43:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-01-31 02:56:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2025-01-31 02:48:18 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/blocks/dawn_stone_block": {
-    "criteria": {
-      "has_dawn_stone": "2025-01-31 02:42:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_chiseled_sandstone": "2025-01-31 02:53:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-01-31 02:53:30 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/crafting/raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-01-31 02:51:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-01-31 02:37:27 +0000"
+      "has_lily_of_the_valley": "2025-01-31 02:52:21 +0000"
     },
     "done": true
   },
@@ -5961,9 +5982,21 @@
     },
     "done": true
   },
-  "badgebox:recipes/misc/badge_box": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_badge_box": "2025-01-31 02:56:19 +0000"
+      "has_book": "2025-01-31 02:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-31 02:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-31 02:53:30 +0000"
     },
     "done": true
   },
@@ -5973,57 +6006,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-01-31 02:51:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/skillet": {
-    "criteria": {
-      "has_brick": "2025-01-31 02:37:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-01-31 02:37:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-01-31 02:51:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-01-31 02:52:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-01-31 02:51:58 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
-    "criteria": {
-      "has_raw_silver": "2025-01-31 02:51:46 +0000"
-    },
-    "done": true
-  },
   "occultism:recipes/spirit_fire/spirit_fire/taboo_book": {
     "criteria": {
       "has_book": "2025-01-31 02:53:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
-      "has_brick": "2025-01-31 02:37:27 +0000"
+      "has_chiseled_sandstone": "2025-01-31 02:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-31 02:56:19 +0000"
+    },
+    "done": true
+  },
+  "badgebox:recipes/misc/badge_box": {
+    "criteria": {
+      "has_badge_box": "2025-01-31 02:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-01 00:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-01 00:36:29 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "opened_25": "2025-02-01 00:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-01 00:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-01 00:36:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-02-01 00:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-01 00:36:29 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/summit": {
+    "criteria": {
+      "rare_chest": "2025-02-01 00:38:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-01 00:36:29 +0000"
     },
     "done": true
   },
