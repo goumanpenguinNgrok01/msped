@@ -16947,3 +16947,158 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [01Feb2025 02:41:33.796] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
 [01Feb2025 02:41:33.797] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [01Feb2025 02:41:33.800] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:42:03.846] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:42:03.846] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:42:03.858] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:42:33.897] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:42:33.898] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:42:33.904] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:43:03.946] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:43:03.946] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:43:03.950] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:43:33.998] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:43:33.999] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:43:34.008] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:44:04.046] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:44:04.046] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:44:04.050] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:44:13.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N was slain by Zombie
+[01Feb2025 02:44:13.207] [Server thread/DEBUG] [tombstone/]: A new grave of the player G4R3N was created at position [x:-332, y:104, z:-1060, dim:minecraft:overworld]
+[01Feb2025 02:44:13.219] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['G4R3N'/23545, l='ServerLevel[world]', x=-331.58, y=104.22, z=-1059.44]
+[01Feb2025 02:44:13.220] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[01Feb2025 02:44:14.433] [Server thread/DEBUG] [twilightforest/]: Player G4R3N (697ac204-9ac6-3996-9215-037ca08c1786) respawned and received items held in storage
+[01Feb2025 02:44:16.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 was slain by Zombie
+[01Feb2025 02:44:16.657] [Server thread/DEBUG] [tombstone/]: A new grave of the player J4O3 was created at position [x:-330, y:104, z:-1057, dim:minecraft:overworld]
+[01Feb2025 02:44:16.684] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[01Feb2025 02:44:17.926] [Server thread/DEBUG] [twilightforest/]: Player J4O3 (d3640197-d2fd-3cfa-953c-bad862f48693) respawned and received items held in storage
+[01Feb2025 02:44:20.038] [Server thread/INFO] [journeymap/]: G4R3N teleported to -331.5 104.0 -1059.5 minecraft:overworld
+[01Feb2025 02:44:25.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 02:44:34.097] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:44:34.098] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:44:34.104] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:44:36.621] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['G4R3N'/23545, l='ServerLevel[world]', x=-333.01, y=104.00, z=-1059.83], dimensionLocationPath overworld
+[01Feb2025 02:44:36.621] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['G4R3N'/23545, l='ServerLevel[world]', x=-333.01, y=104.00, z=-1059.83] in list []
+[01Feb2025 02:44:48.312] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.74, y=104.33, z=-1054.01], dimensionLocationPath overworld
+[01Feb2025 02:44:48.312] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.74, y=104.33, z=-1054.01] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:48.374] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.70, y=104.25, z=-1054.18]
+[01Feb2025 02:44:48.409] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.69, y=104.16, z=-1054.19], dimensionLocationPath overworld
+[01Feb2025 02:44:48.409] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.69, y=104.16, z=-1054.19] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:48.496] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.67, y=104.08, z=-1054.27]
+[01Feb2025 02:44:48.510] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.72, y=104.25, z=-1054.09], dimensionLocationPath overworld
+[01Feb2025 02:44:48.510] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.72, y=104.25, z=-1054.09] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:48.598] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.75, y=104.33, z=-1053.99]
+[01Feb2025 02:44:48.612] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.77, y=104.34, z=-1053.90], dimensionLocationPath overworld
+[01Feb2025 02:44:48.612] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.77, y=104.34, z=-1053.90] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:48.696] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.80, y=104.26, z=-1053.82]
+[01Feb2025 02:44:48.709] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.82, y=104.11, z=-1053.74], dimensionLocationPath overworld
+[01Feb2025 02:44:48.709] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.82, y=104.11, z=-1053.74] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:48.798] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.84, y=104.00, z=-1053.67]
+[01Feb2025 02:44:48.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.85, y=104.00, z=-1053.61], dimensionLocationPath overworld
+[01Feb2025 02:44:48.818] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.85, y=104.00, z=-1053.61] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:48.905] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.94, y=104.00, z=-1053.63]
+[01Feb2025 02:44:48.920] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.97, y=104.00, z=-1053.62], dimensionLocationPath overworld
+[01Feb2025 02:44:48.920] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.97, y=104.00, z=-1053.62] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:48.999] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.99, y=104.00, z=-1053.61]
+[01Feb2025 02:44:49.014] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.99, y=104.00, z=-1053.60], dimensionLocationPath overworld
+[01Feb2025 02:44:49.014] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-333.99, y=104.00, z=-1053.60] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:49.143] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.04, y=104.00, z=-1053.60]
+[01Feb2025 02:44:49.158] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.08, y=104.00, z=-1053.59], dimensionLocationPath overworld
+[01Feb2025 02:44:49.158] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.08, y=104.00, z=-1053.59] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:49.211] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.08, y=104.00, z=-1053.59]
+[01Feb2025 02:44:49.225] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.09, y=104.00, z=-1053.59], dimensionLocationPath overworld
+[01Feb2025 02:44:49.225] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.09, y=104.00, z=-1053.59] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:49.302] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.09, y=104.00, z=-1053.59]
+[01Feb2025 02:44:49.320] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.09, y=104.00, z=-1053.59], dimensionLocationPath overworld
+[01Feb2025 02:44:49.320] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.09, y=104.00, z=-1053.59] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:49.400] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.09, y=104.00, z=-1053.59]
+[01Feb2025 02:44:49.414] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.09, y=104.00, z=-1053.59], dimensionLocationPath overworld
+[01Feb2025 02:44:49.414] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.09, y=104.00, z=-1053.59] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:49.497] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.09, y=104.00, z=-1053.59]
+[01Feb2025 02:44:49.510] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.09, y=104.00, z=-1053.59], dimensionLocationPath overworld
+[01Feb2025 02:44:49.511] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.09, y=104.00, z=-1053.59] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:49.599] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.09, y=104.00, z=-1053.59]
+[01Feb2025 02:44:49.616] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.09, y=104.00, z=-1053.59], dimensionLocationPath overworld
+[01Feb2025 02:44:49.616] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.09, y=104.00, z=-1053.59] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:49.701] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.10, y=104.00, z=-1053.56]
+[01Feb2025 02:44:49.714] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.19, y=104.00, z=-1053.45], dimensionLocationPath overworld
+[01Feb2025 02:44:49.715] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.19, y=104.00, z=-1053.45] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:49.800] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.31, y=104.00, z=-1053.41]
+[01Feb2025 02:44:49.814] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.46, y=104.00, z=-1053.33], dimensionLocationPath overworld
+[01Feb2025 02:44:49.814] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.46, y=104.00, z=-1053.33] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:49.896] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.61, y=104.00, z=-1053.23]
+[01Feb2025 02:44:49.913] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.78, y=104.00, z=-1053.12], dimensionLocationPath overworld
+[01Feb2025 02:44:49.913] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.78, y=104.00, z=-1053.12] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:49.998] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.95, y=104.00, z=-1052.99]
+[01Feb2025 02:44:50.011] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-335.11, y=104.00, z=-1052.86], dimensionLocationPath overworld
+[01Feb2025 02:44:50.011] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-335.11, y=104.00, z=-1052.86] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:50.099] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-335.27, y=104.00, z=-1052.72]
+[01Feb2025 02:44:50.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-335.43, y=104.00, z=-1052.58], dimensionLocationPath overworld
+[01Feb2025 02:44:50.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-335.43, y=104.00, z=-1052.58] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:50.197] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-335.59, y=104.00, z=-1052.44]
+[01Feb2025 02:44:50.211] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-335.75, y=104.00, z=-1052.29], dimensionLocationPath overworld
+[01Feb2025 02:44:50.211] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-335.75, y=104.00, z=-1052.29] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:50.297] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-335.84, y=104.00, z=-1052.11]
+[01Feb2025 02:44:50.312] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-335.88, y=104.00, z=-1051.91], dimensionLocationPath overworld
+[01Feb2025 02:44:50.312] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-335.88, y=104.00, z=-1051.91] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5bf9]
+[01Feb2025 02:44:50.397] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-335.90, y=104.00, z=-1051.70]
+[01Feb2025 02:44:50.718] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Feb2025 02:45:04.147] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:45:04.148] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:45:04.151] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:45:34.196] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:45:34.197] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:45:34.202] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:45:41.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 was slain by G4R3N
+[01Feb2025 02:45:41.933] [Server thread/DEBUG] [tombstone/]: A new grave of the player J4O3 was created at position [x:-335, y:104, z:-1057, dim:minecraft:overworld]
+[01Feb2025 02:45:41.937] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[01Feb2025 02:45:41.965] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['J4O3'/1008, l='ServerLevel[world]', x=-334.64, y=104.00, z=-1056.45]
+[01Feb2025 02:45:43.599] [Server thread/DEBUG] [twilightforest/]: Player J4O3 (d3640197-d2fd-3cfa-953c-bad862f48693) respawned and received items held in storage
+[01Feb2025 02:45:52.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 02:45:54.971] [Server thread/INFO] [journeymap/]: J4O3 teleported to -334.5 104.0 -1056.5 minecraft:overworld
+[01Feb2025 02:46:04.246] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[01Feb2025 02:46:04.246] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:46:04.252] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[01Feb2025 02:46:34.296] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:46:34.297] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:46:34.301] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:47:04.346] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:47:04.346] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:47:04.350] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:47:33.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[01Feb2025 02:47:34.396] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:47:34.397] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:47:34.401] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:47:41.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 02:47:48.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has completed the challenge [Centennial]
+[01Feb2025 02:48:04.447] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:48:04.447] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:48:04.450] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:48:34.496] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:48:34.497] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:48:34.501] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:48:42.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 02:48:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has made the advancement [Barrel Booty]
+[01Feb2025 02:49:04.547] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[01Feb2025 02:49:04.547] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:49:04.547] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[01Feb2025 02:49:34.596] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[01Feb2025 02:49:34.596] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:49:34.596] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[01Feb2025 02:49:44.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[01Feb2025 02:49:45.859] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['G4R3N'/23545, l='ServerLevel[world]', x=-481.75, y=60.41, z=-818.27]
+[01Feb2025 02:49:47.106] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['G4R3N'/23545, l='ServerLevel[world]', x=-480.60, y=61.63, z=-817.15], dimensionLocationPath overworld
+[01Feb2025 02:49:47.106] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['G4R3N'/23545, l='ServerLevel[world]', x=-480.60, y=61.63, z=-817.15] in list []
+[01Feb2025 02:49:50.712] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Feb2025 02:50:04.648] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:50:04.648] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:50:04.652] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:50:34.717] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:50:34.717] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:50:34.723] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:51:04.748] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:51:04.748] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:51:04.751] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:51:34.797] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[01Feb2025 02:51:34.798] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[01Feb2025 02:51:34.802] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[01Feb2025 02:51:50.379] [Server thread/INFO] [journeymap/]: G4R3N teleported to -497.0 74.0 -509.0 minecraft:overworld

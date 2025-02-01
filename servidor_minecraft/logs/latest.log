@@ -1359,3 +1359,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [01Feb2025 02:40:02.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[01Feb2025 02:44:13.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N was slain by Zombie
+[01Feb2025 02:44:13.220] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[01Feb2025 02:44:16.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 was slain by Zombie
+[01Feb2025 02:44:16.684] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[01Feb2025 02:44:20.038] [Server thread/INFO] [journeymap/]: G4R3N teleported to -331.5 104.0 -1059.5 minecraft:overworld
+[01Feb2025 02:44:25.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 02:45:41.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 was slain by G4R3N
+[01Feb2025 02:45:41.937] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[01Feb2025 02:45:52.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 02:45:54.971] [Server thread/INFO] [journeymap/]: J4O3 teleported to -334.5 104.0 -1056.5 minecraft:overworld
+[01Feb2025 02:47:33.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[01Feb2025 02:47:41.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 02:47:48.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has completed the challenge [Centennial]
+[01Feb2025 02:48:42.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 02:48:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has made the advancement [Barrel Booty]
+[01Feb2025 02:49:44.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[01Feb2025 02:51:50.379] [Server thread/INFO] [journeymap/]: G4R3N teleported to -497.0 74.0 -509.0 minecraft:overworld

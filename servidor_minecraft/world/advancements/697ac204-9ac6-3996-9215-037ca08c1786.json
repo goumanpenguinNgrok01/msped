@@ -2885,7 +2885,8 @@
       "undergrowth": "2025-02-01 01:25:50 +0000",
       "moor": "2025-01-29 15:18:14 +0000",
       "overgrown_greens": "2025-01-29 15:21:27 +0000",
-      "rainforest": "2025-01-26 21:56:42 +0000"
+      "rainforest": "2025-01-26 21:56:42 +0000",
+      "coniferous_forest": "2025-02-01 02:46:54 +0000"
     },
     "done": false
   },
@@ -7985,6 +7986,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/blocks/moon_stone_block": {
+    "criteria": {
+      "has_moon_stone": "2025-02-01 02:46:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-02-01 02:00:40 +0000"
@@ -8000,6 +8007,12 @@
   "mynethersdelight:recipes/food/hoglin_loin_cooking": {
     "criteria": {
       "hoglin_loin": "2025-02-01 01:52:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-02-01 02:49:03 +0000"
     },
     "done": true
   },
@@ -8045,6 +8058,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-02-01 02:49:03 +0000"
+    },
+    "done": true
+  },
   "cobblemon:healing_machine": {
     "criteria": {
       "use_healing_machine": "2025-02-01 02:16:57 +0000"
@@ -8054,6 +8073,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-01 02:00:40 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "opened_100": "2025-02-01 02:47:48 +0000"
     },
     "done": true
   },
