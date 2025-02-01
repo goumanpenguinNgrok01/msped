@@ -2876,6 +2876,7 @@
       "jade_cliffs": "2025-01-30 01:28:18 +0000",
       "volcanic_plains": "2025-01-27 02:33:33 +0000",
       "old_growth_woodland": "2025-01-27 02:47:55 +0000",
+      "crystalline_chasm": "2025-02-01 01:45:06 +0000",
       "pumpkin_patch": "2025-01-29 16:22:59 +0000",
       "prairie": "2025-01-26 20:39:03 +0000",
       "grassland": "2025-01-29 15:14:45 +0000",
@@ -4218,6 +4219,7 @@
       "minecraft:skeleton": "2025-01-26 21:23:47 +0000",
       "minecraft:wither_skeleton": "2025-01-27 03:10:49 +0000",
       "minecraft:ghast": "2025-02-01 01:30:27 +0000",
+      "minecraft:hoglin": "2025-02-01 01:41:02 +0000",
       "minecraft:cave_spider": "2025-01-27 03:21:53 +0000",
       "minecraft:piglin": "2025-02-01 01:32:04 +0000",
       "minecraft:stray": "2025-01-27 03:45:01 +0000",
@@ -7829,7 +7831,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-02-01 01:30:53 +0000"
+      "minecraft:crimson_forest": "2025-02-01 01:30:53 +0000",
+      "minecraft:nether_wastes": "2025-02-01 01:45:01 +0000",
+      "minecraft:soul_sand_valley": "2025-02-01 01:45:13 +0000"
     },
     "done": false
   },

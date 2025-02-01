@@ -1190,3 +1190,49 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [01Feb2025 01:38:13.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N joined the game
 [01Feb2025 01:38:46.353] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2528.5 72.0 381.5 minecraft:overworld
 [01Feb2025 01:38:54.785] [Server thread/INFO] [journeymap/]: G4R3N teleported to -282.5 65.0 -155.5 minecraft:the_nether
+[01Feb2025 01:40:47.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 fell from a high place
+[01Feb2025 01:40:47.332] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[01Feb2025 01:40:47.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 01:41:05.889] [Server thread/INFO] [journeymap/]: J4O3 teleported to -296.5 31.0 109.5 minecraft:the_nether
+[01Feb2025 01:41:14.568] [Server thread/INFO] [journeymap/]: J4O3 teleported to -296.5 31.0 109.5 minecraft:the_nether
+[01Feb2025 01:41:27.972] [Server thread/INFO] [journeymap/]: J4O3 teleported to -296.5 31.0 109.5 minecraft:the_nether
+[01Feb2025 01:41:31.630] [Server thread/INFO] [journeymap/]: J4O3 teleported to -295.5 21.0 110.5 minecraft:the_nether
+[01Feb2025 01:41:34.933] [Server thread/INFO] [journeymap/]: J4O3 teleported to -296.5 31.0 109.5 minecraft:the_nether
+[01Feb2025 01:41:38.535] [Server thread/INFO] [journeymap/]: J4O3 teleported to -256.5 77.0 83.5 minecraft:the_nether
+[01Feb2025 01:41:46.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 01:42:05.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 01:43:41.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 01:43:48.935] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:43:48.938] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:43:48.938] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:43:49.120] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:44:25.183] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:44:25.185] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:44:25.186] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:44:28.776] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:45:20.888] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:45:20.924] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:45:20.967] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:45:20.968] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:45:20.968] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:45:22.836] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:45:22.837] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:45:22.856] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:45:22.881] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:45:22.881] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:45:22.884] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:45:28.854] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:45:28.855] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:46:08.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 was doomed to fall by Piglin
+[01Feb2025 01:46:08.679] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[01Feb2025 01:46:50.778] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2538.5 72.0 375.5 minecraft:overworld
+[01Feb2025 01:46:56.079] [Server thread/INFO] [journeymap/]: J4O3 teleported to -296.5 31.0 109.5 minecraft:the_nether
+[01Feb2025 01:47:10.215] [Server thread/INFO] [journeymap/]: J4O3 teleported to -67.5 94.0 -195.5 minecraft:the_nether
+[01Feb2025 01:48:17.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4O3 moved too quickly! 7.165862202994099,-6.888784086093864,1.8440811425628283
+[01Feb2025 01:48:51.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 fell from a high place
+[01Feb2025 01:48:51.838] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[01Feb2025 01:49:02.379] [Server thread/INFO] [journeymap/]: J4O3 teleported to -296.5 31.0 109.5 minecraft:the_nether
+[01Feb2025 01:49:13.033] [Server thread/INFO] [journeymap/]: J4O3 teleported to -24.5 68.0 -177.5 minecraft:the_nether
+[01Feb2025 01:49:31.879] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:49:31.891] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[01Feb2025 01:49:31.891] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
