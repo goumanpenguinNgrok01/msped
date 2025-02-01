@@ -3292,6 +3292,7 @@
       "honey_bottle": "2025-01-26 21:23:00 +0000",
       "rotten_flesh": "2025-02-01 01:30:16 +0000",
       "cooked_mutton": "2025-01-26 21:56:53 +0000",
+      "glow_berries": "2025-02-01 02:01:30 +0000",
       "sweet_berries": "2025-02-01 01:03:48 +0000",
       "cooked_beef": "2025-01-28 02:51:28 +0000",
       "beef": "2025-01-26 21:02:39 +0000",
@@ -6126,6 +6127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-01 02:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-02-01 01:41:46 +0000"
@@ -6135,6 +6142,12 @@
   "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-01 00:46:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-01 02:04:22 +0000"
     },
     "done": true
   },
@@ -6149,6 +6162,12 @@
       "sweet_berries": "2025-02-01 01:04:14 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-01 02:01:28 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
@@ -6228,6 +6247,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-01 02:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-01 00:49:18 +0000"
@@ -6288,6 +6313,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-01 02:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-01 00:49:18 +0000"
@@ -6321,6 +6352,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-01 00:49:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-01 02:04:22 +0000"
     },
     "done": true
   },
@@ -6441,6 +6478,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-02-01 01:42:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-01 02:04:08 +0000"
     },
     "done": true
   },

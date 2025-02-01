@@ -1246,3 +1246,20 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [01Feb2025 01:58:28.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
 [01Feb2025 01:58:49.469] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2184.5 64.0 -733.5 minecraft:overworld
 [01Feb2025 01:58:56.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[01Feb2025 02:01:44.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported G4R3N to J4O3]
+[01Feb2025 02:08:32.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported G4R3N to J4O3]
+[01Feb2025 02:08:49.159] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 718ae0c2-c1a8-4bc6-8da1-e49faffa6db1
+[01Feb2025 02:08:49.160] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 718ae0c2-c1a8-4bc6-8da1-e49faffa6db1
+[01Feb2025 02:09:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <G4R3N> Z
+[01Feb2025 02:09:58.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
+[01Feb2025 02:09:59.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[01Feb2025 02:09:59.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[01Feb2025 02:09:59.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
+[01Feb2025 02:09:59.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[01Feb2025 02:10:00.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[01Feb2025 02:10:00.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[01Feb2025 02:10:00.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[01Feb2025 02:10:00.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[01Feb2025 02:10:00.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[01Feb2025 02:10:01.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[01Feb2025 02:10:01.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
