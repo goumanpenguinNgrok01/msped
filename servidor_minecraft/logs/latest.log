@@ -1378,3 +1378,35 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.get
 [01Feb2025 02:51:50.379] [Server thread/INFO] [journeymap/]: G4R3N teleported to -497.0 74.0 -509.0 minecraft:overworld
 [01Feb2025 02:54:27.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4O3 lost connection: Disconnected
 [01Feb2025 02:54:27.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 left the game
+[01Feb2025 03:11:10.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[01Feb2025 03:20:14.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-375, y=63, z=-412} BlockPos{x=-376, y=62, z=-411}
+[01Feb2025 03:20:14.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-375, y=63, z=-412} BlockPos{x=-376, y=62, z=-411}
+[01Feb2025 03:20:14.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-375, y=63, z=-412} BlockPos{x=-376, y=62, z=-411}
+[01Feb2025 03:20:48.902] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Feb2025 03:20:48.931] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=213, hostName=, port=209, intention=TRANSFER]"
+[01Feb2025 03:20:48.933] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 107 extra bytes: 
+[01Feb2025 03:20:48.935] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "g_giFY<`o8,0+/$(k#'g93=<5/p25."
+]
+[01Feb2025 03:24:55.057] [Server thread/WARN] [com.github.jarva.arsadditions.ArsAdditions/]: Running locate on server thread. If this causes lag please install Async Locator https://modrinth.com/mod/async-locator
+[01Feb2025 03:27:37.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
+[01Feb2025 03:27:37.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
+[01Feb2025 03:27:44.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Feb2025 03:27:44.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Feb2025 03:27:44.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Feb2025 03:27:44.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Feb2025 03:27:44.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Feb2025 03:27:45.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[01Feb2025 03:27:45.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Feb2025 03:27:45.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[01Feb2025 03:27:45.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Feb2025 03:27:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Feb2025 03:27:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[01Feb2025 03:27:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Feb2025 03:27:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[01Feb2025 03:27:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Feb2025 03:27:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Feb2025 03:27:45.705] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config easyanvils-server.toml
+[01Feb2025 03:27:45.710] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config easymagic-server.toml

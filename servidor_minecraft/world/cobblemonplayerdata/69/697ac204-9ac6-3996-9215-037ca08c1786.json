@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 16,
+    "totalCaptureCount": 17,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 147,
+    "totalBattleVictoryCount": 160,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 147,
+    "totalPvWBattleVictoryCount": 160,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 2,
@@ -28,10 +28,11 @@
       "normal": 4,
       "electric": 5,
       "fire": 2,
-      "grass": 1
+      "grass": 2,
+      "ghost": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:combee": 5,
+      "cobblemon:combee": 7,
       "cobblemon:vivillon": 2,
       "cobblemon:lechonk": 4,
       "cobblemon:slakoth": 2,
@@ -89,7 +90,7 @@
       "cobblemon:gimmighoul": 3,
       "cobblemon:zubat": 1,
       "cobblemon:mudbray": 2,
-      "cobblemon:raticate": 1,
+      "cobblemon:raticate": 2,
       "cobblemon:girafarig": 1,
       "cobblemon:toxapex": 1,
       "cobblemon:talonflame": 1,
@@ -101,10 +102,15 @@
       "cobblemon:mankey": 1,
       "cobblemon:woobat": 1,
       "cobblemon:fomantis": 1,
-      "cobblemon:miltank": 2,
+      "cobblemon:miltank": 3,
       "cobblemon:sawsbuck": 1,
       "cobblemon:jigglypuff": 1,
-      "cobblemon:linoone": 1
+      "cobblemon:linoone": 2,
+      "cobblemon:parasect": 1,
+      "cobblemon:beedrill": 3,
+      "cobblemon:ambipom": 1,
+      "cobblemon:ninjask": 1,
+      "cobblemon:cranidos": 1
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [
@@ -172,6 +178,9 @@
       "cobblemon:voltorb": [
         "genderless",
         "hisuian"
+      ],
+      "cobblemon:phantump": [
+        "male"
       ]
     }
   }
