@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 17,
+    "totalCaptureCount": 18,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 165,
+    "totalBattleVictoryCount": 166,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 165,
+    "totalPvWBattleVictoryCount": 166,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 2,
@@ -26,7 +26,7 @@
       "bug": 4,
       "steel": 1,
       "normal": 4,
-      "electric": 5,
+      "electric": 6,
       "fire": 2,
       "grass": 2,
       "ghost": 1
@@ -185,6 +185,9 @@
         "hisuian"
       ],
       "cobblemon:phantump": [
+        "male"
+      ],
+      "cobblemon:pichu": [
         "male"
       ]
     }
