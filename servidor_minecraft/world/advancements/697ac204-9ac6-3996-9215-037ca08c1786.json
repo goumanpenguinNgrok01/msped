@@ -2863,11 +2863,13 @@
       "dryland": "2025-01-27 05:08:07 +0000",
       "shrubland": "2025-01-27 04:25:03 +0000",
       "rocky_shrubland": "2025-01-27 04:27:53 +0000",
+      "lush_desert": "2025-02-04 01:53:11 +0000",
       "redwood_forest": "2025-01-26 21:18:09 +0000",
       "scrubland": "2025-01-26 21:55:32 +0000",
       "fungal_jungle": "2025-01-29 14:39:34 +0000",
       "dune_beach": "2025-01-26 21:53:05 +0000",
       "floodplain": "2025-01-27 02:26:21 +0000",
+      "lush_savanna": "2025-02-04 01:53:59 +0000",
       "seasonal_forest": "2025-01-29 16:24:18 +0000",
       "highland": "2025-01-27 04:24:38 +0000",
       "volcano": "2025-01-27 02:45:22 +0000",
@@ -2883,6 +2885,7 @@
       "grassland": "2025-01-29 15:14:45 +0000",
       "glowing_grotto": "2025-01-29 15:14:23 +0000",
       "orchard": "2025-01-27 04:35:33 +0000",
+      "field": "2025-02-04 02:00:21 +0000",
       "undergrowth": "2025-02-01 01:25:50 +0000",
       "moor": "2025-01-29 15:18:14 +0000",
       "overgrown_greens": "2025-01-29 15:21:27 +0000",
@@ -8254,6 +8257,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-02-04 01:44:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
+    "criteria": {
+      "has_tall_white_lavender": "2025-02-04 02:04:24 +0000"
     },
     "done": true
   },

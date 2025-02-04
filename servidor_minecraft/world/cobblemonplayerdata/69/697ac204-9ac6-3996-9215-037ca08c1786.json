@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 19,
+    "totalCaptureCount": 20,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 182,
+    "totalEvolvedCount": 6,
+    "totalBattleVictoryCount": 183,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 182,
+    "totalPvWBattleVictoryCount": 183,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 2,
@@ -29,7 +29,8 @@
       "electric": 6,
       "fire": 2,
       "grass": 2,
-      "ghost": 1
+      "ghost": 1,
+      "psychic": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:combee": 7,
@@ -196,6 +197,12 @@
         "male"
       ],
       "cobblemon:mudsdale": [
+        "male"
+      ],
+      "cobblemon:espathra": [
+        "male"
+      ],
+      "cobblemon:aggron": [
         "male"
       ]
     }

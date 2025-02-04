@@ -2882,6 +2882,7 @@
       "fir_clearing": "2025-02-01 02:13:44 +0000",
       "prairie": "2025-01-26 20:41:33 +0000",
       "orchard": "2025-01-30 01:29:44 +0000",
+      "field": "2025-02-04 01:53:50 +0000",
       "undergrowth": "2025-02-01 01:25:56 +0000",
       "overgrown_greens": "2025-01-28 02:58:18 +0000",
       "mediterranean_forest": "2025-02-04 01:25:07 +0000",
@@ -6576,9 +6577,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-02-04 01:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-04 01:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-04 01:57:39 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/remedy_by_campfire": {
     "criteria": {
       "has_root": "2025-02-04 01:44:16 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-02-04 02:05:54 +0000"
     },
     "done": true
   },
@@ -6604,6 +6629,18 @@
   "cobblemon:recipes/consumables/remedy_by_smoking": {
     "criteria": {
       "has_root": "2025-02-04 01:44:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
+    "criteria": {
+      "has_white_lavender": "2025-02-04 02:04:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
+    "criteria": {
+      "has_tall_white_lavender": "2025-02-04 01:54:01 +0000"
     },
     "done": true
   },
