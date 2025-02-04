@@ -3267,6 +3267,7 @@
       "obtain_tanga_berry": "2025-01-29 15:56:23 +0000",
       "obtain_persim_berry": "2025-01-26 21:51:09 +0000",
       "obtain_cheri_berry": "2025-01-27 02:24:26 +0000",
+      "obtain_rawst_berry": "2025-02-04 01:06:54 +0000",
       "obtain_wacan_berry": "2025-01-30 00:56:22 +0000",
       "obtain_aspear_berry": "2025-01-30 00:05:32 +0000",
       "obtain_chesto_berry": "2025-01-27 02:27:35 +0000",
@@ -8102,21 +8103,15 @@
     },
     "done": true
   },
-  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_raw_silver": "2025-02-04 00:54:02 +0000"
+      "traded": "2025-02-04 00:28:09 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/consumables/remedy_by_campfire": {
+  "cobblemon:recipes/held/eviolite": {
     "criteria": {
-      "has_root": "2025-02-04 00:52:43 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
-    "criteria": {
-      "has_raw_silver": "2025-02-04 00:54:02 +0000"
+      "has_everstone": "2025-02-04 00:49:33 +0000"
     },
     "done": true
   },
@@ -8126,9 +8121,9 @@
     },
     "done": true
   },
-  "occultism:recipes/misc/crafting/raw_silver_block": {
+  "cobblemon:recipes/consumables/remedy_by_campfire": {
     "criteria": {
-      "has_raw_silver": "2025-02-04 00:54:02 +0000"
+      "has_root": "2025-02-04 00:52:43 +0000"
     },
     "done": true
   },
@@ -8144,9 +8139,27 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "cobblemon:obtain_big_root": {
     "criteria": {
-      "traded": "2025-02-04 00:28:09 +0000"
+      "check_inv": "2025-02-04 00:52:43 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-02-04 00:54:02 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/blasting/silver_ingot_from_raw": {
+    "criteria": {
+      "has_raw_silver": "2025-02-04 00:54:02 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-02-04 00:54:02 +0000"
     },
     "done": true
   },
@@ -8156,15 +8169,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/eviolite": {
+  "dungeons_arise:find_bathhouse": {
     "criteria": {
-      "has_everstone": "2025-02-04 00:49:33 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:obtain_big_root": {
-    "criteria": {
-      "check_inv": "2025-02-04 00:52:43 +0000"
+      "location0": "2025-02-04 01:10:22 +0000"
     },
     "done": true
   },

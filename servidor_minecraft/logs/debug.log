@@ -10781,3 +10781,108 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Feb2025 01:03:21.886] [Worker-Main-2/DEBUG] [mixin/]: mixins.cobblemon-common.json:StructurePoolGeneratorMixin from mod cobblemon->@Inject::onStructurePoolGeneratorCreation(Lnet/minecraft/core/Registry;ILnet/minecraft/world/level/chunk/ChunkGenerator;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplateManager;Ljava/util/List;Lnet/minecraft/util/RandomSource;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
 [04Feb2025 01:03:21.889] [Worker-Main-2/DEBUG] [mixin/]: mixins.cobblemon-common.json:StructurePoolGeneratorMixin from mod cobblemon->@Inject::afterTryPlacingChildren(Lnet/minecraft/world/level/levelgen/structure/PoolElementStructurePiece;Lorg/apache/commons/lang3/mutable/MutableObject;IZLnet/minecraft/world/level/LevelHeightAccessor;Lnet/minecraft/world/level/levelgen/RandomState;Lnet/minecraft/world/level/levelgen/structure/pools/alias/PoolAliasLookup;Lnet/minecraft/world/level/levelgen/structure/templatesystem/LiquidSettings;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
 [04Feb2025 01:03:25.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 01:03:43.186] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:03:43.187] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:03:43.190] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:04:13.236] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:04:13.238] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:04:13.243] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:04:36.356] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Feb2025 01:04:43.286] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:04:43.286] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:04:43.291] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:05:08.522] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 99d4f9aa-6cbe-4732-943a-fe8f7d86365c
+[04Feb2025 01:05:08.524] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 99d4f9aa-6cbe-4732-943a-fe8f7d86365c
+[04Feb2025 01:05:13.336] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:05:13.337] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:05:13.341] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:05:43.386] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:05:43.387] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:05:43.394] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:06:13.435] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:06:13.436] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:06:13.441] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:06:43.942] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 01:06:43.942] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:06:43.942] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 01:07:13.535] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 01:07:13.535] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:07:13.535] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 01:07:43.585] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:07:43.587] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:07:43.592] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:08:13.636] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:08:13.638] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:08:13.642] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:08:43.686] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:08:43.687] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:08:43.691] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:09:13.736] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:09:13.737] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:09:13.741] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:09:36.344] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Feb2025 01:09:43.786] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:09:43.787] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:09:43.817] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:09:58.501] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['G4R3N'/586, l='ServerLevel[world]', x=-2216.76, y=71.00, z=607.14], dimensionLocationPath overworld
+[04Feb2025 01:09:58.503] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['G4R3N'/586, l='ServerLevel[world]', x=-2216.76, y=71.00, z=607.14] in list []
+[04Feb2025 01:10:13.835] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:10:13.836] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:10:13.841] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:10:43.886] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:10:43.887] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:10:43.893] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:10:48.400] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['G4R3N'/586, l='ServerLevel[world]', x=-2258.94, y=61.20, z=596.92]
+[04Feb2025 01:10:48.896] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['G4R3N'/586, l='ServerLevel[world]', x=-2258.95, y=61.37, z=596.89], dimensionLocationPath overworld
+[04Feb2025 01:10:48.897] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['G4R3N'/586, l='ServerLevel[world]', x=-2258.95, y=61.37, z=596.89] in list []
+[04Feb2025 01:10:49.945] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['G4R3N'/586, l='ServerLevel[world]', x=-2259.16, y=61.24, z=596.82]
+[04Feb2025 01:10:50.397] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['G4R3N'/586, l='ServerLevel[world]', x=-2258.69, y=61.32, z=596.82], dimensionLocationPath overworld
+[04Feb2025 01:10:50.397] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['G4R3N'/586, l='ServerLevel[world]', x=-2258.69, y=61.32, z=596.82] in list []
+[04Feb2025 01:11:13.936] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:11:13.937] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:11:13.941] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:11:20.597] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['G4R3N'/586, l='ServerLevel[world]', x=-2225.36, y=77.04, z=593.58]
+[04Feb2025 01:11:22.047] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/14913, l='ServerLevel[world]', x=-2225.30, y=78.42, z=593.40], dimensionLocationPath overworld
+[04Feb2025 01:11:22.047] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/14913, l='ServerLevel[world]', x=-2225.30, y=78.42, z=593.40] in list []
+[04Feb2025 01:11:22.544] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/14913, l='ServerLevel[world]', x=-2225.37, y=78.01, z=592.65, removed=DISCARDED]
+[04Feb2025 01:11:30.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
+[04Feb2025 01:11:30.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
+[04Feb2025 01:11:43.986] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 01:11:43.987] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:11:43.987] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 01:12:14.035] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 01:12:14.036] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:12:14.036] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 01:12:36.813] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@7b236ad4 into net.minecraft.network.Connection@3abae5ee
+[04Feb2025 01:12:41.104] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@515a1912 into net.minecraft.network.Connection@3abae5ee
+[04Feb2025 01:12:41.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J4O3[/127.114.100.16:58861] logged in with entity id 14930 at (-647.6871746810257, 86.0, -901.6999999880791)
+[04Feb2025 01:12:41.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 joined the game
+[04Feb2025 01:12:41.595] [Server thread/DEBUG] [FTB Teams/]: player d3640197-d2fd-3cfa-953c-bad862f48693 logged in, player team = J4O3#d3640197
+[04Feb2025 01:12:41.595] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[04Feb2025 01:12:41.770] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[04Feb2025 01:12:41.770] [Server thread/DEBUG] [FTB Teams/]: sending team login event for d3640197-d2fd-3cfa-953c-bad862f48693...
+[04Feb2025 01:12:41.771] [Server thread/DEBUG] [FTB Quests/]: Wrote 583 bytes, 0 objects
+[04Feb2025 01:12:41.771] [Server thread/DEBUG] [FTB Teams/]: team login event for d3640197-d2fd-3cfa-953c-bad862f48693 sent
+[04Feb2025 01:12:41.772] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to J4O3 (d3640197-d2fd-3cfa-953c-bad862f48693)
+[04Feb2025 01:12:44.100] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 01:12:44.101] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:12:44.102] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 01:13:14.136] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 01:13:14.137] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:13:14.137] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 01:13:26.334] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@5c37ba65 into net.minecraft.network.Connection@31d305c
+[04Feb2025 01:13:28.403] [Netty Epoll Server IO #0/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@4eec8156 into net.minecraft.network.Connection@31d305c
+[04Feb2025 01:13:28.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: G4R3N[/127.114.100.16:47797] logged in with entity id 15252 at (-2233.512499988079, 76.0625, 586.9025740677022)
+[04Feb2025 01:13:28.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N joined the game
+[04Feb2025 01:13:28.652] [Server thread/DEBUG] [FTB Teams/]: player 697ac204-9ac6-3996-9215-037ca08c1786 logged in, player team = G4R3N#697ac204
+[04Feb2025 01:13:28.663] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[04Feb2025 01:13:28.673] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[04Feb2025 01:13:28.676] [Server thread/DEBUG] [FTB Teams/]: sending team login event for 697ac204-9ac6-3996-9215-037ca08c1786...
+[04Feb2025 01:13:28.677] [Server thread/DEBUG] [FTB Quests/]: Wrote 583 bytes, 0 objects
+[04Feb2025 01:13:28.677] [Server thread/DEBUG] [FTB Teams/]: team login event for 697ac204-9ac6-3996-9215-037ca08c1786 sent
+[04Feb2025 01:13:28.684] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to G4R3N (697ac204-9ac6-3996-9215-037ca08c1786)
+[04Feb2025 01:13:40.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
+[04Feb2025 01:13:40.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
+[04Feb2025 01:13:44.238] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 01:13:44.238] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:13:44.238] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.

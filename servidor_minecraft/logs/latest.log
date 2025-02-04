@@ -37,3 +37,13 @@
 [04Feb2025 01:02:05.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
 [04Feb2025 01:02:14.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
 [04Feb2025 01:03:25.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 01:05:08.522] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 99d4f9aa-6cbe-4732-943a-fe8f7d86365c
+[04Feb2025 01:05:08.524] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 99d4f9aa-6cbe-4732-943a-fe8f7d86365c
+[04Feb2025 01:11:30.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
+[04Feb2025 01:11:30.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
+[04Feb2025 01:12:41.310] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J4O3[/127.114.100.16:58861] logged in with entity id 14930 at (-647.6871746810257, 86.0, -901.6999999880791)
+[04Feb2025 01:12:41.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 joined the game
+[04Feb2025 01:13:28.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: G4R3N[/127.114.100.16:47797] logged in with entity id 15252 at (-2233.512499988079, 76.0625, 586.9025740677022)
+[04Feb2025 01:13:28.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N joined the game
+[04Feb2025 01:13:40.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
+[04Feb2025 01:13:40.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
