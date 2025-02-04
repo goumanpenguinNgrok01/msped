@@ -1150,3 +1150,23 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [04Feb2025 01:45:30.839] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2043, y=-38, z=1031}
 [04Feb2025 01:45:55.023] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2596.0 81.0 929.0 minecraft:overworld
 [04Feb2025 01:45:58.178] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2562.0 85.0 925.0 minecraft:overworld
+[04Feb2025 01:49:08.758] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2482.0 98.0 1075.0 minecraft:overworld
+[04Feb2025 01:50:33.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 01:50:34.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 01:50:36.472] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Feb2025 01:51:41.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 01:52:01.180] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2435.0 99.0 1316.0 minecraft:overworld
+[04Feb2025 01:52:48.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> Z
+[04Feb2025 01:52:49.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> Z
+[04Feb2025 01:52:49.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> Z
+[04Feb2025 01:52:49.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> Z
+[04Feb2025 01:52:50.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> Z
+[04Feb2025 01:52:51.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> Z
+[04Feb2025 01:52:52.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> Z
+[04Feb2025 01:52:53.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> Z
+[04Feb2025 01:53:48.359] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1711.0 64.0 -1150.0 minecraft:overworld
+[04Feb2025 01:53:49.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
+[04Feb2025 01:53:58.291] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[04Feb2025 01:53:58.844] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[04Feb2025 01:54:15.461] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-55, y=-52, z=1054}
+[04Feb2025 01:55:15.415] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.BlockAttachedEntity/]: Block-attached entity at invalid position: BlockPos{x=-55, y=-52, z=1054}

@@ -8185,6 +8185,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-02-04 01:44:48 +0000"
+    },
+    "done": true
+  },
   "cobblemon:craft_apricorn_balls": {
     "criteria": {
       "heavy_ball": "2025-02-04 01:27:34 +0000"
@@ -8242,6 +8248,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-04 01:44:48 +0000"
     },
     "done": true
   },
