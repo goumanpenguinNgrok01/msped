@@ -1602,3 +1602,84 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [04Feb2025 02:18:46.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
 [04Feb2025 02:20:04.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
 [04Feb2025 02:25:08.974] [Server thread/INFO] [journeymap/]: G4R3N teleported to -369.0 72.0 -234.0 minecraft:overworld
+[04Feb2025 02:30:01.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> ZZZZZZZZZZZ
+[04Feb2025 02:30:56.105] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.util.concurrent.CompletionException: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves.BenchedMoves.add(com.cobblemon.mod.common.api.moves.BenchedMove)'
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves.BenchedMoves.add(com.cobblemon.mod.common.api.moves.BenchedMove)'
+	at TRANSFORMER/simpletms@2.0.0/dragomordor.simpletms.item.custom.MoveLearnItem.applyToPokemon(MoveLearnItem.java:97) ~[SimpleTMs-neoforge-2.0.0.jar%23416!/:?]
+	at TRANSFORMER/simpletms@2.0.0/dragomordor.simpletms.item.api.PokemonSelectingItemNonBattle$DefaultImpls.interactGeneral$lambda$4(PokemonSelectingItemNonBattle.java:72) ~[SimpleTMs-neoforge-2.0.0.jar%23416!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.api.callback.PartySelectCallbacks.createFromPokemon$lambda$8(PartySelectCallbacks.java:89) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.neoforge.net.NeoForgePacketInfo.registerToServer$lambda$1(NeoForgePacketInfo.kt:43) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23281!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:60) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 14 more
+[04Feb2025 02:30:56.106] [Server thread/ERROR] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Failed to process a synchronized task of the payload: cobblemon:party_pokemon_selected
+java.util.concurrent.CompletionException: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves.BenchedMoves.add(com.cobblemon.mod.common.api.moves.BenchedMove)'
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves.BenchedMoves.add(com.cobblemon.mod.common.api.moves.BenchedMove)'
+	at TRANSFORMER/simpletms@2.0.0/dragomordor.simpletms.item.custom.MoveLearnItem.applyToPokemon(MoveLearnItem.java:97) ~[SimpleTMs-neoforge-2.0.0.jar%23416!/:?]
+	at TRANSFORMER/simpletms@2.0.0/dragomordor.simpletms.item.api.PokemonSelectingItemNonBattle$DefaultImpls.interactGeneral$lambda$4(PokemonSelectingItemNonBattle.java:72) ~[SimpleTMs-neoforge-2.0.0.jar%23416!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.api.callback.PartySelectCallbacks.createFromPokemon$lambda$8(PartySelectCallbacks.java:89) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.neoforge.net.NeoForgePacketInfo.registerToServer$lambda$1(NeoForgePacketInfo.kt:43) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23281!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:60) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 14 more
+[04Feb2025 02:34:19.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-341, y=68, z=-316} BlockPos{x=-341, y=66, z=-315}
+[04Feb2025 02:34:58.206] [Server thread/INFO] [journeymap/]: G4R3N teleported to -711.0 64.0 349.0 minecraft:overworld
+[04Feb2025 02:35:13.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has made the advancement [Ashes 'n Bones]
+[04Feb2025 02:35:22.328] [Server thread/INFO] [journeymap/]: G4R3N teleported to -709.0 73.0 336.0 minecraft:overworld
+[04Feb2025 02:35:28.557] [Server thread/INFO] [journeymap/]: G4R3N teleported to -720.0 69.0 334.0 minecraft:overworld
+[04Feb2025 02:35:43.834] [Server thread/INFO] [journeymap/]: G4R3N teleported to -711.0 80.0 327.0 minecraft:overworld
+[04Feb2025 02:35:55.989] [Server thread/INFO] [journeymap/]: G4R3N teleported to -703.0 86.0 458.0 minecraft:overworld
+[04Feb2025 02:36:05.205] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[04Feb2025 02:36:05.206] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[04Feb2025 02:37:41.240] [Server thread/INFO] [journeymap/]: G4R3N teleported to -860.0 72.0 485.0 minecraft:overworld
+[04Feb2025 02:37:43.339] [Server thread/INFO] [journeymap/]: G4R3N teleported to -859.0 70.0 483.0 minecraft:overworld
+[04Feb2025 02:37:46.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 02:37:51.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 02:37:58.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 02:38:01.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 02:38:25.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 02:38:48.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 02:38:57.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!

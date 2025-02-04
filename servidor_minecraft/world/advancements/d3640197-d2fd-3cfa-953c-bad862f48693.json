@@ -6662,5 +6662,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 02:35:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
