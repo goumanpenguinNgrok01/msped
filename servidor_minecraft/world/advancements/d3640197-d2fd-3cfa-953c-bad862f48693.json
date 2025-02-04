@@ -3265,9 +3265,11 @@
       "obtain_persim_berry": "2025-01-27 02:27:10 +0000",
       "obtain_rindo_berry": "2025-02-04 01:20:30 +0000",
       "obtain_cheri_berry": "2025-01-30 01:06:00 +0000",
+      "obtain_occa_berry": "2025-02-04 02:45:07 +0000",
       "obtain_oran_berry": "2025-01-26 21:01:43 +0000",
       "obtain_rawst_berry": "2025-01-31 02:09:19 +0000",
       "obtain_payapa_berry": "2025-02-01 01:29:30 +0000",
+      "obtain_kebia_berry": "2025-02-04 02:40:05 +0000",
       "obtain_chesto_berry": "2025-01-26 22:02:12 +0000",
       "obtain_razz_berry": "2025-01-27 02:34:57 +0000",
       "obtain_pecha_berry": "2025-01-31 02:26:16 +0000",
@@ -4633,6 +4635,7 @@
       "minecraft:silverfish": "2025-02-01 00:35:38 +0000",
       "minecraft:spider": "2025-01-29 03:42:43 +0000",
       "minecraft:zombie": "2025-01-27 02:33:53 +0000",
+      "minecraft:creeper": "2025-02-04 02:54:42 +0000",
       "minecraft:husk": "2025-02-01 00:38:30 +0000",
       "minecraft:hoglin": "2025-02-01 01:52:31 +0000"
     },
@@ -6571,9 +6574,58 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-04 01:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2025-02-04 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-02-04 01:37:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy_by_campfire": {
+    "criteria": {
+      "has_root": "2025-02-04 01:44:16 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy": {
+    "criteria": {
+      "has_root": "2025-02-04 01:44:16 +0000",
+      "has_the_recipe": "2025-02-04 01:44:16 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/remedy_by_smoking": {
+    "criteria": {
+      "has_root": "2025-02-04 01:44:16 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_big_root": {
+    "criteria": {
+      "check_inv": "2025-02-04 01:44:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
+    "criteria": {
+      "has_tiny_cactus": "2025-02-04 01:51:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
+    "criteria": {
+      "has_tall_white_lavender": "2025-02-04 01:54:01 +0000"
     },
     "done": true
   },
@@ -6595,9 +6647,9 @@
     },
     "done": true
   },
-  "cobblemon:recipes/consumables/remedy_by_campfire": {
+  "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
     "criteria": {
-      "has_root": "2025-02-04 01:44:16 +0000"
+      "has_white_lavender": "2025-02-04 02:04:30 +0000"
     },
     "done": true
   },
@@ -6607,64 +6659,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_helmet": "2025-02-04 01:37:50 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/remedy": {
-    "criteria": {
-      "has_root": "2025-02-04 01:44:16 +0000",
-      "has_the_recipe": "2025-02-04 01:44:16 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-02-04 01:29:34 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/remedy_by_smoking": {
-    "criteria": {
-      "has_root": "2025-02-04 01:44:16 +0000"
-    },
-    "done": true
-  },
   "cobblemon:recipes/blocks/moon_stone_block": {
     "criteria": {
       "has_moon_stone": "2025-02-04 02:12:44 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
-    "criteria": {
-      "has_white_lavender": "2025-02-04 02:04:30 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
-    "criteria": {
-      "has_tall_white_lavender": "2025-02-04 01:54:01 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
-    "criteria": {
-      "has_tiny_cactus": "2025-02-04 01:51:21 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:obtain_big_root": {
-    "criteria": {
-      "check_inv": "2025-02-04 01:44:16 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-02-04 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/pasture": {
+    "criteria": {
+      "has_pc": "2025-02-04 02:57:24 +0000"
     },
     "done": true
   },

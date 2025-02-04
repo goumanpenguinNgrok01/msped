@@ -4004,12 +4004,13 @@
   "apotheosis:progression/ascent": {
     "criteria": {
       "uncommon_legs": "2025-01-26 21:06:56 +0000",
+      "uncommon_chest": "2025-02-04 02:54:46 +0000",
       "kill_apothic_invader": "2025-02-01 00:36:39 +0000",
       "uncommon_hand": "2025-01-27 03:04:41 +0000",
       "uncommon_helm": "2025-02-01 01:33:24 +0000",
       "uncommon_feet": "2025-01-29 14:27:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "apotheosis:progression/frontier": {
     "criteria": {

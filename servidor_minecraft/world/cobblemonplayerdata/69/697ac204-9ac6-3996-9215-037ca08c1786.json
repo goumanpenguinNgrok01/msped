@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 21,
+    "totalCaptureCount": 22,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 193,
+    "totalEvolvedCount": 7,
+    "totalBattleVictoryCount": 194,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 193,
+    "totalPvWBattleVictoryCount": 194,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 2,
@@ -26,7 +26,7 @@
       "bug": 4,
       "steel": 1,
       "normal": 4,
-      "electric": 6,
+      "electric": 7,
       "fire": 2,
       "grass": 3,
       "ghost": 1,
@@ -209,6 +209,12 @@
         "male"
       ],
       "cobblemon:dartrix": [
+        "male"
+      ],
+      "cobblemon:shinx": [
+        "male"
+      ],
+      "cobblemon:decidueye": [
         "male"
       ]
     }
