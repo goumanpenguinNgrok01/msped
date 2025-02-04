@@ -8,13 +8,13 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 20,
+    "totalCaptureCount": 21,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 185,
+    "totalBattleVictoryCount": 190,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 185,
+    "totalPvWBattleVictoryCount": 190,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 2,
@@ -28,9 +28,10 @@
       "normal": 4,
       "electric": 6,
       "fire": 2,
-      "grass": 2,
+      "grass": 3,
       "ghost": 1,
-      "psychic": 1
+      "psychic": 1,
+      "flying": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:combee": 7,
@@ -82,7 +83,7 @@
       "cobblemon:dubwool": 1,
       "cobblemon:corvisquire": 1,
       "cobblemon:tauros": 1,
-      "cobblemon:bouffalant": 2,
+      "cobblemon:bouffalant": 5,
       "cobblemon:maushold": 1,
       "cobblemon:ledian": 1,
       "cobblemon:krabby": 1,
@@ -99,7 +100,7 @@
       "cobblemon:whirlipede": 1,
       "cobblemon:slugma": 1,
       "cobblemon:gastly": 1,
-      "cobblemon:lickitung": 1,
+      "cobblemon:lickitung": 2,
       "cobblemon:mankey": 1,
       "cobblemon:woobat": 1,
       "cobblemon:fomantis": 1,
@@ -205,6 +206,9 @@
         "male"
       ],
       "cobblemon:aggron": [
+        "male"
+      ],
+      "cobblemon:dartrix": [
         "male"
       ]
     }

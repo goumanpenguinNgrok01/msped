@@ -2911,9 +2911,10 @@
     "criteria": {
       "has_black_apricorn": "2025-01-26 20:45:14 +0000",
       "has_yellow_apricorn": "2025-01-26 20:57:30 +0000",
+      "has_red_apricorn": "2025-02-04 02:25:17 +0000",
       "has_pink_apricorn": "2025-01-26 21:29:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:harvest_apricorn": {
     "criteria": {
@@ -2936,9 +2937,10 @@
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
       "has_black_apricorn": "2025-01-26 20:45:14 +0000",
-      "has_yellow_apricorn": "2025-01-26 20:57:30 +0000"
+      "has_yellow_apricorn": "2025-01-26 20:57:30 +0000",
+      "has_red_apricorn": "2025-02-04 02:25:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/misc/pokedex_black": {
     "criteria": {
@@ -2980,16 +2982,18 @@
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
       "has_black_apricorn": "2025-01-26 20:45:14 +0000",
-      "has_yellow_apricorn": "2025-01-26 20:57:30 +0000"
+      "has_yellow_apricorn": "2025-01-26 20:57:30 +0000",
+      "has_red_apricorn": "2025-02-04 02:25:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
       "has_black_apricorn": "2025-01-26 20:45:14 +0000",
-      "has_white_apricorn": "2025-01-27 02:28:22 +0000"
+      "has_white_apricorn": "2025-01-27 02:28:22 +0000",
+      "has_red_apricorn": "2025-02-04 02:25:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:root": {
     "criteria": {
@@ -3238,9 +3242,10 @@
   "cobblemon:recipes/balls/fast_ball": {
     "criteria": {
       "has_white_apricorn": "2025-01-27 02:28:22 +0000",
-      "has_yellow_apricorn": "2025-01-26 20:57:30 +0000"
+      "has_yellow_apricorn": "2025-01-26 20:57:30 +0000",
+      "has_red_apricorn": "2025-02-04 02:25:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/citrine_ball": {
     "criteria": {
@@ -3251,9 +3256,10 @@
   "cobblemon:recipes/balls/friend_ball": {
     "criteria": {
       "has_green_apricorn": "2025-01-26 21:04:57 +0000",
-      "has_yellow_apricorn": "2025-01-26 20:57:30 +0000"
+      "has_yellow_apricorn": "2025-01-26 20:57:30 +0000",
+      "has_red_apricorn": "2025-02-04 02:25:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:obtain_berry": {
     "criteria": {
@@ -3741,9 +3747,10 @@
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-01-29 13:48:55 +0000",
-      "has_green_apricorn": "2025-01-26 21:04:57 +0000"
+      "has_green_apricorn": "2025-01-26 21:04:57 +0000",
+      "has_red_apricorn": "2025-02-04 02:25:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/agriculture/green_apricorn_smelt_to_dye": {
     "criteria": {
@@ -3759,9 +3766,10 @@
   },
   "cobblemon:recipes/balls/park_ball": {
     "criteria": {
-      "has_green_apricorn": "2025-01-26 21:04:57 +0000"
+      "has_green_apricorn": "2025-01-26 21:04:57 +0000",
+      "has_red_apricorn": "2025-02-04 02:25:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/verdant_ball": {
     "criteria": {
@@ -4554,9 +4562,10 @@
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-01-29 13:48:55 +0000",
+      "has_red_apricorn": "2025-02-04 02:25:17 +0000",
       "has_pink_apricorn": "2025-01-26 21:29:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
@@ -5026,9 +5035,10 @@
   },
   "cobblemon:recipes/balls/sport_ball": {
     "criteria": {
-      "has_white_apricorn": "2025-01-27 02:28:22 +0000"
+      "has_white_apricorn": "2025-01-27 02:28:22 +0000",
+      "has_red_apricorn": "2025-02-04 02:25:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
@@ -6472,9 +6482,10 @@
   },
   "cobblemon:recipes/balls/great_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-01-29 13:48:55 +0000"
+      "has_blue_apricorn": "2025-01-29 13:48:55 +0000",
+      "has_red_apricorn": "2025-02-04 02:25:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
@@ -8236,6 +8247,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/poke_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-02-04 02:25:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-04 01:27:07 +0000"
@@ -8263,6 +8280,12 @@
   "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
     "criteria": {
       "has_tall_white_lavender": "2025-02-04 02:04:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-02-04 02:25:17 +0000"
     },
     "done": true
   },
