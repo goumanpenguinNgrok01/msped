@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 6,
-    "totalBattleVictoryCount": 183,
+    "totalBattleVictoryCount": 185,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 183,
+    "totalPvWBattleVictoryCount": 185,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 2,
@@ -121,7 +121,9 @@
       "cobblemon:graveler": 2,
       "cobblemon:sneasel": 2,
       "cobblemon:lunatone": 1,
-      "cobblemon:squawkabilly": 1
+      "cobblemon:squawkabilly": 1,
+      "cobblemon:wugtrio": 1,
+      "cobblemon:binacle": 1
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [

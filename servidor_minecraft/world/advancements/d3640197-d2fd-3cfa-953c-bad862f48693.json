@@ -6632,6 +6632,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/blocks/moon_stone_block": {
+    "criteria": {
+      "has_moon_stone": "2025-02-04 02:12:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
     "criteria": {
       "has_white_lavender": "2025-02-04 02:04:30 +0000"
