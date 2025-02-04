@@ -3700,6 +3700,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-01-27 05:14:01 +0000",
+      "minecraft:savanna_plateau": "2025-02-04 01:31:36 +0000",
       "minecraft:snowy_slopes": "2025-01-30 01:43:57 +0000",
       "minecraft:beach": "2025-01-29 16:01:12 +0000",
       "minecraft:dark_forest": "2025-01-27 04:24:42 +0000",
@@ -4027,6 +4028,7 @@
       "melon_slice": "2025-01-27 02:48:01 +0000",
       "porkchop": "2025-01-29 23:34:15 +0000",
       "cooked_rabbit": "2025-02-01 03:11:34 +0000",
+      "mushroom_stew": "2025-02-04 01:23:01 +0000",
       "pumpkin_pie": "2025-02-04 01:20:13 +0000",
       "carrot": "2025-01-27 02:33:26 +0000"
     },
@@ -4848,6 +4850,7 @@
       "roseate_ball": "2025-01-26 21:58:57 +0000",
       "nest_ball": "2025-01-26 21:34:16 +0000",
       "azure_ball": "2025-02-01 02:22:52 +0000",
+      "heavy_ball": "2025-02-04 01:27:34 +0000",
       "citrine_ball": "2025-01-29 14:50:32 +0000",
       "ultra_ball": "2025-01-29 15:36:48 +0000"
     },
@@ -8173,6 +8176,96 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-02-04 01:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "heavy_ball": "2025-02-04 01:27:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-02-04 01:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/stonecutting/acacia_log/hollow_acacia_log": {
+    "criteria": {
+      "has_block": "2025-02-04 01:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-02-04 01:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/heavy_rod": {
+    "criteria": {
+      "has_ball": "2025-02-04 01:27:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-02-04 01:26:41 +0000"
     },
     "done": true
   },

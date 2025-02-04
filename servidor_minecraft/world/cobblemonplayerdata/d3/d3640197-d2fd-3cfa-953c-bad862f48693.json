@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 140,
+    "totalBattleVictoryCount": 142,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 139,
+    "totalPvWBattleVictoryCount": 141,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 2,
@@ -69,7 +69,9 @@
       "cobblemon:haunter": 1,
       "cobblemon:pidgeotto": 1,
       "cobblemon:tandemaus": 1,
-      "cobblemon:nidorina": 1
+      "cobblemon:nidorina": 1,
+      "cobblemon:doduo": 1,
+      "cobblemon:spearow": 1
     },
     "aspectsCollected": {
       "cobblemon:wooloo": [

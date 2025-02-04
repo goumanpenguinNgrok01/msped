@@ -10243,3 +10243,215 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Feb2025 01:26:16.209] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [04Feb2025 01:26:16.209] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [04Feb2025 01:26:16.209] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 01:26:46.260] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 01:26:46.260] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:26:46.260] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 01:27:03.323] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['G4R3N'/586, l='ServerLevel[world]', x=-2327.17, y=63.00, z=603.72], dimensionLocationPath overworld
+[04Feb2025 01:27:03.323] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['G4R3N'/586, l='ServerLevel[world]', x=-2327.17, y=63.00, z=603.72] in list []
+[04Feb2025 01:27:06.740] [Server thread/DEBUG] [mixin/]: Mixing fastbench.MixinFastBenchUtil from polymorph-compatibility.neoforge.mixins.json into dev.shadowsoffire.fastbench.util.FastBenchUtil
+[04Feb2025 01:27:06.741] [Server thread/DEBUG] [mixin/]: polymorph-compatibility.neoforge.mixins.json:fastbench.MixinFastBenchUtil from mod polymorph: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[04Feb2025 01:27:16.309] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 01:27:16.310] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:27:16.310] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 01:27:33.528] [Server thread/DEBUG] [mixin/]: Mixing jei.MixinRecipeTransferUtil from polymorph-compatibility.mixins.json into mezz.jei.common.transfer.RecipeTransferUtil
+[04Feb2025 01:27:33.528] [Server thread/DEBUG] [mixin/]: polymorph-compatibility.mixins.json:jei.MixinRecipeTransferUtil from mod polymorph: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[04Feb2025 01:27:33.531] [Server thread/DEBUG] [mixin/]: polymorph-compatibility.mixins.json:jei.MixinRecipeTransferUtil from mod polymorph->@Inject::polymorph$transferRecipe(Lmezz/jei/api/recipe/transfer/IRecipeTransferManager;Lnet/minecraft/world/inventory/AbstractContainerMenu;Lmezz/jei/api/gui/IRecipeLayoutDrawable;Lnet/minecraft/world/entity/player/Player;ZLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V doesn't use it's CallbackInfoReturnable
+[04Feb2025 01:27:45.457] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Feb2025 01:27:46.360] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 01:27:46.360] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:27:46.360] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 01:28:05.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:28:06.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:28:06.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:28:06.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:28:06.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
+[04Feb2025 01:28:06.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:28:07.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:28:07.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
+[04Feb2025 01:28:07.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:28:07.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:28:16.410] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:28:16.411] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:28:16.415] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:28:46.459] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[04Feb2025 01:28:46.463] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:28:46.473] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[04Feb2025 01:29:16.510] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:29:16.511] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:29:16.514] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:29:27.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[04Feb2025 01:29:46.560] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:29:46.561] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:29:46.566] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:30:00.081] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0xd9de3aa648512f5a
+[04Feb2025 01:30:14.234] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[04Feb2025 01:30:14.235] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin from mod ftblibrary: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[04Feb2025 01:30:16.609] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:30:16.611] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:30:16.614] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:30:46.659] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:30:46.661] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:30:46.665] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:31:16.709] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 01:31:16.709] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:31:16.710] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 01:31:44.524] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['G4R3N'/586, l='ServerLevel[world]', x=-2375.18, y=99.87, z=664.87]
+[04Feb2025 01:31:46.758] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 01:31:46.759] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:31:46.759] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 01:32:16.810] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:32:16.812] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:32:16.815] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:32:45.455] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Feb2025 01:32:46.858] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[04Feb2025 01:32:46.862] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:32:46.871] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[04Feb2025 01:33:16.910] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:33:16.911] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:33:16.914] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:33:18.192] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.util.concurrent.CompletionException: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves.BenchedMoves.add(com.cobblemon.mod.common.api.moves.BenchedMove)'
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves.BenchedMoves.add(com.cobblemon.mod.common.api.moves.BenchedMove)'
+	at TRANSFORMER/simpletms@2.0.0/dragomordor.simpletms.item.custom.MoveLearnItem.applyToPokemon(MoveLearnItem.java:97) ~[SimpleTMs-neoforge-2.0.0.jar%23416!/:?]
+	at TRANSFORMER/simpletms@2.0.0/dragomordor.simpletms.item.api.PokemonSelectingItemNonBattle$DefaultImpls.interactGeneral$lambda$4(PokemonSelectingItemNonBattle.java:72) ~[SimpleTMs-neoforge-2.0.0.jar%23416!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.api.callback.PartySelectCallbacks.createFromPokemon$lambda$8(PartySelectCallbacks.java:89) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.neoforge.net.NeoForgePacketInfo.registerToServer$lambda$1(NeoForgePacketInfo.kt:43) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23281!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:60) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 14 more
+[04Feb2025 01:33:18.195] [Server thread/ERROR] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Failed to process a synchronized task of the payload: cobblemon:party_pokemon_selected
+java.util.concurrent.CompletionException: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves.BenchedMoves.add(com.cobblemon.mod.common.api.moves.BenchedMove)'
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves.BenchedMoves.add(com.cobblemon.mod.common.api.moves.BenchedMove)'
+	at TRANSFORMER/simpletms@2.0.0/dragomordor.simpletms.item.custom.MoveLearnItem.applyToPokemon(MoveLearnItem.java:97) ~[SimpleTMs-neoforge-2.0.0.jar%23416!/:?]
+	at TRANSFORMER/simpletms@2.0.0/dragomordor.simpletms.item.api.PokemonSelectingItemNonBattle$DefaultImpls.interactGeneral$lambda$4(PokemonSelectingItemNonBattle.java:72) ~[SimpleTMs-neoforge-2.0.0.jar%23416!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.api.callback.PartySelectCallbacks.createFromPokemon$lambda$8(PartySelectCallbacks.java:89) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.neoforge.net.NeoForgePacketInfo.registerToServer$lambda$1(NeoForgePacketInfo.kt:43) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23281!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:60) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 14 more
+[04Feb2025 01:33:18.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 01:33:46.960] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[04Feb2025 01:33:46.964] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:33:46.973] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[04Feb2025 01:34:17.026] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:34:17.028] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:34:17.031] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 01:34:47.059] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[04Feb2025 01:34:47.062] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:34:47.072] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[04Feb2025 01:35:17.109] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Feb2025 01:35:17.111] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:35:17.117] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Feb2025 01:35:47.159] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Feb2025 01:35:47.161] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:35:47.169] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Feb2025 01:36:13.572] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.util.concurrent.CompletionException: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves.BenchedMoves.add(com.cobblemon.mod.common.api.moves.BenchedMove)'
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves.BenchedMoves.add(com.cobblemon.mod.common.api.moves.BenchedMove)'
+	at TRANSFORMER/simpletms@2.0.0/dragomordor.simpletms.item.custom.MoveLearnItem.applyToPokemon(MoveLearnItem.java:97) ~[SimpleTMs-neoforge-2.0.0.jar%23416!/:?]
+	at TRANSFORMER/simpletms@2.0.0/dragomordor.simpletms.item.api.PokemonSelectingItemNonBattle$DefaultImpls.interactGeneral$lambda$4(PokemonSelectingItemNonBattle.java:72) ~[SimpleTMs-neoforge-2.0.0.jar%23416!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.api.callback.PartySelectCallbacks.createFromPokemon$lambda$8(PartySelectCallbacks.java:89) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.neoforge.net.NeoForgePacketInfo.registerToServer$lambda$1(NeoForgePacketInfo.kt:43) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23281!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:60) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 14 more
+[04Feb2025 01:36:13.575] [Server thread/ERROR] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Failed to process a synchronized task of the payload: cobblemon:party_pokemon_selected
+java.util.concurrent.CompletionException: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves.BenchedMoves.add(com.cobblemon.mod.common.api.moves.BenchedMove)'
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves.BenchedMoves.add(com.cobblemon.mod.common.api.moves.BenchedMove)'
+	at TRANSFORMER/simpletms@2.0.0/dragomordor.simpletms.item.custom.MoveLearnItem.applyToPokemon(MoveLearnItem.java:97) ~[SimpleTMs-neoforge-2.0.0.jar%23416!/:?]
+	at TRANSFORMER/simpletms@2.0.0/dragomordor.simpletms.item.api.PokemonSelectingItemNonBattle$DefaultImpls.interactGeneral$lambda$4(PokemonSelectingItemNonBattle.java:72) ~[SimpleTMs-neoforge-2.0.0.jar%23416!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.api.callback.PartySelectCallbacks.createFromPokemon$lambda$8(PartySelectCallbacks.java:89) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/cobblemon@1.6.1+1.21.1/com.cobblemon.mod.neoforge.net.NeoForgePacketInfo.registerToServer$lambda$1(NeoForgePacketInfo.kt:43) ~[Cobblemon-neoforge-1.6.1+1.21.1.jar%23313!/:?]
+	at TRANSFORMER/neoforge@21.1.114/net.neoforged.neoforge.network.handling.MainThreadPayloadHandler.lambda$handle$0(MainThreadPayloadHandler.java:16) ~[neoforge-21.1.114-universal.jar%23281!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:60) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 14 more
+[04Feb2025 01:36:17.210] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Feb2025 01:36:17.212] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:36:17.220] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Feb2025 01:36:47.258] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 01:36:47.260] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 01:36:47.263] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
