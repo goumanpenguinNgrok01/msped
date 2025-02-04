@@ -1098,3 +1098,55 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:60) ~[server-1.21.1-20240808.144430-srg.jar%23280!/:?]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 14 more
+[04Feb2025 01:39:02.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 01:40:53.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[04Feb2025 01:41:03.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
+[04Feb2025 01:41:04.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
+[04Feb2025 01:41:04.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:04.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:05.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:05.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
+[04Feb2025 01:41:06.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
+[04Feb2025 01:41:06.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
+[04Feb2025 01:41:07.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:07.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:08.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:08.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:08.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:09.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:09.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:09.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:10.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:10.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:10.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:11.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:11.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:11.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:11.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:12.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:12.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zz
+[04Feb2025 01:41:12.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:24.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:25.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:26.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:27.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:29.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:30.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:30.569] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7305, l='ServerLevel[world]', x=-2096.99, y=72.25, z=-252.30] died, message: 'Unemployed was slain by Zombie'
+[04Feb2025 01:41:31.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
+[04Feb2025 01:41:32.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zzz
+[04Feb2025 01:41:33.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zzzzzzzzzzzzzzzzzzz
+[04Feb2025 01:41:37.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> zzzzzzzzzzzzzzzz
+[04Feb2025 01:42:13.227] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 19354937-44f6-4439-a3af-fcdc8bfe411c
+[04Feb2025 01:42:13.227] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 19354937-44f6-4439-a3af-fcdc8bfe411c
+[04Feb2025 01:42:37.554] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2761.0 75.0 814.0 minecraft:overworld
+[04Feb2025 01:42:52.633] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2706.0 78.0 846.0 minecraft:overworld
+[04Feb2025 01:43:53.807] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2668.0 77.0 914.0 minecraft:overworld
+[04Feb2025 01:44:16.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 has made the advancement [The Root of Basic Healing]
+[04Feb2025 01:45:12.050] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2046.0 96.0 580.0 minecraft:overworld
+[04Feb2025 01:45:14.742] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2125.0 104.0 772.0 minecraft:overworld
+[04Feb2025 01:45:26.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 01:45:30.838] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2043, y=-38, z=1030}
+[04Feb2025 01:45:30.839] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2043, y=-38, z=1031}
+[04Feb2025 01:45:55.023] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2596.0 81.0 929.0 minecraft:overworld
+[04Feb2025 01:45:58.178] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2562.0 85.0 925.0 minecraft:overworld
