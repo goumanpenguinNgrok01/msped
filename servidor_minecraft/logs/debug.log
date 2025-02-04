@@ -10558,3 +10558,73 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Feb2025 00:32:40.085] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [04Feb2025 00:32:40.085] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [04Feb2025 00:32:40.085] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 00:33:10.136] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 00:33:10.137] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:33:10.137] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 00:33:40.186] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 00:33:40.186] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:33:40.186] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 00:34:10.235] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 00:34:10.236] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:34:10.241] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 00:34:36.404] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Feb2025 00:34:40.286] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 00:34:40.287] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:34:40.294] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 00:35:10.335] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 00:35:10.336] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:35:10.342] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 00:35:40.386] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 00:35:40.387] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:35:40.392] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 00:36:10.435] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 00:36:10.436] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:36:10.436] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 00:36:40.486] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 00:36:40.487] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:36:40.487] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 00:37:10.535] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 00:37:10.535] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:37:10.535] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 00:37:40.585] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 00:37:40.585] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:37:40.585] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 00:38:10.635] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 00:38:10.636] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:38:10.642] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 00:38:40.686] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 00:38:40.687] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:38:40.690] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 00:39:10.736] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 00:39:10.737] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:39:10.742] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 00:39:28.506] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 75ff5162-6e87-4baf-b29f-ff03ae9b0d58
+[04Feb2025 00:39:28.507] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 75ff5162-6e87-4baf-b29f-ff03ae9b0d58
+[04Feb2025 00:39:36.346] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[04Feb2025 00:39:40.787] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 00:39:40.788] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:39:40.796] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 00:40:10.836] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 00:40:10.836] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:40:10.836] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 00:40:40.886] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 00:40:40.886] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:40:40.886] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 00:41:10.935] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Feb2025 00:41:10.935] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:41:10.935] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Feb2025 00:41:40.986] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 00:41:40.988] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:41:40.992] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 00:42:11.035] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 00:42:11.036] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:42:11.043] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 00:42:41.086] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Feb2025 00:42:41.086] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Feb2025 00:42:41.090] [pool-9-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Feb2025 00:42:50.235] [Server thread/DEBUG] [mixin/]: Mixing BagItemInstructionMixin from rctapi.mixins.json into com.cobblemon.mod.common.battles.interpreter.instructions.BagItemInstruction
+[04Feb2025 00:42:50.236] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$injectInvoke$1(Lcom/gitlab/srcmc/rctapi/api/battle/BattleState;)Z to md417f16$rctapi$lambda$injectInvoke$1$0 in rctapi.mixins.json:BagItemInstructionMixin from mod rctapi
+[04Feb2025 00:42:50.237] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$injectInvoke$0(Lcom/cobblemon/mod/common/api/battles/model/PokemonBattle;Ljava/util/Map$Entry;)Lcom/gitlab/srcmc/rctapi/api/battle/BattleState; to md417f16$rctapi$lambda$injectInvoke$0$1 in rctapi.mixins.json:BagItemInstructionMixin from mod rctapi
+[04Feb2025 00:42:50.263] [Server thread/DEBUG] [mixin/]: rctapi.mixins.json:BagItemInstructionMixin from mod rctapi->@Inject::injectInvoke(Lcom/cobblemon/mod/common/api/battles/model/PokemonBattle;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[04Feb2025 00:43:04.328] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2dedb848-8d6d-408c-b7cc-ec744f3120da
+[04Feb2025 00:43:04.329] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2dedb848-8d6d-408c-b7cc-ec744f3120da

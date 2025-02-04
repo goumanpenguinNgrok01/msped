@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 167,
+    "totalBattleVictoryCount": 168,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 167,
+    "totalPvWBattleVictoryCount": 168,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 2,
@@ -116,7 +116,7 @@
       "cobblemon:tangela": 1,
       "cobblemon:rapidash": 1,
       "cobblemon:meowth": 1,
-      "cobblemon:torkoal": 1
+      "cobblemon:torkoal": 2
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [
