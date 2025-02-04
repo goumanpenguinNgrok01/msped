@@ -30,3 +30,10 @@
 [04Feb2025 00:39:28.507] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 75ff5162-6e87-4baf-b29f-ff03ae9b0d58
 [04Feb2025 00:43:04.328] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2dedb848-8d6d-408c-b7cc-ec744f3120da
 [04Feb2025 00:43:04.329] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2dedb848-8d6d-408c-b7cc-ec744f3120da
+[04Feb2025 00:47:13.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 00:47:23.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 00:52:43.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N has made the advancement [The Root of Basic Healing]
+[04Feb2025 01:01:56.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 01:02:05.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 01:02:14.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
+[04Feb2025 01:03:25.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N moved wrongly!
