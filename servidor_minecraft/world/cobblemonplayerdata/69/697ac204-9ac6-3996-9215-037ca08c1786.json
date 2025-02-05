@@ -11,13 +11,13 @@
     "totalCaptureCount": 22,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 7,
-    "totalBattleVictoryCount": 194,
+    "totalEvolvedCount": 8,
+    "totalBattleVictoryCount": 196,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 194,
+    "totalPvWBattleVictoryCount": 196,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
-    "totalTradedCount": 2,
+    "totalTradedCount": 3,
     "totalTypeCaptureCounts": {
       "ground": 2,
       "rock": 2,
@@ -54,7 +54,7 @@
       "cobblemon:caterpie": 3,
       "cobblemon:karrablast": 1,
       "cobblemon:bellsprout": 3,
-      "cobblemon:kecleon": 1,
+      "cobblemon:kecleon": 2,
       "cobblemon:heracross": 2,
       "cobblemon:minun": 1,
       "cobblemon:igglybuff": 2,
@@ -124,7 +124,8 @@
       "cobblemon:lunatone": 1,
       "cobblemon:squawkabilly": 1,
       "cobblemon:wugtrio": 1,
-      "cobblemon:binacle": 1
+      "cobblemon:binacle": 1,
+      "cobblemon:flamigo": 1
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [
@@ -215,6 +216,9 @@
         "male"
       ],
       "cobblemon:decidueye": [
+        "male"
+      ],
+      "cobblemon:luxio": [
         "male"
       ]
     }

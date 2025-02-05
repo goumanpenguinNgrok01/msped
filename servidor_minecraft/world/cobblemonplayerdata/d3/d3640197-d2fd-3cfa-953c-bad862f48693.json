@@ -17,7 +17,7 @@
     "totalPvWBattleVictoryCount": 160,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
-    "totalTradedCount": 2,
+    "totalTradedCount": 3,
     "totalTypeCaptureCounts": {
       "normal": 2,
       "ground": 1,
@@ -107,6 +107,10 @@
       ],
       "cobblemon:honchkrow": [
         "male"
+      ],
+      "cobblemon:butterfree": [
+        "shiny",
+        "female"
       ]
     }
   }

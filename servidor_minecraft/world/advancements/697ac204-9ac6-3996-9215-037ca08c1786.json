@@ -3273,6 +3273,7 @@
       "obtain_coba_berry": "2025-01-26 21:57:24 +0000",
       "obtain_oran_berry": "2025-01-26 20:58:09 +0000",
       "obtain_haban_berry": "2025-01-29 23:43:46 +0000",
+      "obtain_payapa_berry": "2025-02-04 03:00:09 +0000",
       "obtain_charti_berry": "2025-02-04 02:30:50 +0000",
       "obtain_tanga_berry": "2025-01-29 15:56:23 +0000",
       "obtain_persim_berry": "2025-01-26 21:51:09 +0000",
@@ -8195,45 +8196,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2025-02-04 01:27:07 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/birch_banister": {
-    "criteria": {
-      "has_item": "2025-02-04 01:44:48 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:craft_apricorn_balls": {
-    "criteria": {
-      "heavy_ball": "2025-02-04 01:27:34 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-04 01:27:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2025-02-04 01:27:07 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-02-04 01:23:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2025-02-04 01:27:07 +0000"
     },
     "done": true
   },
@@ -8249,9 +8214,33 @@
     },
     "done": true
   },
-  "cobblemon:recipes/balls/poke_ball": {
+  "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
-      "has_red_apricorn": "2025-02-04 02:25:17 +0000"
+      "has_log": "2025-02-04 01:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
     },
     "done": true
   },
@@ -8273,6 +8262,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-02-04 01:27:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "heavy_ball": "2025-02-04 01:27:34 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/misc/heavy_rod": {
+    "criteria": {
+      "has_ball": "2025-02-04 01:27:34 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-02-04 01:44:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-02-04 01:44:48 +0000"
@@ -8285,35 +8304,29 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/poke_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-02-04 02:25:17 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
     "criteria": {
       "has_apricorn": "2025-02-04 02:25:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
+  "betterdungeons:zombie_dungeon": {
     "criteria": {
-      "has_planks": "2025-02-04 01:27:07 +0000"
+      "in_better_zombie_dungeon": "2025-02-04 03:04:40 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/misc/heavy_rod": {
+  "betterdungeons:all_dungeons": {
     "criteria": {
-      "has_ball": "2025-02-04 01:27:34 +0000"
+      "in_better_zombie_dungeon": "2025-02-04 03:04:40 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2025-02-04 01:27:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2025-02-04 01:26:41 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3955
 }
