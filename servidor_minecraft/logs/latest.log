@@ -986,3 +986,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Feb2025 22:43:10.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
 [05Feb2025 22:43:10.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J4O3> z
 [05Feb2025 22:43:27.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported G4R3N to J4O3]
+[05Feb2025 22:50:15.000] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Mother Oxbob the Doominator'/6287, l='ServerLevel[world]', x=-746.72, y=27.00, z=134.47] died: Mother Oxbob the Doominator was slain by G4R3N
