@@ -2861,11 +2861,13 @@
       "spider_nest": "2025-01-27 03:20:36 +0000",
       "woodland": "2025-01-26 21:56:06 +0000",
       "dryland": "2025-01-27 05:08:07 +0000",
+      "wasteland": "2025-02-05 23:48:51 +0000",
       "shrubland": "2025-01-27 04:25:03 +0000",
       "rocky_shrubland": "2025-01-27 04:27:53 +0000",
       "lush_desert": "2025-02-04 01:53:11 +0000",
       "redwood_forest": "2025-01-26 21:18:09 +0000",
       "scrubland": "2025-01-26 21:55:32 +0000",
+      "wasteland_steppe": "2025-02-05 23:48:52 +0000",
       "fungal_jungle": "2025-01-29 14:39:34 +0000",
       "dune_beach": "2025-01-26 21:53:05 +0000",
       "floodplain": "2025-01-27 02:26:21 +0000",
@@ -8339,6 +8341,12 @@
   "occultism:recipes/crushing/crushing/lead_dust_from_raw": {
     "criteria": {
       "has_raw_lead": "2025-02-05 22:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-05 23:40:21 +0000"
     },
     "done": true
   },

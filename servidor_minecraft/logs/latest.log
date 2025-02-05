@@ -1714,3 +1714,37 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [05Feb2025 23:35:32.802] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2279.0 153.0 1390.0 minecraft:overworld
 [05Feb2025 23:36:46.414] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2273.0 148.0 1390.0 minecraft:overworld
 [05Feb2025 23:37:23.176] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2080.0 100.0 1274.0 minecraft:overworld
+[05Feb2025 23:39:15.051] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f4bd016b-ac3c-4dd0-b755-7bdd23d31400
+[05Feb2025 23:39:15.052] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f4bd016b-ac3c-4dd0-b755-7bdd23d31400
+[05Feb2025 23:39:52.403] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2236.0 93.0 1516.0 minecraft:overworld
+[05Feb2025 23:43:32.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 was slain by Squawkabilly
+[05Feb2025 23:43:32.530] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[05Feb2025 23:44:02.011] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2045.5 101.0 1293.5 minecraft:overworld
+[05Feb2025 23:44:54.511] [Server thread/INFO] [fightorflight/]: 1221
+[05Feb2025 23:47:11.107] [Server thread/INFO] [journeymap/]: G4R3N teleported to -2021.0 93.0 1700.0 minecraft:overworld
+[05Feb2025 23:47:26.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported G4R3N to -1884.500000, 110.000000, 1296.500000]
+[05Feb2025 23:47:31.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[05Feb2025 23:47:31.975] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1688, y=-6, z=1093}
+[05Feb2025 23:48:19.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported J4O3 to G4R3N]
+[05Feb2025 23:50:04.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4O3 lost connection: Disconnected
+[05Feb2025 23:50:04.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 left the game
+[05Feb2025 23:52:05.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [G4R3N: Teleported 228 entities to G4R3N]
+[05Feb2025 23:52:06.684] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/31531, l='ServerLevel[world]', x=-1953.27, y=112.00, z=1317.61] died, message: 'Leatherworker hit the ground too hard'
+[05Feb2025 23:52:06.715] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/31532, l='ServerLevel[world]', x=-1951.83, y=111.00, z=1317.66] died, message: 'Leatherworker hit the ground too hard'
+[05Feb2025 23:52:06.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/31533, l='ServerLevel[world]', x=-1950.29, y=111.00, z=1317.72] died, message: 'Butcher hit the ground too hard'
+[05Feb2025 23:52:06.945] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28763, l='ServerLevel[world]', x=-1895.55, y=103.00, z=1295.61] died, message: 'Unemployed hit the ground too hard'
+[05Feb2025 23:52:07.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/31534, l='ServerLevel[world]', x=-1942.00, y=82.00, z=1303.30] died, message: 'Cartographer hit the ground too hard'
+[05Feb2025 23:52:21.015] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31304, l='ServerLevel[world]', x=-1973.38, y=117.00, z=1311.70] died, message: 'Unemployed was slain by Zombie'
+[05Feb2025 23:53:17.850] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1885.0 112.0 1361.0 minecraft:overworld
+[05Feb2025 23:53:18.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! -40.56506947869002,-19.288409539980805,-61.83611154148457
+[05Feb2025 23:53:18.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! -40.56506947869002,-19.288409539980805,-61.83611154148457
+[05Feb2025 23:53:20.647] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1964.0 165.0 1378.0 minecraft:overworld
+[05Feb2025 23:53:22.048] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1952.0 158.0 1367.0 minecraft:overworld
+[05Feb2025 23:53:23.999] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1979.0 174.0 1363.0 minecraft:overworld
+[05Feb2025 23:53:25.535] [Server thread/INFO] [journeymap/]: G4R3N teleported to -1968.0 128.0 1321.0 minecraft:overworld
+[05Feb2025 23:53:25.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 84.0,-17.0,42.0
+[05Feb2025 23:53:25.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 84.0,-17.0,42.0
+[05Feb2025 23:53:25.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 84.0,-17.0,42.0
+[05Feb2025 23:53:25.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of G4R3N) moved too quickly! 84.0,-17.0,42.0
+[05Feb2025 23:53:35.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
+[05Feb2025 23:53:35.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
