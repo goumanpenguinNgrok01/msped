@@ -11,10 +11,10 @@
     "totalCaptureCount": 22,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 8,
-    "totalBattleVictoryCount": 196,
+    "totalEvolvedCount": 10,
+    "totalBattleVictoryCount": 201,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 196,
+    "totalPvWBattleVictoryCount": 201,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 3,
@@ -34,7 +34,7 @@
       "flying": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:combee": 8,
+      "cobblemon:combee": 9,
       "cobblemon:vivillon": 2,
       "cobblemon:lechonk": 4,
       "cobblemon:slakoth": 2,
@@ -101,7 +101,7 @@
       "cobblemon:slugma": 1,
       "cobblemon:gastly": 1,
       "cobblemon:lickitung": 2,
-      "cobblemon:mankey": 1,
+      "cobblemon:mankey": 2,
       "cobblemon:woobat": 1,
       "cobblemon:fomantis": 1,
       "cobblemon:miltank": 4,
@@ -125,7 +125,10 @@
       "cobblemon:squawkabilly": 1,
       "cobblemon:wugtrio": 1,
       "cobblemon:binacle": 1,
-      "cobblemon:flamigo": 1
+      "cobblemon:flamigo": 1,
+      "cobblemon:klink": 1,
+      "cobblemon:diggersby": 1,
+      "cobblemon:weezing": 1
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [
@@ -219,6 +222,12 @@
         "male"
       ],
       "cobblemon:luxio": [
+        "male"
+      ],
+      "cobblemon:luxray": [
+        "male"
+      ],
+      "cobblemon:rhydon": [
         "male"
       ]
     }

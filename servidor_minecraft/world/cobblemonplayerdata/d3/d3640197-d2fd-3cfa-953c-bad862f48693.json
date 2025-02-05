@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 162,
+    "totalBattleVictoryCount": 168,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 161,
+    "totalPvWBattleVictoryCount": 167,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 3,
@@ -65,7 +65,7 @@
       "cobblemon:rapidash": 1,
       "cobblemon:phanpy": 1,
       "cobblemon:ponyta": 1,
-      "cobblemon:oddish": 1,
+      "cobblemon:oddish": 2,
       "cobblemon:gastly": 4,
       "cobblemon:haunter": 1,
       "cobblemon:pidgeotto": 1,
@@ -80,7 +80,12 @@
       "cobblemon:pachirisu": 2,
       "cobblemon:sawsbuck": 1,
       "cobblemon:aipom": 1,
-      "cobblemon:rattata": 1
+      "cobblemon:rattata": 1,
+      "cobblemon:ninjask": 1,
+      "cobblemon:snubbull": 1,
+      "cobblemon:persian": 1,
+      "cobblemon:kingler": 1,
+      "cobblemon:tauros": 1
     },
     "aspectsCollected": {
       "cobblemon:wooloo": [

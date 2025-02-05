@@ -3712,6 +3712,7 @@
       "minecraft:meadow": "2025-02-01 02:46:26 +0000",
       "minecraft:birch_forest": "2025-01-30 00:09:34 +0000",
       "minecraft:savanna": "2025-01-30 01:41:12 +0000",
+      "minecraft:bamboo_jungle": "2025-02-05 23:11:41 +0000",
       "minecraft:plains": "2025-01-30 01:39:57 +0000"
     },
     "done": false
@@ -5371,7 +5372,8 @@
     "criteria": {
       "common_helm": "2025-02-04 01:37:52 +0000",
       "common_hand": "2025-01-29 23:19:30 +0000",
-      "common_chest": "2025-01-29 23:19:42 +0000"
+      "common_chest": "2025-01-29 23:19:42 +0000",
+      "common_feet": "2025-02-05 23:21:52 +0000"
     },
     "done": false
   },
@@ -5386,7 +5388,8 @@
       "uncommon_chest": "2025-01-29 23:19:42 +0000",
       "kill_apothic_invader": "2025-02-01 00:38:30 +0000",
       "uncommon_hand": "2025-02-04 01:37:51 +0000",
-      "uncommon_helm": "2025-02-04 01:37:52 +0000"
+      "uncommon_helm": "2025-02-04 01:37:52 +0000",
+      "uncommon_feet": "2025-02-05 23:21:52 +0000"
     },
     "done": false
   },
@@ -6683,6 +6686,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-02-05 22:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-05 22:55:47 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-02-05 22:47:32 +0000"
@@ -6692,6 +6707,30 @@
   "cobblemon:recipes/held/amulet_coin": {
     "criteria": {
       "is_rich": "2025-02-05 22:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-05 22:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-02-05 22:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-05 22:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-02-05 22:55:47 +0000"
     },
     "done": true
   },
@@ -6707,15 +6746,81 @@
     },
     "done": true
   },
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
+    "criteria": {
+      "has_waystone": "2025-02-05 23:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-02-05 22:55:47 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/mossy_waystone_from_moss_blocks": {
+    "criteria": {
+      "has_waystone": "2025-02-05 23:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-05 22:55:47 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2025-02-05 23:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-05 22:55:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-02-05 22:51:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-05 23:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-05 22:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-05 23:12:00 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_impact_hammer": {
     "criteria": {
       "has_material": "2025-02-05 22:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-05 23:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-02-05 22:55:47 +0000"
     },
     "done": true
   },
