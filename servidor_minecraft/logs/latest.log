@@ -14,3 +14,16 @@
 [06Feb2025 00:37:06.691] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1934.5 18.0 1331.5 minecraft:overworld
 [06Feb2025 00:37:45.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [J4O3: Set own game mode to Creative Mode]
 [06Feb2025 00:38:17.894] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1934.5 18.0 1331.5 minecraft:overworld
+[06Feb2025 00:38:50.102] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1918.5 54.0 1347.5 minecraft:overworld
+[06Feb2025 00:39:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [J4O3: Set own game mode to Survival Mode]
+[06Feb2025 00:40:21.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 fell from a high place
+[06Feb2025 00:40:21.052] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[06Feb2025 00:40:35.964] [Server thread/INFO] [journeymap/]: J4O3 teleported to -2650.5 27.0 1031.5 minecraft:overworld
+[06Feb2025 00:40:47.040] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1934.5 18.0 1331.5 minecraft:overworld
+[06Feb2025 00:40:51.109] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1934.5 18.0 1331.5 minecraft:overworld
+[06Feb2025 00:40:54.682] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1918.5 54.0 1347.5 minecraft:overworld
+[06Feb2025 00:40:59.817] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1933.5 90.0 1336.5 minecraft:overworld
+[06Feb2025 00:41:52.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 fell from a high place
+[06Feb2025 00:41:52.856] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[06Feb2025 00:42:44.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4O3 lost connection: Disconnected
+[06Feb2025 00:42:44.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 left the game

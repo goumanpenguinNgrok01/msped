@@ -3699,6 +3699,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-02-06 00:39:10 +0000",
       "minecraft:savanna_plateau": "2025-02-04 01:26:07 +0000",
       "minecraft:snowy_slopes": "2025-01-30 01:42:50 +0000",
       "minecraft:beach": "2025-01-30 01:26:29 +0000",
