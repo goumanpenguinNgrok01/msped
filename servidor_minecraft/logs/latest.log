@@ -27,3 +27,66 @@
 [06Feb2025 00:41:52.856] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
 [06Feb2025 00:42:44.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J4O3 lost connection: Disconnected
 [06Feb2025 00:42:44.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 left the game
+[06Feb2025 01:52:21.981] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 01:52:21.999] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=172, hostName=, port=168, intention=TRANSFER]"
+[06Feb2025 01:52:22.000] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 14 extra bytes: 
+[06Feb2025 01:52:22.002] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[3, 101, -126, -98, -83, 71, 17, -51, -31, 93, -49, -57, -34, -67]"
+]
+[06Feb2025 01:55:18.011] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 01:55:18.012] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=0, hostName=, port=0, intention=STATUS]"
+[06Feb2025 01:55:18.012] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 112 extra bytes: 
+[06Feb2025 01:55:18.012] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 0, 0, 1, -1, -1, 0, 1, 110, 111, 110, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 112, 112, 97, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+]
+[06Feb2025 01:56:56.692] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 01:56:56.692] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=2, hostName=, port=64, intention=LOGIN]"
+[06Feb2025 01:56:56.693] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 46 extra bytes: 
+[06Feb2025 01:56:56.693] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[15, 0, 1, 0, 61, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 64, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+]
+[06Feb2025 01:57:08.738] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 01:57:08.739] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=0, hostName=, port=256, intention=TRANSFER]"
+[06Feb2025 01:57:08.739] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 12 extra bytes: 
+[06Feb2025 01:57:08.740] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, -16, -16, -16, -16, 11, 0, 4, 0, 28, 0, 3]"
+]
+[06Feb2025 01:57:38.529] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 01:57:38.529] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=1, hostName=, port=4, intention=STATUS]"
+[06Feb2025 01:57:38.530] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 75 extra bytes: 
+[06Feb2025 01:57:38.530] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[1, 0, 5, 0, 29, 0, -120, 0, 0, 0, 1, 0, 0, -128, 0, 0, 0, 1, 9, 0, 0, 0, 1, 0, 0, 64, 0, 0, 0, 1, 9, 0, 0, 0, 1, 0, 0, 64, 0, 0, 0, 1, 8, 0, 0, 0, 4, 0, 0, 64, 0, 0, 0, 1, 4, 0, 0, 0, 1, 0, 0, 64, 0, 0, 0, 64, 4, 0, 0, 0, 0, 0, 64, 0, 4]"
+]
+[06Feb2025 01:57:38.531] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 01:57:38.531] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=0, hostName=\u0000\u0000@\u0000, port=0, intention=STATUS]"
+[06Feb2025 01:57:38.531] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 57 extra bytes: 
+[06Feb2025 01:57:38.531] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[16, 0, 0, 0, 1, 0, 0, -128, 0, 0, 0, 1, 16, 0, 0, 0, 1, 0, 0, -128, 0, 0, 0, 1, 4, 0, 0, 0, 4, 0, 0, 64, 0, 0, 0, 1, 9, 0, 0, 0, 1, 0, 0, 64, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -128, 0, 0]"
+]
+[06Feb2025 01:57:38.532] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:net.minecraft.network.protocol.handshake.ClientIntentionPacket  id serverbound/minecraft:intention larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Feb2025 01:57:38.532] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+"ClientIntentionPacket[protocolVersion=0, hostName=\u0000, port=0, intention=STATUS]"
+[06Feb2025 01:57:38.532] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:io.netty.buffer.PooledUnsafeDirectByteBuf  id serverbound/minecraft:intention data of 10 extra bytes: 
+[06Feb2025 01:57:38.533] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 0, -128, 0, 0, 4, 0, 0, -128, 0]"
+]
