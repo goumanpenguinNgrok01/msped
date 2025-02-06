@@ -12,9 +12,9 @@
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 10,
-    "totalBattleVictoryCount": 206,
+    "totalBattleVictoryCount": 207,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 206,
+    "totalPvWBattleVictoryCount": 207,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 3,
@@ -128,7 +128,8 @@
       "cobblemon:flamigo": 1,
       "cobblemon:klink": 1,
       "cobblemon:diggersby": 1,
-      "cobblemon:weezing": 1
+      "cobblemon:weezing": 1,
+      "cobblemon:hippopotas": 1
     },
     "aspectsCollected": {
       "cobblemon:rhyhorn": [

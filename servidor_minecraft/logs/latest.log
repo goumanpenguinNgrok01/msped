@@ -1,2 +1,16 @@
 [06Feb2025 00:26:15.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: G4R3N[/127.114.100.16:42179] logged in with entity id 32207 at (-1964.272730075907, 129.0, 1322.5500050119208)
 [06Feb2025 00:26:15.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N joined the game
+[06Feb2025 00:32:19.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N was slain by Veluza
+[06Feb2025 00:32:19.761] [Server thread/INFO] [tombstone/]: The player G4R3N has successfully been saved
+[06Feb2025 00:32:25.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: G4R3N lost connection: Disconnected
+[06Feb2025 00:32:25.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: G4R3N left the game
+[06Feb2025 00:32:39.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J4O3[/127.114.100.16:44089] logged in with entity id 34178 at (-1936.9033518933697, 89.98597238091054, 1331.71158791916)
+[06Feb2025 00:32:39.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 joined the game
+[06Feb2025 00:33:02.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 fell from a high place
+[06Feb2025 00:33:02.561] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[06Feb2025 00:33:57.014] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1934.5 18.0 1331.5 minecraft:overworld
+[06Feb2025 00:36:32.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J4O3 fell from a high place
+[06Feb2025 00:36:32.904] [Server thread/INFO] [tombstone/]: The player J4O3 has successfully been saved
+[06Feb2025 00:37:06.691] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1934.5 18.0 1331.5 minecraft:overworld
+[06Feb2025 00:37:45.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [J4O3: Set own game mode to Creative Mode]
+[06Feb2025 00:38:17.894] [Server thread/INFO] [journeymap/]: J4O3 teleported to -1934.5 18.0 1331.5 minecraft:overworld
