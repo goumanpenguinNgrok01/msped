@@ -11748,3 +11748,65 @@ Caused by: java.lang.NoSuchMethodError: 'void com.cobblemon.mod.common.api.moves
 [06Feb2025 00:08:33.538] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [06Feb2025 00:08:33.538] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [06Feb2025 00:08:33.538] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:09:03.587] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:09:03.588] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:09:03.588] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:09:33.638] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:09:33.638] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:09:33.638] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:10:03.687] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:10:03.687] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:10:03.687] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:10:33.738] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:10:33.738] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:10:33.738] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:11:03.787] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:11:03.787] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:11:03.787] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:11:33.837] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:11:33.837] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:11:33.837] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:12:03.887] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:12:03.887] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:12:03.887] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:12:24.441] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Feb2025 00:12:33.939] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:12:33.939] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:12:33.939] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:13:03.988] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:13:03.988] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:13:03.988] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:13:34.038] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:13:34.038] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:13:34.038] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:14:04.088] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:14:04.088] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:14:04.088] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:14:34.139] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:14:34.139] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:14:34.139] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:15:04.189] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:15:04.189] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:15:04.189] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:15:34.238] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:15:34.238] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:15:34.239] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:16:04.287] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:16:04.287] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:16:04.287] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:16:34.337] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:16:34.337] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:16:34.337] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:17:04.387] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:17:04.387] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:17:04.387] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:17:24.440] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[06Feb2025 00:17:34.437] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:17:34.437] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:17:34.437] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:18:04.488] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:18:04.488] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:18:04.488] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Feb2025 00:18:34.538] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Feb2025 00:18:34.538] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Feb2025 00:18:34.538] [pool-11-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
